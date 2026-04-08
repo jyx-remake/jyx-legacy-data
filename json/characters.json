@@ -1,8 +1,8 @@
 {
-  "schema": "jyx-legacy.roles.v1",
+  "schema": "jyx-legacy.characters.v1",
   "source": "roles.xml",
   "count": 513,
-  "roles": [
+  "characters": [
     {
       "id": "主角",
       "name": "小虾米",

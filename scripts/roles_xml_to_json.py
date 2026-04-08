@@ -26,6 +26,7 @@ INT_ATTRIBUTE_MAP: dict[str, str] = {
 def parse_args() -> argparse.Namespace:
     script_path = Path(__file__).resolve()
     repo_root = script_path.parent.parent
+    output_dir = repo_root / "json"
     parser = argparse.ArgumentParser(
         description="Convert jyx legacy roles.xml into a typed JSON file."
     )
@@ -38,8 +39,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "output",
         nargs="?",
-        default=str(repo_root / "roles.json"),
-        help="Path to output roles.json",
+        default=str(output_dir / "characters.json"),
+        help="Path to output characters.json",
     )
     return parser.parse_args()
 
@@ -157,12 +158,12 @@ def build_role(role: ET.Element) -> dict[str, object]:
 
 def convert_roles(input_path: Path) -> dict[str, object]:
     root = ET.parse(input_path).getroot()
-    roles = [build_role(role) for role in root.findall("role")]
+    characters = [build_role(role) for role in root.findall("role")]
     return {
-        "schema": "jyx-legacy.roles.v1",
+        "schema": "jyx-legacy.characters.v1",
         "source": input_path.name,
-        "count": len(roles),
-        "roles": roles,
+        "count": len(characters),
+        "characters": characters,
     }
 
 
@@ -172,6 +173,7 @@ def main() -> None:
     output_path = Path(args.output).resolve()
 
     payload = convert_roles(input_path)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(
         json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
