@@ -1,0 +1,688 @@
+{
+  "schema": "jyx-legacy.special-skills.v2",
+  "source": "special_skills.xml",
+  "count": 27,
+  "specialSkills": [
+    {
+      "id": "华佗再世",
+      "name": "华佗再世",
+      "description": "治疗一个角色，治疗血量受自身的根骨与福缘加成。",
+      "icon": "icon_teji_001",
+      "cooldown": 1,
+      "cost": {
+        "mp": 200,
+        "rage": 0
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 10,
+        "impactType": 0,
+        "impactSize": 1
+      },
+      "animation": "guanghuan_yellow3",
+      "audio": "音效.恢复类物品",
+      "buffs": []
+    },
+    {
+      "id": "一刀两断",
+      "name": "一刀两断",
+      "description": "威力无匹的攻击，一定几率减对方一半气血",
+      "icon": "icon_teji_002",
+      "cooldown": 5,
+      "cost": {
+        "mp": 400,
+        "rage": 3
+      },
+      "targeting": {
+        "canTargetSelf": false,
+        "castType": null,
+        "castSize": 1,
+        "impactType": 3,
+        "impactSize": 10
+      },
+      "animation": "jian_zhan",
+      "audio": "音效.利器4",
+      "buffs": []
+    },
+    {
+      "id": "沉鱼落雁",
+      "name": "沉鱼落雁",
+      "description": "美人顾盼，消除对方的怒气",
+      "icon": "icon_teji_003",
+      "cooldown": 4,
+      "cost": {
+        "mp": 100,
+        "rage": 1
+      },
+      "targeting": {
+        "canTargetSelf": false,
+        "castType": null,
+        "castSize": 3,
+        "impactType": 4,
+        "impactSize": 5
+      },
+      "animation": "guanghuan_bianfu",
+      "audio": "音效.恢复类物品",
+      "buffs": []
+    },
+    {
+      "id": "打鸡血",
+      "name": "打鸡血",
+      "description": "通过自我激励，增加自身怒气值和攻击力",
+      "icon": "icon_teji_004",
+      "cooldown": 4,
+      "cost": {
+        "mp": 100,
+        "rage": 0
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 0,
+        "impactType": 0,
+        "impactSize": 0
+      },
+      "animation": "test",
+      "audio": "音效.恢复类物品",
+      "buffs": [
+        {
+          "id": "攻击强化",
+          "level": 3,
+          "duration": 5,
+          "chance": 100
+        }
+      ]
+    },
+    {
+      "id": "诗酒飘零",
+      "name": "诗酒飘零",
+      "description": "进入醉酒模式，攻击变得不可理喻",
+      "icon": "icon_teji_005",
+      "cooldown": 2,
+      "cost": {
+        "mp": 300,
+        "rage": 2
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 0,
+        "impactType": 0,
+        "impactSize": 0
+      },
+      "animation": "guanghuan_yellow",
+      "audio": "音效.恢复类物品",
+      "buffs": [
+        {
+          "id": "醉酒",
+          "level": 0,
+          "duration": 3,
+          "chance": 100
+        }
+      ]
+    },
+    {
+      "id": "凌波微步",
+      "name": "凌波微步",
+      "description": "使身形变得飘忽不可见",
+      "icon": "icon_teji_006",
+      "cooldown": 10,
+      "cost": {
+        "mp": 250,
+        "rage": 3
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 0,
+        "impactType": 0,
+        "impactSize": 0
+      },
+      "animation": "guanghuan_blue2",
+      "audio": "音效.恢复类物品",
+      "buffs": [
+        {
+          "id": "飘渺",
+          "level": 8,
+          "duration": 3,
+          "chance": 100
+        },
+        {
+          "id": "神行",
+          "level": 1,
+          "duration": 3,
+          "chance": 100
+        }
+      ]
+    },
+    {
+      "id": "雪遁步行",
+      "name": "雪遁步行",
+      "description": "血刀门的身法技能，可以增加自身闪避及集气速度。",
+      "icon": "icon_teji_007",
+      "cooldown": 12,
+      "cost": {
+        "mp": 100,
+        "rage": 1
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 0,
+        "impactType": 0,
+        "impactSize": 0
+      },
+      "animation": "guanghuan_yellow3",
+      "audio": "音效.恢复类物品",
+      "buffs": [
+        {
+          "id": "飘渺",
+          "level": 3,
+          "duration": 5,
+          "chance": 100
+        },
+        {
+          "id": "神行",
+          "level": 1,
+          "duration": 2,
+          "chance": 100
+        }
+      ]
+    },
+    {
+      "id": "同归剑法",
+      "name": "同归剑法",
+      "description": "全真教绝技，对自己同时造成1000点真实伤害，对敌人造成更大伤害",
+      "icon": "icon_teji_008",
+      "cooldown": 6,
+      "cost": {
+        "mp": 250,
+        "rage": 1
+      },
+      "targeting": {
+        "canTargetSelf": false,
+        "castType": null,
+        "castSize": 1,
+        "impactType": 0,
+        "impactSize": 1
+      },
+      "animation": "huozhu_jin",
+      "audio": "音效.利器4",
+      "buffs": []
+    },
+    {
+      "id": "天地同寿",
+      "name": "天地同寿",
+      "description": "以死亡和减少10点生命上限为代价，予以与自身残余气血相关的极大伤害。",
+      "icon": "icon_teji_009",
+      "cooldown": 1,
+      "cost": {
+        "mp": 0,
+        "rage": 0
+      },
+      "targeting": {
+        "canTargetSelf": false,
+        "castType": null,
+        "castSize": 1,
+        "impactType": 0,
+        "impactSize": 1
+      },
+      "animation": "huozhu_jin",
+      "audio": "音效.利器4",
+      "buffs": []
+    },
+    {
+      "id": "笑傲江湖曲",
+      "name": "笑傲江湖曲",
+      "description": "一曲笑傲惊天下，增强我方全体攻击力",
+      "icon": "icon_teji_010",
+      "cooldown": 5,
+      "cost": {
+        "mp": 500,
+        "rage": 2
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 0,
+        "impactType": 0,
+        "impactSize": 0
+      },
+      "animation": "guanghuan_orange",
+      "audio": "音效.恢复类物品",
+      "buffs": []
+    },
+    {
+      "id": "襄儿的心愿",
+      "name": "襄儿的心愿",
+      "description": "襄儿的心愿，就是随时可以召唤大哥哥保护自己！对敌人造成随机真实伤害。攻击上限随襄儿等级提升。",
+      "icon": "icon_teji_011",
+      "cooldown": 5,
+      "cost": {
+        "mp": 300,
+        "rage": 2
+      },
+      "targeting": {
+        "canTargetSelf": false,
+        "castType": null,
+        "castSize": 4,
+        "impactType": 1,
+        "impactSize": 1
+      },
+      "animation": "guanghuan_shengji",
+      "audio": "音效.利器4",
+      "buffs": []
+    },
+    {
+      "id": "火枪",
+      "name": "火枪",
+      "description": "韦小宝的掏出他的火枪向敌人射击，造成真实伤害（无视护甲）及重伤敌人。伤害取决于敌我“福缘”的差距。",
+      "icon": "icon_teji_012",
+      "cooldown": 2,
+      "cost": {
+        "mp": 50,
+        "rage": 0
+      },
+      "targeting": {
+        "canTargetSelf": false,
+        "castType": null,
+        "castSize": 6,
+        "impactType": 0,
+        "impactSize": 0
+      },
+      "animation": "baozha2",
+      "audio": "音效.手枪",
+      "buffs": [
+        {
+          "id": "伤害加深",
+          "level": 3,
+          "duration": 3,
+          "chance": 100
+        },
+        {
+          "id": "缓速",
+          "level": 3,
+          "duration": 3,
+          "chance": 100
+        }
+      ]
+    },
+    {
+      "id": "撒石灰",
+      "name": "撒石灰",
+      "description": "韦小宝的下三滥手段，撒出石灰粉迷住对方的眼睛",
+      "icon": "icon_teji_013",
+      "cooldown": 3,
+      "cost": {
+        "mp": 100,
+        "rage": 0
+      },
+      "targeting": {
+        "canTargetSelf": false,
+        "castType": null,
+        "castSize": 3,
+        "impactType": 1,
+        "impactSize": 0
+      },
+      "animation": "heixue",
+      "audio": "音效.暗器1",
+      "buffs": [
+        {
+          "id": "致盲",
+          "level": 10,
+          "duration": 2,
+          "chance": 100
+        }
+      ]
+    },
+    {
+      "id": "溜须拍马",
+      "name": "溜须拍马",
+      "description": "千穿万穿，马屁不穿。韦小宝的护身绝技。",
+      "icon": "icon_teji_014",
+      "cooldown": 5,
+      "cost": {
+        "mp": 0,
+        "rage": 0
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 0,
+        "impactType": 0,
+        "impactSize": 0
+      },
+      "animation": "guanghuan_yellow",
+      "audio": "音效.恢复类物品",
+      "buffs": [
+        {
+          "id": "溜须拍马",
+          "level": 0,
+          "duration": 3,
+          "chance": 100
+        }
+      ]
+    },
+    {
+      "id": "易容术",
+      "name": "易容术",
+      "description": "阿朱的易容绝技，可藏身于敌阵之中。暗中突袭，威力巨大。",
+      "icon": "icon_teji_015",
+      "cooldown": 3,
+      "cost": {
+        "mp": 100,
+        "rage": 0
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 0,
+        "impactType": 0,
+        "impactSize": 0
+      },
+      "animation": "guanghuan_yellow",
+      "audio": "音效.恢复类物品",
+      "buffs": []
+    },
+    {
+      "id": "过肩摔",
+      "name": "过肩摔",
+      "description": "将对手摔到身后并定身、麻痹，造成基于敌我定力之差的真实伤害",
+      "icon": "icon_teji_016",
+      "cooldown": 2,
+      "cost": {
+        "mp": 0,
+        "rage": 1
+      },
+      "targeting": {
+        "canTargetSelf": false,
+        "castType": null,
+        "castSize": 1,
+        "impactType": 0,
+        "impactSize": 1
+      },
+      "animation": "yuanquan",
+      "audio": "音效.闷拳",
+      "buffs": [
+        {
+          "id": "定身",
+          "level": 0,
+          "duration": 4,
+          "chance": 100
+        },
+        {
+          "id": "麻痹",
+          "level": 3,
+          "duration": 4,
+          "chance": 100
+        }
+      ]
+    },
+    {
+      "id": "神龙摆尾",
+      "name": "神龙摆尾",
+      "description": "一脚将对手踢开并定身、麻痹，造成基于移动距离的真实伤害",
+      "icon": "icon_teji_017",
+      "cooldown": 2,
+      "cost": {
+        "mp": 0,
+        "rage": 1
+      },
+      "targeting": {
+        "canTargetSelf": false,
+        "castType": null,
+        "castSize": 1,
+        "impactType": 0,
+        "impactSize": 1
+      },
+      "animation": "yuanquan",
+      "audio": "音效.闷拳",
+      "buffs": [
+        {
+          "id": "定身",
+          "level": 0,
+          "duration": 4,
+          "chance": 100
+        },
+        {
+          "id": "麻痹",
+          "level": 3,
+          "duration": 4,
+          "chance": 100
+        }
+      ]
+    },
+    {
+      "id": "闪电貂",
+      "name": "闪电貂",
+      "description": "钟灵所饲养的毒性极强的闪电貂。",
+      "icon": "icon_teji_018",
+      "cooldown": 5,
+      "cost": {
+        "mp": 100,
+        "rage": 2
+      },
+      "targeting": {
+        "canTargetSelf": false,
+        "castType": null,
+        "castSize": 5,
+        "impactType": 0,
+        "impactSize": 1
+      },
+      "animation": "longjuanfeng_green",
+      "audio": "音效.利器4",
+      "buffs": [
+        {
+          "id": "中毒",
+          "level": 20,
+          "duration": 3,
+          "chance": 100
+        }
+      ]
+    },
+    {
+      "id": "清心普善咒",
+      "name": "清心普善咒",
+      "description": "清雅脱俗，宁神静气。解除全体队友异常状态。",
+      "icon": "icon_teji_019",
+      "cooldown": 3,
+      "cost": {
+        "mp": 200,
+        "rage": 0
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 0,
+        "impactType": 0,
+        "impactSize": 0
+      },
+      "animation": "guanghuan_white",
+      "audio": "音效.恢复类物品",
+      "buffs": []
+    },
+    {
+      "id": "阿碧的歌声",
+      "name": "阿碧的歌声",
+      "description": "阿碧的歌声，柔美秀丽，解除全体队友异常状态。",
+      "icon": "icon_teji_020",
+      "cooldown": 3,
+      "cost": {
+        "mp": 100,
+        "rage": 0
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 0,
+        "impactType": 0,
+        "impactSize": 0
+      },
+      "animation": "guanghuan_white",
+      "audio": "音效.恢复类物品",
+      "buffs": []
+    },
+    {
+      "id": "吴侬软语",
+      "name": "吴侬软语",
+      "description": "吴侬软语，闻者心醉，解除敌人所有增益状态。",
+      "icon": "icon_teji_021",
+      "cooldown": 3,
+      "cost": {
+        "mp": 100,
+        "rage": 0
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 0,
+        "impactType": 0,
+        "impactSize": 0
+      },
+      "animation": "guanghuan_white",
+      "audio": "音效.恢复类物品",
+      "buffs": []
+    },
+    {
+      "id": "武穆兵法",
+      "name": "武穆兵法",
+      "description": "武穆兵法排兵布阵，增强所有队友能力",
+      "icon": "icon_teji_022",
+      "cooldown": 5,
+      "cost": {
+        "mp": 500,
+        "rage": 4
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 0,
+        "impactType": 0,
+        "impactSize": 0
+      },
+      "animation": "aoyi_fire",
+      "audio": "音效.恢复类物品",
+      "buffs": []
+    },
+    {
+      "id": "解毒",
+      "name": "解毒",
+      "description": "不管多么强的毒，一律清除",
+      "icon": "icon_teji_023",
+      "cooldown": 1,
+      "cost": {
+        "mp": 200,
+        "rage": 0
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 10,
+        "impactType": 4,
+        "impactSize": 3
+      },
+      "animation": "guanghuan_yellow",
+      "audio": "音效.恢复类物品",
+      "buffs": []
+    },
+    {
+      "id": "梯云纵",
+      "name": "梯云纵",
+      "description": "武当派冠绝天下的身法，能加快战斗集气速度。",
+      "icon": "icon_teji_024",
+      "cooldown": 10,
+      "cost": {
+        "mp": 350,
+        "rage": 5
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 0,
+        "impactType": 0,
+        "impactSize": 0
+      },
+      "animation": "guanghuan_blue2",
+      "audio": "音效.恢复类物品",
+      "buffs": [
+        {
+          "id": "神行",
+          "level": 4,
+          "duration": 2,
+          "chance": 100
+        }
+      ]
+    },
+    {
+      "id": "六合劲",
+      "name": "六合劲",
+      "description": "以武当派精纯的内功对对手进行攻击，可以立即打散对手的集气。",
+      "icon": "icon_teji_025",
+      "cooldown": 8,
+      "cost": {
+        "mp": 50,
+        "rage": 4
+      },
+      "targeting": {
+        "canTargetSelf": false,
+        "castType": null,
+        "castSize": 3,
+        "impactType": 1,
+        "impactSize": 0
+      },
+      "animation": "baozha2",
+      "audio": "音效.内功攻击5",
+      "buffs": [
+        {
+          "id": "麻痹",
+          "level": 1,
+          "duration": 2,
+          "chance": 100
+        }
+      ]
+    },
+    {
+      "id": "腐尸毒",
+      "name": "腐尸毒",
+      "description": "立即清算敌人的中毒，造成真实伤害。",
+      "icon": "icon_teji_026",
+      "cooldown": 6,
+      "cost": {
+        "mp": 300,
+        "rage": 4
+      },
+      "targeting": {
+        "canTargetSelf": false,
+        "castType": null,
+        "castSize": 2,
+        "impactType": 4,
+        "impactSize": 4
+      },
+      "animation": "baozha2",
+      "audio": "音效.内功攻击5",
+      "buffs": []
+    },
+    {
+      "id": "飞星术",
+      "name": "飞星术",
+      "description": "星宿派狠毒的招数，不管敌我，全场随机中毒。",
+      "icon": "icon_teji_027",
+      "cooldown": 7,
+      "cost": {
+        "mp": 600,
+        "rage": 0
+      },
+      "targeting": {
+        "canTargetSelf": true,
+        "castType": null,
+        "castSize": 0,
+        "impactType": 0,
+        "impactSize": 0
+      },
+      "animation": "aoyi_jianpurple",
+      "audio": "音效.利器3",
+      "buffs": []
+    }
+  ]
+}

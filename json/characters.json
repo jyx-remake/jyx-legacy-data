@@ -1,5 +1,5 @@
 {
-  "schema": "jyx-legacy.characters.v1",
+  "schema": "jyx-legacy.characters.v3",
   "source": "roles.xml",
   "count": 513,
   "characters": [
@@ -11,7 +11,7 @@
       "animation": "xiake",
       "gender": "male",
       "growTemplate": "主角",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "异世人"
       ],
@@ -58,7 +58,7 @@
       "animation": "xiake",
       "gender": "male",
       "growTemplate": "主角",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "异世人",
         "乾坤大挪移奥义",
@@ -201,9 +201,9 @@
       "level": 1,
       "portrait": "头像.木头人",
       "animation": "muren",
-      "gender": "male",
+      "gender": "neutral",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "瘸子"
       ],
@@ -248,7 +248,7 @@
       "animation": "dadaoke",
       "gender": "male",
       "growTemplate": "刀客",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 55,
@@ -291,7 +291,7 @@
       "animation": "dadaoke",
       "gender": "male",
       "growTemplate": "刀客",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "雪山飞狐"
       ],
@@ -343,7 +343,7 @@
       "animation": "zhangwuji",
       "gender": "male",
       "growTemplate": "肉盾",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "乾坤大挪移",
         "铁拳无双",
@@ -396,7 +396,7 @@
       "animation": "zhangwuji",
       "gender": "male",
       "growTemplate": "肉盾",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "乾坤大挪移",
         "铁拳无双",
@@ -449,7 +449,7 @@
       "animation": "quanzhennv",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 45,
@@ -515,7 +515,7 @@
       "animation": "guoxiang",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 30,
@@ -558,7 +558,7 @@
       "animation": "sjgz",
       "gender": "male",
       "growTemplate": "段誉",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "不稳定的六脉神剑",
         "好色",
@@ -608,7 +608,7 @@
       "animation": "sjgz",
       "gender": "male",
       "growTemplate": "段誉",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "不稳定的六脉神剑",
         "好色",
@@ -672,7 +672,7 @@
       "animation": "chengying",
       "gender": "female",
       "growTemplate": "剑掌双修",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清心"
       ],
@@ -727,7 +727,7 @@
       "animation": "chengying",
       "gender": "female",
       "growTemplate": "剑掌双修",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清心"
       ],
@@ -788,7 +788,7 @@
       "animation": "hongyinv",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "大小姐"
       ],
@@ -838,7 +838,7 @@
       "animation": "nv_hong_quan",
       "gender": "female",
       "growTemplate": "宗师",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 45,
@@ -892,7 +892,7 @@
       "animation": "nv_hong_quan",
       "gender": "female",
       "growTemplate": "宗师",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "峨眉宗师",
         "清心"
@@ -974,9 +974,9 @@
       "level": 25,
       "portrait": "头像.神雕",
       "animation": "diao",
-      "gender": "neutral",
+      "gender": "animal",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 100,
@@ -1019,7 +1019,7 @@
       "animation": "daoke",
       "gender": "male",
       "growTemplate": "刀客",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "好色",
         "轻功大师"
@@ -1065,7 +1065,7 @@
       "animation": "xiaolongnv",
       "gender": "female",
       "growTemplate": "小龙女",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清心",
         "灵心慧质",
@@ -1141,7 +1141,7 @@
       "animation": "jianke",
       "gender": "male",
       "growTemplate": "剑掌双修",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "神雕大侠",
         "碎裂的怒吼",
@@ -1199,7 +1199,7 @@
       "animation": "limochou",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒系精通",
         "大小姐",
@@ -1253,7 +1253,7 @@
       "animation": "honglingbo",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -1296,7 +1296,7 @@
       "animation": "honglingbo",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -1339,7 +1339,7 @@
       "animation": "honglingbo",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -1384,7 +1384,7 @@
       "animation": "dawu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 23,
@@ -1427,7 +1427,7 @@
       "animation": "dawu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 23,
@@ -1470,7 +1470,7 @@
       "animation": "qdtl",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 23,
@@ -1513,7 +1513,7 @@
       "animation": "ysxd",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 23,
@@ -1556,7 +1556,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 23,
@@ -1599,7 +1599,7 @@
       "animation": "quanshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 23,
@@ -1640,9 +1640,9 @@
       "level": 1,
       "portrait": "头像.猴子",
       "animation": "houzi",
-      "gender": "neutral",
+      "gender": "animal",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -1683,9 +1683,9 @@
       "level": 1,
       "portrait": "头像.猴子",
       "animation": "houzi",
-      "gender": "neutral",
+      "gender": "animal",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -1728,7 +1728,7 @@
       "animation": "nvwu",
       "gender": "neutral",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -1771,7 +1771,7 @@
       "animation": "asdg",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -1814,7 +1814,7 @@
       "animation": "emeici",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 30,
@@ -1857,7 +1857,7 @@
       "animation": "nvpanjun",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 30,
@@ -1900,7 +1900,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 30,
@@ -1943,7 +1943,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -1986,7 +1986,7 @@
       "animation": "zhaozhijing",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 30,
@@ -2029,7 +2029,7 @@
       "animation": "blnz",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 30,
@@ -2072,7 +2072,7 @@
       "animation": "mayu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -2113,9 +2113,9 @@
       "level": 6,
       "portrait": "头像.夫人",
       "animation": "daogu",
-      "gender": "male",
+      "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -2158,7 +2158,7 @@
       "animation": "zhuziliu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "好色"
@@ -2204,7 +2204,7 @@
       "animation": "tjhf",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 80,
@@ -2247,7 +2247,7 @@
       "animation": "blnz",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -2292,7 +2292,7 @@
       "animation": "yinzhiping",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -2337,7 +2337,7 @@
       "animation": "yinzhiping",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -2384,7 +2384,7 @@
       "animation": "zhongniannan2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -2436,7 +2436,7 @@
       "animation": "asdg",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -2479,7 +2479,7 @@
       "animation": "zhaozhijing",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -2522,7 +2522,7 @@
       "animation": "quanshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "大理世家"
       ],
@@ -2567,7 +2567,7 @@
       "animation": "ysxd",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "大理世家"
       ],
@@ -2612,7 +2612,7 @@
       "animation": "asdg",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "大理世家"
       ],
@@ -2657,7 +2657,7 @@
       "animation": "zhuziliu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "大理世家"
       ],
@@ -2702,7 +2702,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -2745,7 +2745,7 @@
       "animation": "zhongniannan",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "好色",
         "大理世家",
@@ -2798,7 +2798,7 @@
       "animation": "wujiang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "大理世家"
       ],
@@ -2843,7 +2843,7 @@
       "animation": "zyjk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "大理世家"
       ],
@@ -2888,7 +2888,7 @@
       "animation": "quanshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "大理世家"
       ],
@@ -2933,7 +2933,7 @@
       "animation": "limochou",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "暴躁"
       ],
@@ -3001,7 +3001,7 @@
       "animation": "fanseng",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "碎裂的怒吼"
@@ -3047,7 +3047,7 @@
       "animation": "fanseng",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "自我主义",
         "碎裂的怒吼"
@@ -3093,7 +3093,7 @@
       "animation": "huodu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒圣",
         "自我主义"
@@ -3139,7 +3139,7 @@
       "animation": "asdg",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒圣",
         "自我主义"
@@ -3185,7 +3185,7 @@
       "animation": "snyw",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒圣",
         "自我主义"
@@ -3231,7 +3231,7 @@
       "animation": "tjhf",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒圣",
         "自我主义"
@@ -3277,7 +3277,7 @@
       "animation": "snyw",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -3322,7 +3322,7 @@
       "animation": "mayu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒圣",
         "自我主义",
@@ -3381,7 +3381,7 @@
       "animation": "mayu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "毒圣",
         "自我主义",
@@ -3440,7 +3440,7 @@
       "animation": "gongsunzhi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "好色",
         "自我主义",
@@ -3487,7 +3487,7 @@
       "animation": "gongsunzhi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "好色",
         "自我主义",
@@ -3534,7 +3534,7 @@
       "animation": "jianke_bai",
       "gender": "male",
       "growTemplate": "剑侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "金钟罩",
         "碎裂的怒吼"
@@ -3585,7 +3585,7 @@
       "animation": "jianke_bai",
       "gender": "male",
       "growTemplate": "剑侠",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "金钟罩",
         "碎裂的怒吼"
@@ -3636,7 +3636,7 @@
       "animation": "dadaoke",
       "gender": "male",
       "growTemplate": "刀客",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "雪山飞狐",
         "碎裂的怒吼"
@@ -3685,9 +3685,9 @@
       "level": 30,
       "portrait": "头像.东方不败",
       "animation": "dongfang",
-      "gender": "male",
+      "gender": "eunuch",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "阉人",
         "孤独求败",
@@ -3740,9 +3740,9 @@
       "level": 30,
       "portrait": "头像.东方不败",
       "animation": "dongfang",
-      "gender": "male",
+      "gender": "eunuch",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "阉人",
         "孤独求败",
@@ -3797,7 +3797,7 @@
       "animation": "daoke",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -3845,7 +3845,7 @@
       "animation": "sunpopo",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -3895,7 +3895,7 @@
       "animation": "xiedaoshi2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -3940,7 +3940,7 @@
       "animation": "diyun",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "金钟罩"
       ],
@@ -3992,7 +3992,7 @@
       "animation": "snyw",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -4035,7 +4035,7 @@
       "animation": "nvyapu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒圣",
         "妙手仁心",
@@ -4084,7 +4084,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒圣",
         "医仙",
@@ -4131,7 +4131,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 100,
@@ -4174,7 +4174,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -4217,7 +4217,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -4260,7 +4260,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -4303,7 +4303,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -4346,7 +4346,7 @@
       "animation": "dadaoke",
       "gender": "male",
       "growTemplate": "刀客",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "雪山飞狐",
         "碎裂的怒吼"
@@ -4397,7 +4397,7 @@
       "animation": "yinzhiping",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -4454,7 +4454,7 @@
       "animation": "guofu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -4499,7 +4499,7 @@
       "animation": "hynz",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "悲酥清风",
@@ -4546,7 +4546,7 @@
       "animation": "nandi",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -4589,7 +4589,7 @@
       "animation": "honglingbo",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -4642,7 +4642,7 @@
       "animation": "zhuziliu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "碎裂的怒吼"
@@ -4688,7 +4688,7 @@
       "animation": "yuzhenzi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "碎裂的怒吼"
@@ -4734,7 +4734,7 @@
       "animation": "qiuchuji",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -4790,7 +4790,7 @@
       "animation": "qiuchuji",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -4841,7 +4841,7 @@
       "animation": "qiuchuji",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "沾衣十八跌"
       ],
@@ -4897,7 +4897,7 @@
       "animation": "asdg",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -4940,7 +4940,7 @@
       "animation": "qiuchuji",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 120,
@@ -4993,7 +4993,7 @@
       "animation": "zydx",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "大理世家"
       ],
@@ -5043,7 +5043,7 @@
       "animation": "shibing",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 20,
@@ -5088,7 +5088,7 @@
       "animation": "wujiang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -5133,7 +5133,7 @@
       "animation": "shibing",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 20,
@@ -5178,7 +5178,7 @@
       "animation": "wujiang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 20,
@@ -5223,7 +5223,7 @@
       "animation": "huaheshang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "碎裂的怒吼"
@@ -5274,7 +5274,7 @@
       "animation": "wujiang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "碎裂的怒吼"
@@ -5325,7 +5325,7 @@
       "animation": "wujiang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "碎裂的怒吼"
@@ -5376,7 +5376,7 @@
       "animation": "wujiang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "追魂",
         "自我主义",
@@ -5429,7 +5429,7 @@
       "animation": "heiyiren",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -5472,7 +5472,7 @@
       "animation": "zhangwuji",
       "gender": "male",
       "growTemplate": "肉盾",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "乾坤大挪移奥义",
         "铁拳无双",
@@ -5536,7 +5536,7 @@
       "animation": "zhangwuji",
       "gender": "male",
       "growTemplate": "肉盾",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "乾坤大挪移奥义",
         "铁拳无双",
@@ -5605,7 +5605,7 @@
       "animation": "sunpopo",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "清心",
         "御风"
@@ -5656,7 +5656,7 @@
       "animation": "njk",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "清心",
         "御风"
@@ -5707,7 +5707,7 @@
       "animation": "njk",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "清心",
         "御风"
@@ -5758,7 +5758,7 @@
       "animation": "emeici",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "清心",
         "御风"
@@ -5809,7 +5809,7 @@
       "animation": "emeici",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "清心",
         "御风"
@@ -5860,7 +5860,7 @@
       "animation": "daogu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清心",
         "不老长春",
@@ -5912,7 +5912,7 @@
       "animation": "jylh",
       "gender": "male",
       "growTemplate": "大侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清心",
         "金钟罩"
@@ -5971,7 +5971,7 @@
       "animation": "guoxiang",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清心",
         "不老长春",
@@ -6036,7 +6036,7 @@
       "animation": "zhongniannan2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -6077,9 +6077,9 @@
       "level": 13,
       "portrait": "地图.琴舍",
       "animation": null,
-      "gender": "male",
+      "gender": "neutral",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "嗜血狂魔"
       ],
@@ -6122,9 +6122,9 @@
       "level": 13,
       "portrait": "地图.佛堂",
       "animation": null,
-      "gender": "male",
+      "gender": "neutral",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "嗜血狂魔"
       ],
@@ -6167,9 +6167,9 @@
       "level": 13,
       "portrait": "地图.室内",
       "animation": null,
-      "gender": "male",
+      "gender": "neutral",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "嗜血狂魔"
       ],
@@ -6212,9 +6212,9 @@
       "level": 13,
       "portrait": "地图.树林",
       "animation": null,
-      "gender": "male",
+      "gender": "neutral",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "嗜血狂魔"
       ],
@@ -6259,7 +6259,7 @@
       "animation": "laoheshang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "普照",
         "金钟罩",
@@ -6312,7 +6312,7 @@
       "animation": "laoheshang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "普照",
         "金钟罩",
@@ -6365,7 +6365,7 @@
       "animation": "laoheshang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "普照",
         "金钟罩",
@@ -6418,7 +6418,7 @@
       "animation": "gaoseng",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "普照",
         "金钟罩",
@@ -6465,7 +6465,7 @@
       "animation": "gaoseng",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "普照",
         "金钟罩",
@@ -6512,7 +6512,7 @@
       "animation": "hyhs",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -6555,7 +6555,7 @@
       "animation": "fanseng",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -6598,7 +6598,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "普照",
         "金钟罩"
@@ -6644,7 +6644,7 @@
       "animation": "sunpopo",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "飘然",
         "金钟罩",
@@ -6696,7 +6696,7 @@
       "animation": "kezhenger",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "普照",
         "金钟罩",
@@ -6748,7 +6748,7 @@
       "animation": "ouyangfeng",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "普照",
         "金钟罩",
@@ -6799,7 +6799,7 @@
       "animation": "zhuziliu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "轻功大师",
         "飘然",
@@ -6846,7 +6846,7 @@
       "animation": "yinzhiping",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "乾坤大挪移",
         "光明圣火阵"
@@ -6904,7 +6904,7 @@
       "animation": "jianke_lv",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "乾坤大挪移",
         "光明圣火阵"
@@ -6957,7 +6957,7 @@
       "animation": "ouyangfeng",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "吸星大法",
         "飘然",
@@ -7017,7 +7017,7 @@
       "animation": "hongqigong",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "吸星大法"
       ],
@@ -7068,7 +7068,7 @@
       "animation": "gongsunzhi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "清心"
       ],
@@ -7117,9 +7117,9 @@
       "level": 30,
       "portrait": "头像.东方不败",
       "animation": "dongfang",
-      "gender": "male",
+      "gender": "eunuch",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "阉人",
         "孤独求败",
@@ -7164,9 +7164,9 @@
       "level": 18,
       "portrait": "头像.神秘人",
       "animation": "heiyiren",
-      "gender": "male",
+      "gender": "eunuch",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "阉人"
       ],
@@ -7211,7 +7211,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 90,
@@ -7252,9 +7252,9 @@
       "level": 24,
       "portrait": "头像.牧羊女",
       "animation": null,
-      "gender": "male",
+      "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 90,
@@ -7297,7 +7297,7 @@
       "animation": "jianke_lv",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清心"
       ],
@@ -7342,7 +7342,7 @@
       "animation": "heiyinv_gouzi",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒系精通",
         "灵心慧质",
@@ -7420,7 +7420,7 @@
       "animation": "guofu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "灵心慧质",
         "救死扶伤",
@@ -7469,7 +7469,7 @@
       "animation": "mayu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -7512,7 +7512,7 @@
       "animation": "qiuchuji",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -7555,7 +7555,7 @@
       "animation": "jianke_lv",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "琴胆剑心",
         "嗜酒如命",
@@ -7633,7 +7633,7 @@
       "animation": "quanshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -7676,7 +7676,7 @@
       "animation": "tjhf",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -7719,7 +7719,7 @@
       "animation": "luyoujiao",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -7762,7 +7762,7 @@
       "animation": "ouyangfeng",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -7805,7 +7805,7 @@
       "animation": "nv_hua_quan",
       "gender": "female",
       "growTemplate": "刀客",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "夫妻同心"
       ],
@@ -7850,7 +7850,7 @@
       "animation": "daoke",
       "gender": "male",
       "growTemplate": "刀客",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "夫妻同心"
       ],
@@ -7895,7 +7895,7 @@
       "animation": "zhongniannan2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 80,
@@ -7948,7 +7948,7 @@
       "animation": "huaheshang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -7994,9 +7994,9 @@
       "level": 24,
       "portrait": "头像.梦姑",
       "animation": null,
-      "gender": "male",
+      "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 90,
@@ -8039,7 +8039,7 @@
       "animation": "qiuqianren",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 120,
@@ -8090,7 +8090,7 @@
       "animation": "xiaofeng",
       "gender": "male",
       "growTemplate": "大侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "铁拳无双",
         "金钟罩",
@@ -8154,7 +8154,7 @@
       "animation": "sjgz",
       "gender": "male",
       "growTemplate": "段誉",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "不稳定的六脉神剑",
         "好色",
@@ -8204,7 +8204,7 @@
       "animation": "zydx",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "斗转星移",
         "慕容世家"
@@ -8255,7 +8255,7 @@
       "animation": "snyw",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "追魂",
         "碎裂的怒吼"
@@ -8301,7 +8301,7 @@
       "animation": "yinzhiping",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 80,
@@ -8355,7 +8355,7 @@
       "animation": "diyun",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "太极高手"
       ],
@@ -8400,7 +8400,7 @@
       "animation": "asdg",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "太极高手"
       ],
@@ -8443,9 +8443,9 @@
       "level": 15,
       "portrait": "头像.大蛇",
       "animation": null,
-      "gender": "male",
+      "gender": "animal",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "太极高手"
       ],
@@ -8490,7 +8490,7 @@
       "animation": "daxia",
       "gender": "male",
       "growTemplate": "主角",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "异世人",
         "太极宗师",
@@ -8554,7 +8554,7 @@
       "animation": "jianke_lv",
       "gender": "male",
       "growTemplate": "剑侠",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "太极高手",
         "刚柔并济",
@@ -8618,7 +8618,7 @@
       "animation": "nvliumang",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "飘然",
         "清心",
@@ -8671,7 +8671,7 @@
       "animation": "jianke_lv",
       "gender": "male",
       "growTemplate": "剑侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "太极高手",
         "刚柔并济",
@@ -8757,7 +8757,7 @@
       "animation": "huangyinv_jian",
       "gender": "female",
       "growTemplate": "主角",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -8800,7 +8800,7 @@
       "animation": "huangyinv_jian",
       "gender": "female",
       "growTemplate": "主角",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "武学奇才"
       ],
@@ -8845,7 +8845,7 @@
       "animation": "tjhf",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -8893,7 +8893,7 @@
       "animation": "snyw",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -8941,7 +8941,7 @@
       "animation": "zyjk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -8999,7 +8999,7 @@
       "animation": "zyjk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -9057,7 +9057,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -9105,7 +9105,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -9153,7 +9153,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -9201,7 +9201,7 @@
       "animation": "nvwu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 80,
@@ -9244,7 +9244,7 @@
       "animation": "nvwu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 80,
@@ -9287,7 +9287,7 @@
       "animation": "nvwu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 80,
@@ -9330,7 +9330,7 @@
       "animation": "nvwu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 90,
@@ -9373,7 +9373,7 @@
       "animation": "zhaozhijing",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清风",
         "阴谋家"
@@ -9429,7 +9429,7 @@
       "animation": "zhongniannan2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -9474,7 +9474,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -9517,7 +9517,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 80,
@@ -9562,7 +9562,7 @@
       "animation": "heiyiren",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "金钟罩",
         "阴谋家",
@@ -9614,7 +9614,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清风",
         "阴谋家"
@@ -9660,7 +9660,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清风",
         "阴谋家"
@@ -9706,7 +9706,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -9754,7 +9754,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -9802,7 +9802,7 @@
       "animation": "huodu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "阴谋家"
       ],
@@ -9854,7 +9854,7 @@
       "animation": "quanshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -9897,7 +9897,7 @@
       "animation": "quanshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -9940,7 +9940,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -9983,7 +9983,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -10026,7 +10026,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -10069,7 +10069,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -10112,7 +10112,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -10155,7 +10155,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -10198,7 +10198,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 100,
@@ -10241,7 +10241,7 @@
       "animation": "guojing",
       "gender": "male",
       "growTemplate": "大侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -10284,7 +10284,7 @@
       "animation": "xiake",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "臭蛤蟆",
         "好色",
@@ -10331,7 +10331,7 @@
       "animation": "yufu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -10374,7 +10374,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -10417,7 +10417,7 @@
       "animation": "laotou_jian",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -10460,7 +10460,7 @@
       "animation": "zhuziliu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -10503,7 +10503,7 @@
       "animation": "nvwu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -10552,7 +10552,7 @@
       "animation": "nvwu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒系精通"
       ],
@@ -10603,7 +10603,7 @@
       "animation": "huangrong",
       "gender": "female",
       "growTemplate": "宗师",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "奇门遁甲",
         "玲珑璇玑",
@@ -10668,7 +10668,7 @@
       "animation": "qiuqianren",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "金钟罩"
       ],
@@ -10713,7 +10713,7 @@
       "animation": "qiuqianren",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "金钟罩"
       ],
@@ -10758,7 +10758,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "普照",
         "大理世家",
@@ -10816,7 +10816,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "普照",
         "大理世家",
@@ -10874,7 +10874,7 @@
       "animation": "dongxie",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "飘然",
         "追魂",
@@ -10938,7 +10938,7 @@
       "animation": "dongxie",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "飘然",
         "追魂",
@@ -11002,7 +11002,7 @@
       "animation": "hongqigong",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "臭叫花"
       ],
@@ -11058,7 +11058,7 @@
       "animation": "hongqigong",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "臭叫花"
       ],
@@ -11114,7 +11114,7 @@
       "animation": "ouyangfeng",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "臭蛤蟆",
         "毒圣"
@@ -11182,7 +11182,7 @@
       "animation": "ouyangfeng",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "臭蛤蟆",
         "毒圣"
@@ -11250,7 +11250,7 @@
       "animation": "dama",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "精打细算",
         "夫妻同心"
@@ -11301,7 +11301,7 @@
       "animation": "zhoubotong",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "左右互搏",
         "碎裂的怒吼",
@@ -11365,7 +11365,7 @@
       "animation": "zhoubotong",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "左右互搏",
         "碎裂的怒吼",
@@ -11429,7 +11429,7 @@
       "animation": "qiuchuji",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "孤独求败",
         "普照",
@@ -11517,7 +11517,7 @@
       "animation": "qiuchuji",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "孤独求败",
         "普照",
@@ -11605,7 +11605,7 @@
       "animation": "honglingbo",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "普照",
         "清心",
@@ -11683,7 +11683,7 @@
       "animation": "honglingbo",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "普照",
         "清心",
@@ -11761,7 +11761,7 @@
       "animation": "luyoujiao",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "阴谋家"
@@ -11835,7 +11835,7 @@
       "animation": "huodu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "阴谋家"
@@ -11914,7 +11914,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "大理世家"
       ],
@@ -11965,7 +11965,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "普照",
         "大理世家"
@@ -12017,7 +12017,7 @@
       "animation": "fanseng2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "阴谋家"
@@ -12090,7 +12090,7 @@
       "animation": "fanseng2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "阴谋家"
@@ -12163,7 +12163,7 @@
       "animation": "fanseng2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "自我主义",
         "阴谋家"
@@ -12236,7 +12236,7 @@
       "animation": "qdtl",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "奋战"
       ],
@@ -12281,7 +12281,7 @@
       "animation": "asdg",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "奋战"
       ],
@@ -12326,7 +12326,7 @@
       "animation": "hongyinv",
       "gender": "female",
       "growTemplate": "女子",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -12371,7 +12371,7 @@
       "animation": "chengying",
       "gender": "female",
       "growTemplate": "女子",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -12416,7 +12416,7 @@
       "animation": "guoxiang",
       "gender": "female",
       "growTemplate": "女子",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 30,
@@ -12459,7 +12459,7 @@
       "animation": "kezhenger",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "悲酥清风",
         "大理世家"
@@ -12505,7 +12505,7 @@
       "animation": "nvliumang",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -12548,7 +12548,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "臭叫花"
       ],
@@ -12598,7 +12598,7 @@
       "animation": "laotou_jian",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "臭叫花"
       ],
@@ -12643,7 +12643,7 @@
       "animation": "laotou_jian",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "臭叫花"
       ],
@@ -12688,7 +12688,7 @@
       "animation": "huodu",
       "gender": "male",
       "growTemplate": "奇门",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "阴谋家"
       ],
@@ -12738,7 +12738,7 @@
       "animation": "wujiang",
       "gender": "male",
       "growTemplate": "剑掌双修",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "斗转星移",
         "悲酥清风",
@@ -12790,7 +12790,7 @@
       "animation": "zydx",
       "gender": "male",
       "growTemplate": "剑掌双修",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "斗转星移",
         "悲酥清风",
@@ -12842,7 +12842,7 @@
       "animation": "heiyiren",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "悲酥清风",
         "铁拳无双"
@@ -12898,7 +12898,7 @@
       "animation": "xiaofeng",
       "gender": "male",
       "growTemplate": "大侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "铁拳无双"
       ],
@@ -12959,7 +12959,7 @@
       "animation": "xiaofeng",
       "gender": "male",
       "growTemplate": "大侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "铁拳无双",
         "金钟罩",
@@ -13023,7 +13023,7 @@
       "animation": "xiaofeng",
       "gender": "male",
       "growTemplate": "大侠",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "铁拳无双"
       ],
@@ -13084,7 +13084,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "普照",
         "沾衣十八跌"
@@ -13156,7 +13156,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "普照",
         "沾衣十八跌"
@@ -13202,7 +13202,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "普照",
         "沾衣十八跌"
@@ -13248,7 +13248,7 @@
       "animation": "dama",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -13291,7 +13291,7 @@
       "animation": "dawu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 80,
@@ -13334,7 +13334,7 @@
       "animation": "jinlunfawang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -13377,7 +13377,7 @@
       "animation": "jinlunfawang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 55,
@@ -13420,7 +13420,7 @@
       "animation": "laotou_jian",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -13463,7 +13463,7 @@
       "animation": "dongxie",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清心",
         "异世人",
@@ -13515,7 +13515,7 @@
       "animation": "daxia",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "异世人",
         "不老长春",
@@ -13567,7 +13567,7 @@
       "animation": "daxia",
       "gender": "male",
       "growTemplate": "主角",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "异世人",
         "清心"
@@ -13613,7 +13613,7 @@
       "animation": "daxia",
       "gender": "male",
       "growTemplate": "主角",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "异世人",
         "清心",
@@ -13661,7 +13661,7 @@
       "animation": "hongyinv",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "博览群书",
         "武学奇才"
@@ -13709,7 +13709,7 @@
       "animation": "gongzhu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "博览群书",
         "武学奇才"
@@ -13772,7 +13772,7 @@
       "animation": "quanzhennv",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -13817,7 +13817,7 @@
       "animation": "quanzhennv",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -13862,7 +13862,7 @@
       "animation": "nvliumang",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "博览群书"
       ],
@@ -13929,7 +13929,7 @@
       "animation": "blnz",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -13972,7 +13972,7 @@
       "animation": "nv_hong_quan",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒系精通",
         "大小姐"
@@ -14018,7 +14018,7 @@
       "animation": "snyw",
       "gender": "male",
       "growTemplate": "肉盾",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "追魂",
         "碎裂的怒吼"
@@ -14064,7 +14064,7 @@
       "animation": "luyoujiao",
       "gender": "male",
       "growTemplate": "大侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "铁拳无双",
         "碎裂的怒吼"
@@ -14146,7 +14146,7 @@
       "animation": "qiuqianren",
       "gender": "male",
       "growTemplate": "大侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "斗转星移",
         "慕容世家"
@@ -14238,7 +14238,7 @@
       "animation": "luyoujiao",
       "gender": "male",
       "growTemplate": "大侠",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "铁拳无双",
         "碎裂的怒吼"
@@ -14320,7 +14320,7 @@
       "animation": "qiuqianren",
       "gender": "male",
       "growTemplate": "大侠",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "斗转星移",
         "慕容世家"
@@ -14406,7 +14406,7 @@
       "animation": "heiyiren",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -14449,7 +14449,7 @@
       "animation": "heiyiren",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "黑天死炎"
       ],
@@ -14494,7 +14494,7 @@
       "animation": "heiyiren",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "黑天死炎"
       ],
@@ -14544,7 +14544,7 @@
       "animation": "gongsunzhi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "死生茫茫",
         "黑天死炎"
@@ -14595,7 +14595,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -14638,7 +14638,7 @@
       "animation": "heiyiren",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "死生茫茫",
         "黑天死炎",
@@ -14694,7 +14694,7 @@
       "animation": "mojun",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "死生茫茫",
         "黑天死炎",
@@ -14789,7 +14789,7 @@
       "animation": null,
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -14832,7 +14832,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -14875,7 +14875,7 @@
       "animation": null,
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -14918,7 +14918,7 @@
       "animation": null,
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -14961,7 +14961,7 @@
       "animation": null,
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -15004,7 +15004,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -15047,7 +15047,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -15090,7 +15090,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -15133,7 +15133,7 @@
       "animation": null,
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -15176,7 +15176,7 @@
       "animation": "dawu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -15219,7 +15219,7 @@
       "animation": "qdtl",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -15262,7 +15262,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -15305,7 +15305,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -15348,7 +15348,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 10,
@@ -15389,9 +15389,9 @@
       "level": 1,
       "portrait": "地图.藏经阁",
       "animation": null,
-      "gender": "male",
+      "gender": "neutral",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 10,
@@ -15434,7 +15434,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 10,
@@ -15477,7 +15477,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 10,
@@ -15520,7 +15520,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 10,
@@ -15563,7 +15563,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 10,
@@ -15606,7 +15606,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 10,
@@ -15649,7 +15649,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 10,
@@ -15692,7 +15692,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 10,
@@ -15735,7 +15735,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 10,
@@ -15778,7 +15778,7 @@
       "animation": null,
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 10,
@@ -15821,7 +15821,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 10,
@@ -15864,7 +15864,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 10,
@@ -15907,7 +15907,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 10,
@@ -15950,7 +15950,7 @@
       "animation": "qdtl",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -15993,7 +15993,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -16036,7 +16036,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -16079,7 +16079,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -16120,9 +16120,9 @@
       "level": 8,
       "portrait": "头像.汉家松鼠",
       "animation": null,
-      "gender": "male",
+      "gender": "animal",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -16165,7 +16165,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -16208,7 +16208,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -16251,7 +16251,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -16294,7 +16294,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -16337,7 +16337,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -16380,7 +16380,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -16421,9 +16421,9 @@
       "level": 8,
       "portrait": "头像.土拨鼠",
       "animation": null,
-      "gender": "male",
+      "gender": "animal",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -16466,7 +16466,7 @@
       "animation": "jianke_lv",
       "gender": "male",
       "growTemplate": "剑侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "令狐冲的怪病",
         "嗜酒如命",
@@ -16533,7 +16533,7 @@
       "animation": "jianke_lv",
       "gender": "male",
       "growTemplate": "剑侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "孤独求败",
         "清心",
@@ -16612,7 +16612,7 @@
       "animation": "miaonv_quan",
       "gender": "female",
       "growTemplate": "奇门",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒系精通"
       ],
@@ -16657,7 +16657,7 @@
       "animation": "nv_lv_quan",
       "gender": "female",
       "growTemplate": "奇门",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -16703,7 +16703,7 @@
       "animation": "nv_lv_quan",
       "gender": "female",
       "growTemplate": "奇门",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "琴胆剑心"
       ],
@@ -16751,7 +16751,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 65,
@@ -16799,7 +16799,7 @@
       "animation": "xiedaoshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "琴胆剑心"
       ],
@@ -16844,7 +16844,7 @@
       "animation": "hyjk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -16887,7 +16887,7 @@
       "animation": "hyjk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 90,
@@ -16930,7 +16930,7 @@
       "animation": "zhaozhijing",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "阴谋家"
@@ -16992,7 +16992,7 @@
       "animation": "zhaozhijing",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "阴谋家"
@@ -17054,7 +17054,7 @@
       "animation": "guofu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "大小姐"
       ],
@@ -17105,7 +17105,7 @@
       "animation": "zyjk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -17148,7 +17148,7 @@
       "animation": "zyjk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 90,
@@ -17189,9 +17189,9 @@
       "level": 20,
       "portrait": "头像.岳不群",
       "animation": "zhaozhijing",
-      "gender": "male",
+      "gender": "eunuch",
       "growTemplate": "剑侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "阉人"
       ],
@@ -17244,9 +17244,9 @@
       "level": 17,
       "portrait": "头像.林平之",
       "animation": "jianke_bai",
-      "gender": "male",
+      "gender": "eunuch",
       "growTemplate": "剑侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "阉人"
       ],
@@ -17294,9 +17294,9 @@
       "level": 23,
       "portrait": "头像.林平之",
       "animation": "jianke_bai",
-      "gender": "male",
+      "gender": "eunuch",
       "growTemplate": "剑侠",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "阉人",
         "飘然"
@@ -17351,9 +17351,9 @@
       "level": 23,
       "portrait": "头像.林平之",
       "animation": "jianke_bai",
-      "gender": "male",
+      "gender": "eunuch",
       "growTemplate": "剑侠",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "阉人",
         "飘然"
@@ -17410,7 +17410,7 @@
       "animation": "kezhenger",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "瘸子"
@@ -17461,7 +17461,7 @@
       "animation": "zhaozhijing",
       "gender": "male",
       "growTemplate": "剑侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "寸长寸强"
       ],
@@ -17517,7 +17517,7 @@
       "animation": "laotou_jian",
       "gender": "male",
       "growTemplate": "医生",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "医仙",
         "妙手仁心",
@@ -17566,7 +17566,7 @@
       "animation": "jianke_bai",
       "gender": "male",
       "growTemplate": "剑侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 80,
@@ -17617,9 +17617,9 @@
       "level": 20,
       "portrait": "头像.封不平",
       "animation": "jianke_bai",
-      "gender": "male",
+      "gender": "eunuch",
       "growTemplate": "剑侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "阉人"
       ],
@@ -17677,9 +17677,9 @@
       "level": 26,
       "portrait": "头像.封不平",
       "animation": "jianke_bai",
-      "gender": "male",
+      "gender": "eunuch",
       "growTemplate": "剑侠",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "阉人"
       ],
@@ -17737,9 +17737,9 @@
       "level": 30,
       "portrait": "头像.封不平",
       "animation": "jianke_bai",
-      "gender": "male",
+      "gender": "eunuch",
       "growTemplate": "剑侠",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "阉人",
         "轻功大师",
@@ -17799,9 +17799,9 @@
       "level": 30,
       "portrait": "头像.封不平",
       "animation": "jianke_bai",
-      "gender": "male",
+      "gender": "eunuch",
       "growTemplate": "剑侠",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "阉人",
         "轻功大师",
@@ -17864,7 +17864,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -17912,7 +17912,7 @@
       "animation": "heiyinv_gouzi",
       "gender": "female",
       "growTemplate": "宗师",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒系精通",
         "灵心慧质"
@@ -17966,7 +17966,7 @@
       "animation": "sunpopo",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -18009,7 +18009,7 @@
       "animation": "jianke",
       "gender": "male",
       "growTemplate": "剑掌双修",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "金蛇郎君"
       ],
@@ -18056,7 +18056,7 @@
       "animation": "emeici",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒系精通"
       ],
@@ -18101,7 +18101,7 @@
       "animation": "miaonv_quan",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -18144,7 +18144,7 @@
       "animation": "jinv",
       "gender": "female",
       "growTemplate": "女子",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "大小姐"
       ],
@@ -18189,7 +18189,7 @@
       "animation": "jianke_bai",
       "gender": "male",
       "growTemplate": "剑掌双修",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -18232,7 +18232,7 @@
       "animation": "jianke_bai",
       "gender": "male",
       "growTemplate": "剑掌双修",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "金蛇郎君"
       ],
@@ -18285,7 +18285,7 @@
       "animation": "mayu",
       "gender": "male",
       "growTemplate": "剑掌双修",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "真气护体",
         "混元一气",
@@ -18342,7 +18342,7 @@
       "animation": "mayu",
       "gender": "male",
       "growTemplate": "剑掌双修",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "真气护体",
         "混元一气",
@@ -18399,7 +18399,7 @@
       "animation": "xiedaoshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "真气护体",
         "神行百变",
@@ -18457,7 +18457,7 @@
       "animation": "xuedaolaozu",
       "gender": "male",
       "growTemplate": "刀客",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "嗜血狂魔",
         "自我主义"
@@ -18505,7 +18505,7 @@
       "animation": "xuedaolaozu",
       "gender": "male",
       "growTemplate": "刀客",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "嗜血狂魔",
         "自我主义"
@@ -18553,7 +18553,7 @@
       "animation": "diyun",
       "gender": "male",
       "growTemplate": "刀客",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "真气护体",
         "血魔刀法"
@@ -18599,7 +18599,7 @@
       "animation": "diyun",
       "gender": "male",
       "growTemplate": "刀客",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "真气护体",
         "血魔刀法"
@@ -18648,7 +18648,7 @@
       "animation": "nv_bai_quan",
       "gender": "female",
       "growTemplate": "女子",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "灵心慧质"
       ],
@@ -18693,7 +18693,7 @@
       "animation": "qiuchuji",
       "gender": "male",
       "growTemplate": "剑掌双修",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "铁骨墨萼",
         "清心",
@@ -18740,7 +18740,7 @@
       "animation": "baiyinv_quan",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -18783,7 +18783,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -18826,7 +18826,7 @@
       "animation": "asdg",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒系精通"
       ],
@@ -18876,7 +18876,7 @@
       "animation": "asdg",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒系精通"
       ],
@@ -18926,7 +18926,7 @@
       "animation": "asdg",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒系精通"
       ],
@@ -18976,7 +18976,7 @@
       "animation": "hyjk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -19019,7 +19019,7 @@
       "animation": "guofu",
       "gender": "female",
       "growTemplate": "女子",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 45,
@@ -19062,7 +19062,7 @@
       "animation": "xiedaoshi",
       "gender": "male",
       "growTemplate": "剑掌双修",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "破甲"
       ],
@@ -19107,7 +19107,7 @@
       "animation": "xiedaoshi",
       "gender": "male",
       "growTemplate": "剑掌双修",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "破甲"
       ],
@@ -19152,7 +19152,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": "大侠",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "金钟罩",
         "飞向天际"
@@ -19207,7 +19207,7 @@
       "animation": "dawu",
       "gender": "male",
       "growTemplate": "韦小宝",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "隔空取物",
         "好色"
@@ -19256,7 +19256,7 @@
       "animation": "ouyangfeng",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -19301,7 +19301,7 @@
       "animation": "huodu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -19344,7 +19344,7 @@
       "animation": "nvyapu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -19387,7 +19387,7 @@
       "animation": "nvliumang",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -19430,7 +19430,7 @@
       "animation": "nvliumang",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -19473,7 +19473,7 @@
       "animation": "zhuziliu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -19518,7 +19518,7 @@
       "animation": "tjhf",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -19563,7 +19563,7 @@
       "animation": "guofu",
       "gender": "female",
       "growTemplate": "女子",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -19613,7 +19613,7 @@
       "animation": "limochou",
       "gender": "female",
       "growTemplate": "宗师",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清心",
         "混元一气",
@@ -19673,7 +19673,7 @@
       "animation": "blnz",
       "gender": "female",
       "growTemplate": "女子",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -19723,7 +19723,7 @@
       "animation": "ouyangfeng",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "金钟罩",
@@ -19777,7 +19777,7 @@
       "animation": "guofu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -19820,7 +19820,7 @@
       "animation": "zhongniannan2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -19865,7 +19865,7 @@
       "animation": "zhongniannan2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义",
         "金钟罩"
@@ -19911,7 +19911,7 @@
       "animation": "sjgz",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -19956,7 +19956,7 @@
       "animation": "zhaozhijing",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "追魂",
         "自我主义",
@@ -20009,7 +20009,7 @@
       "animation": "zhongniannan",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 80,
@@ -20052,7 +20052,7 @@
       "animation": "nqhs",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -20095,7 +20095,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "普照",
         "金钟罩"
@@ -20161,7 +20161,7 @@
       "animation": "jylh",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 50,
@@ -20209,7 +20209,7 @@
       "animation": "xiedaoshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "太极高手"
       ],
@@ -20265,7 +20265,7 @@
       "animation": "xiedaoshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "太极高手"
       ],
@@ -20315,7 +20315,7 @@
       "animation": "mayu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "太极高手",
         "清心",
@@ -20405,7 +20405,7 @@
       "animation": "mayu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "太极高手",
         "清心",
@@ -20495,7 +20495,7 @@
       "animation": "xiedaoshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "太极高手",
         "真武七截阵"
@@ -20552,7 +20552,7 @@
       "animation": "yinzhiping",
       "gender": "male",
       "growTemplate": "内家",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "太极高手",
         "真武七截阵",
@@ -20610,7 +20610,7 @@
       "animation": "yinzhiping",
       "gender": "male",
       "growTemplate": "内家",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "真武七截阵"
       ],
@@ -20671,7 +20671,7 @@
       "animation": "yinzhiping",
       "gender": "male",
       "growTemplate": "内家",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "太极高手",
         "真武七截阵"
@@ -20738,7 +20738,7 @@
       "animation": "yinzhiping",
       "gender": "male",
       "growTemplate": "内家",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "真武七截阵"
       ],
@@ -20799,7 +20799,7 @@
       "animation": "yinzhiping",
       "gender": "male",
       "growTemplate": "内家",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "太极高手",
         "真武七截阵"
@@ -20866,7 +20866,7 @@
       "animation": "yinzhiping",
       "gender": "male",
       "growTemplate": "内家",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "太极高手",
         "真武七截阵"
@@ -20928,7 +20928,7 @@
       "animation": "xiedaoshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "飘然"
       ],
@@ -20978,7 +20978,7 @@
       "animation": "qiuchuji",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "孤独求败",
         "破甲",
@@ -21046,7 +21046,7 @@
       "animation": "qiuchuji",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "孤独求败",
         "破甲",
@@ -21114,7 +21114,7 @@
       "animation": "duguqiubai",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "孤独求败",
         "轻功大师",
@@ -21170,7 +21170,7 @@
       "animation": "duguqiubai",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "孤独求败",
         "轻功大师",
@@ -21226,7 +21226,7 @@
       "animation": "kezhenger",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -21274,7 +21274,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -21324,7 +21324,7 @@
       "animation": "guofu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "自我主义"
       ],
@@ -21374,7 +21374,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 70,
@@ -21417,7 +21417,7 @@
       "animation": "hongqigong",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "臭叫花"
       ],
@@ -21467,7 +21467,7 @@
       "animation": "xiaofeng",
       "gender": "male",
       "growTemplate": "大侠",
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "铁拳无双",
         "金钟罩",
@@ -21525,7 +21525,7 @@
       "animation": "guojing",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "射雕英雄"
       ],
@@ -21570,7 +21570,7 @@
       "animation": "huangrong",
       "gender": "female",
       "growTemplate": "宗师",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "奇门遁甲",
         "玲珑璇玑",
@@ -21629,7 +21629,7 @@
       "animation": "dongfang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "孤独求败"
       ],
@@ -21674,7 +21674,7 @@
       "animation": "qiuchuji",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "飘然"
       ],
@@ -21729,7 +21729,7 @@
       "animation": "duguqiubai",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "孤独求败",
         "轻功大师",
@@ -21785,7 +21785,7 @@
       "animation": "jianke",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "神雕大侠"
       ],
@@ -21861,7 +21861,7 @@
       "animation": "jianke_lv",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "琴胆剑心",
         "嗜酒如命",
@@ -21925,9 +21925,9 @@
       "level": 30,
       "portrait": "头像.神雕",
       "animation": "diao",
-      "gender": "neutral",
+      "gender": "animal",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 200,
@@ -21970,7 +21970,7 @@
       "animation": "xiaolongnv",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "清心",
         "素心神剑",
@@ -22046,7 +22046,7 @@
       "animation": "qiuchuji",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "孤独求败",
         "普照",
@@ -22128,7 +22128,7 @@
       "animation": "honglingbo",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "普照",
         "清心",
@@ -22198,7 +22198,7 @@
       "animation": "zydx",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "异世人"
       ],
@@ -22243,7 +22243,7 @@
       "animation": "zydx",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "斗转星移",
         "悲酥清风",
@@ -22295,7 +22295,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "斗转星移"
       ],
@@ -22385,7 +22385,7 @@
       "animation": "nandi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "斗转星移",
         "金钟罩",
@@ -22483,7 +22483,7 @@
       "animation": "qiuqianren",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "斗转星移",
         "慕容世家"
@@ -22534,7 +22534,7 @@
       "animation": "huangyinv_jian",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清心",
         "飘然",
@@ -22604,7 +22604,7 @@
       "animation": "huangyinv_jian",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "清心",
         "飘然",
@@ -22674,7 +22674,7 @@
       "animation": "huangyinv_jian",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "清心",
         "飘然",
@@ -22744,7 +22744,7 @@
       "animation": "limochou",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "毒系精通",
         "大小姐",
@@ -22796,7 +22796,7 @@
       "animation": "zhoubotong",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -22839,7 +22839,7 @@
       "animation": "chengying",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -22887,7 +22887,7 @@
       "animation": "quanzhennv",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清心",
         "幽居"
@@ -22945,7 +22945,7 @@
       "animation": "jinlunfawang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "普照",
         "追魂",
@@ -23015,7 +23015,7 @@
       "animation": "jinlunfawang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "普照",
         "追魂",
@@ -23085,7 +23085,7 @@
       "animation": "qdtl",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "金刚"
       ],
@@ -23135,7 +23135,7 @@
       "animation": "qiuqianren",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "金刚"
       ],
@@ -23190,7 +23190,7 @@
       "animation": "quanshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "金刚"
       ],
@@ -23240,7 +23240,7 @@
       "animation": "zhongniannan2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "大理世家"
       ],
@@ -23285,7 +23285,7 @@
       "animation": "yinzhiping",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清风",
         "好色"
@@ -23341,7 +23341,7 @@
       "animation": "zhaozhijing",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清风",
         "阴谋家"
@@ -23397,7 +23397,7 @@
       "animation": "hyjk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清风"
       ],
@@ -23442,7 +23442,7 @@
       "animation": "hyjk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清风"
       ],
@@ -23487,7 +23487,7 @@
       "animation": "hyjk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清风"
       ],
@@ -23537,7 +23537,7 @@
       "animation": "mayu",
       "gender": "male",
       "growTemplate": "内家",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清风"
       ],
@@ -23610,7 +23610,7 @@
       "animation": "quanzhennv",
       "gender": "female",
       "growTemplate": "内家",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清风"
       ],
@@ -23678,7 +23678,7 @@
       "animation": "qiuchuji",
       "gender": "male",
       "growTemplate": "内家",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清风"
       ],
@@ -23751,7 +23751,7 @@
       "animation": "dongfang",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "孤独求败"
       ],
@@ -23800,9 +23800,9 @@
       "level": 13,
       "portrait": "地图.佛堂",
       "animation": null,
-      "gender": "male",
+      "gender": "neutral",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "嗜血狂魔"
       ],
@@ -23845,9 +23845,9 @@
       "level": 13,
       "portrait": "地图.佛堂",
       "animation": null,
-      "gender": "male",
+      "gender": "neutral",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "嗜血狂魔"
       ],
@@ -23890,9 +23890,9 @@
       "level": 13,
       "portrait": "地图.佛堂",
       "animation": null,
-      "gender": "male",
+      "gender": "neutral",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "嗜血狂魔"
       ],
@@ -23937,7 +23937,7 @@
       "animation": "dawu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 35,
@@ -23985,7 +23985,7 @@
       "animation": "hynz",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "金钟罩"
       ],
@@ -24030,7 +24030,7 @@
       "animation": "hynz",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "碎裂的怒吼"
       ],
@@ -24085,7 +24085,7 @@
       "animation": "snyw",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -24128,7 +24128,7 @@
       "animation": "honglingbo",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 20,
@@ -24171,7 +24171,7 @@
       "animation": "guofu",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 30,
@@ -24214,7 +24214,7 @@
       "animation": "ysxd",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 80,
@@ -24257,7 +24257,7 @@
       "animation": "ysxd",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "五行阵",
         "毒系精通"
@@ -24308,7 +24308,7 @@
       "animation": "quanshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "五行阵",
         "毒系精通"
@@ -24364,7 +24364,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "五行阵",
         "毒系精通"
@@ -24410,7 +24410,7 @@
       "animation": "ysxd",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "五行阵",
         "毒系精通"
@@ -24466,7 +24466,7 @@
       "animation": "lljk",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "五行阵",
         "毒系精通"
@@ -24512,7 +24512,7 @@
       "animation": "quanshi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "八卦阵"
       ],
@@ -24557,7 +24557,7 @@
       "animation": "emeici",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "救死扶伤"
       ],
@@ -24602,7 +24602,7 @@
       "animation": "zhongniannan2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "精打细算"
       ],
@@ -24663,7 +24663,7 @@
       "animation": "zhongniannan2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "精打细算",
         "混元一气"
@@ -24731,7 +24731,7 @@
       "animation": "luyoujiao",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "神拳无敌",
         "铁拳无双"
@@ -24793,7 +24793,7 @@
       "animation": "luyoujiao",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "混元一气",
         "神拳无敌",
@@ -24856,7 +24856,7 @@
       "animation": "dama",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "铁拳无双"
       ],
@@ -24911,7 +24911,7 @@
       "animation": "jianke_bai",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "混元一气",
         "金蛇郎君",
@@ -24996,7 +24996,7 @@
       "animation": "xiedaoshi2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "铁剑掌门"
       ],
@@ -25057,7 +25057,7 @@
       "animation": "xiedaoshi2",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "铁剑掌门"
       ],
@@ -25118,7 +25118,7 @@
       "animation": "asdg",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "八卦阵"
       ],
@@ -25163,7 +25163,7 @@
       "animation": "jianke",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "金蛇郎君",
         "金蛇狂舞"
@@ -25223,7 +25223,7 @@
       "animation": "gongzhu",
       "gender": "female",
       "growTemplate": "女子",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -25264,9 +25264,9 @@
       "level": 10,
       "portrait": "头像.太监",
       "animation": "ysxd",
-      "gender": "female",
+      "gender": "eunuch",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 30,
@@ -25309,7 +25309,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 60,
@@ -25352,7 +25352,7 @@
       "animation": "sjgz",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "八卦阵"
       ],
@@ -25397,7 +25397,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -25440,7 +25440,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -25483,7 +25483,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -25526,7 +25526,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -25569,7 +25569,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -25612,7 +25612,7 @@
       "animation": null,
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [],
       "stats": {
         "bili": 40,
@@ -25655,7 +25655,7 @@
       "animation": "yuzhenzi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "乾坤大挪移"
       ],
@@ -25700,7 +25700,7 @@
       "animation": "yuzhenzi",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "乾坤大挪移"
       ],
@@ -25745,7 +25745,7 @@
       "animation": "huaheshang",
       "gender": "male",
       "growTemplate": "内功大师",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "百足之虫",
         "无尽斗志",
@@ -25814,7 +25814,7 @@
       "animation": "huaheshang",
       "gender": "male",
       "growTemplate": "内功大师",
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "百足之虫",
         "无尽斗志",
@@ -25899,7 +25899,7 @@
       "animation": "ouyangfeng",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "清心",
         "飘然",
@@ -25951,7 +25951,7 @@
       "animation": "ouyangfeng",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "素心神剑",
         "轻功大师",
@@ -25998,7 +25998,7 @@
       "animation": "qdtl",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "嗜血狂魔"
       ],
@@ -26043,7 +26043,7 @@
       "animation": "qdtl",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "嗜血狂魔"
       ],
@@ -26088,7 +26088,7 @@
       "animation": "qdtl",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "嗜血狂魔"
       ],
@@ -26133,7 +26133,7 @@
       "animation": "qdtl",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "嗜血狂魔"
       ],
@@ -26184,7 +26184,7 @@
       "animation": "xuedaolaozu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "嗜血狂魔"
       ],
@@ -26243,7 +26243,7 @@
       "animation": "xuedaolaozu",
       "gender": "male",
       "growTemplate": null,
-      "arenaTag": null,
+      "arenaEnabled": true,
       "talentIds": [
         "嗜血狂魔",
         "自我主义",
@@ -26306,7 +26306,7 @@
       "animation": "huangyinv_jian",
       "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "清心",
         "至空至明",
@@ -26432,9 +26432,9 @@
       "level": 13,
       "portrait": "头像.毛东珠",
       "animation": "jinv",
-      "gender": "male",
+      "gender": "female",
       "growTemplate": null,
-      "arenaTag": "no",
+      "arenaEnabled": false,
       "talentIds": [
         "嗜血狂魔"
       ],

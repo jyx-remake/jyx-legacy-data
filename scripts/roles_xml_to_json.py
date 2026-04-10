@@ -5,6 +5,8 @@ import json
 from pathlib import Path
 import xml.etree.ElementTree as ET
 
+from build_role_gender_list import classify_role
+
 
 INT_ATTRIBUTE_MAP: dict[str, str] = {
     "bili": "bili",
@@ -58,7 +60,12 @@ def parse_optional_text(value: str | None) -> str | None:
     return value or None
 
 
-def parse_gender(value: str | None) -> str | None:
+def parse_arena(value: str | None) -> bool:
+    text = parse_optional_text(value)
+    return text != "no"
+
+
+def parse_legacy_gender(value: str | None) -> str | None:
     match parse_int(value, default=-99):
         case 0:
             return "male"
@@ -138,15 +145,16 @@ def build_external_skills(role: ET.Element) -> list[dict[str, object]]:
 
 
 def build_role(role: ET.Element) -> dict[str, object]:
-    return {
+    legacy_gender = parse_legacy_gender(role.get("female"))
+    payload = {
         "id": role.get("key"),
         "name": role.get("name"),
         "level": parse_int(role.get("level"), default=1),
         "portrait": parse_optional_text(role.get("head")),
         "animation": parse_optional_text(role.get("animation")),
-        "gender": parse_gender(role.get("female")),
+        "gender": legacy_gender,
         "growTemplate": parse_optional_text(role.get("grow_template")),
-        "arenaTag": parse_optional_text(role.get("arena")),
+        "arenaEnabled": parse_arena(role.get("arena")),
         "talentIds": parse_talent_ids(role.get("talent")),
         "stats": build_stats(role),
         "specialSkillIds": build_special_skills(role),
@@ -154,13 +162,15 @@ def build_role(role: ET.Element) -> dict[str, object]:
         "equipmentIds": build_equipment_ids(role),
         "externalSkills": build_external_skills(role),
     }
+    payload["gender"] = classify_role(payload)
+    return payload
 
 
 def convert_roles(input_path: Path) -> dict[str, object]:
     root = ET.parse(input_path).getroot()
     characters = [build_role(role) for role in root.findall("role")]
     return {
-        "schema": "jyx-legacy.characters.v1",
+        "schema": "jyx-legacy.characters.v3",
         "source": input_path.name,
         "count": len(characters),
         "characters": characters,
