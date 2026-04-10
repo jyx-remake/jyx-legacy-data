@@ -25,6 +25,7 @@
           "name": "猴子偷桃",
           "description": "猴子专用的阴毒招数",
           "icon": "icon-houzhua",
+          "hard": 1.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -91,6 +92,7 @@
           "name": "大鹏展翅",
           "description": "大鹏展翅",
           "icon": "icon-diaozhuo",
+          "hard": 1.0,
           "cooldown": 3,
           "cost": {
             "rage": 1
@@ -163,6 +165,7 @@
           "name": "屁股向后.平沙落雁式",
           "description": "撅着屁股，发挥出松风剑法最大的威力",
           "icon": "icon-songfengjianfa",
+          "hard": 4.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -552,6 +555,7 @@
           "name": "三分剑法.天山飞雪",
           "description": "三分剑法的精髓",
           "icon": "icon-sanfenjianfa",
+          "hard": 3.0,
           "cooldown": 5,
           "cost": {
             "rage": 4
@@ -662,6 +666,7 @@
           "name": "伪生死符",
           "description": "灵鹫宫普通弟子行走江湖吓唬人的",
           "icon": "icon-weishengsifu",
+          "hard": 3.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -779,6 +784,7 @@
           "name": "飘雪穿云掌.雪漫金山",
           "description": "飘雪穿云，雪漫金山",
           "icon": "icon-piaoxuechuanyun",
+          "hard": 4.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -845,6 +851,7 @@
           "name": "天罗地网掌.彩翼双飞",
           "description": "杨过、小龙女自由发挥的天罗地网绝技",
           "icon": "icon-tianluodiwang",
+          "hard": 4.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -909,6 +916,7 @@
           "name": "华山剑法.苍松迎客",
           "description": "苍松迎客",
           "icon": "icon-songfengjianfa",
+          "hard": 4.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -1044,6 +1052,7 @@
           "name": "连环箭",
           "description": "情急之下，一顿乱射。绝招由此而来。",
           "icon": "icon-xiujian",
+          "hard": 4.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -1256,6 +1265,7 @@
           "name": "大嵩阳手.嵩阳神掌",
           "description": "亡命的一击",
           "icon": "icon-dasongyangshou",
+          "hard": 6.0,
           "cooldown": 5,
           "cost": {
             "rage": 4
@@ -1321,6 +1331,7 @@
           "name": "百花错拳.百花缭乱",
           "description": "百花错拳绝技",
           "icon": "icon-baihuacuoquan",
+          "hard": 6.0,
           "cooldown": 5,
           "cost": {
             "rage": 4
@@ -1498,6 +1509,7 @@
           "name": "毒龙鞭法.银龙毒鞭",
           "description": "歹毒的鞭法",
           "icon": "icon-dulongbianfa",
+          "hard": 8.0,
           "cooldown": 5,
           "cost": {
             "rage": 4
@@ -2643,6 +2655,7 @@
           "name": "摧心掌.辣手摧心",
           "description": "青城派掌门余沧海的绝学掌法",
           "icon": "icon-cuixinzhang",
+          "hard": 4.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -3008,6 +3021,7 @@
           "name": "赤练神掌",
           "description": "赤练仙子李莫愁的掌法绝技",
           "icon": "icon-wudushenzhang",
+          "hard": 3.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -3586,6 +3600,7 @@
           "name": "狂风刀法.万里独行",
           "description": "游走花丛的保命绝技",
           "icon": "icon-kuangfengdaofa",
+          "hard": 3.0,
           "cooldown": 4,
           "cost": {
             "rage": 3
@@ -3784,6 +3799,7 @@
           "name": "阴阳倒乱刃.绝情绝义",
           "description": "绝情谷主是个老色鬼，偏心要取个这样的绝招名字",
           "icon": "icon-yinyangdaoluan",
+          "hard": 7.0,
           "cooldown": 5,
           "cost": {
             "rage": 4
@@ -4691,6 +4707,7 @@
           "name": "太白剑法.庚已太白剑",
           "description": "太白剑法精妙招式",
           "icon": "icon-taibaijianfa",
+          "hard": 8.0,
           "cooldown": 3,
           "cost": {
             "rage": 2
@@ -4759,6 +4776,7 @@
           "name": "上清剑法.上清无极",
           "description": "上清剑法精妙招式",
           "icon": "icon-shangqingjianfa",
+          "hard": 8.0,
           "cooldown": 3,
           "cost": {
             "rage": 2
@@ -4834,6 +4852,7 @@
           "name": "归藏剑.先天八剑",
           "description": "归藏剑法精妙招式",
           "icon": "icon-guizangjian",
+          "hard": 6.0,
           "cooldown": 3,
           "cost": {
             "rage": 2
@@ -4899,6 +4918,7 @@
           "name": "金乌刀法.梅雪逢夏",
           "description": "史婆婆为了对付自大的丈夫白自在所创刀法",
           "icon": "icon-jinwudaofa",
+          "hard": 6.0,
           "cooldown": 5,
           "cost": {
             "rage": 4
@@ -5099,6 +5119,7 @@
           "name": "金蛇游身掌.跗骨之蛆",
           "description": "金蛇游身掌绝招,诡诈狠毒",
           "icon": "icon-jinsheyoushen",
+          "hard": 8.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -5176,6 +5197,7 @@
           "name": "金蛇锥.金蛇螺旋锥",
           "description": "金蛇郎君成名暗器.防不胜防,稳狠准体现的淋漓尽致",
           "icon": "icon-jinsheyoushen",
+          "hard": 8.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -5343,6 +5365,7 @@
           "name": "寒冰神掌.岁寒三尺",
           "description": "将寒冰真气凝于一点，威力强大",
           "icon": "icon-hanbingshenzhang",
+          "hard": 7.0,
           "cooldown": 4,
           "cost": {
             "rage": 4
@@ -5790,6 +5813,7 @@
           "name": "岳家枪法.碧血丹心",
           "description": "怒发冲冠的神勇一击",
           "icon": "icon-yuejiaqiangfa",
+          "hard": 7.0,
           "cooldown": 5,
           "cost": {
             "rage": 4
@@ -5974,6 +5998,7 @@
           "name": "玉女素心剑.冷月窥人",
           "description": "长剑抖动,将敌上半身尽数罩住,趁敌守护之机,刺敌小腹。",
           "icon": "icon-yunvsuxinjian",
+          "hard": 8.0,
           "cooldown": 6,
           "cost": {
             "rage": 4
@@ -6214,6 +6239,7 @@
           "name": "柔云剑法.一剑化三清",
           "description": "风起云涌，提高瞬间攻击速度",
           "icon": "icon-rouyunjianfa",
+          "hard": 6.0,
           "cooldown": 4,
           "cost": {
             "rage": 4
@@ -6454,6 +6480,7 @@
           "name": "庖丁解牛.游刃有余",
           "description": "庖丁解牛真意",
           "icon": "icon-baodingjieniu",
+          "hard": 7.0,
           "cooldown": 5,
           "cost": {
             "rage": 4
@@ -6690,6 +6717,7 @@
           "name": "青莲掌法.竹溪青莲掌",
           "description": "青莲掌法中精妙招式，绵延不绝。",
           "icon": "icon-qinglianzhangfa",
+          "hard": 7.0,
           "cooldown": 3,
           "cost": {
             "rage": 3
@@ -6763,6 +6791,7 @@
           "name": "太极拳.三环套月",
           "description": "太极拳的精要招式",
           "icon": "icon-sanhuantaoyue",
+          "hard": 8.0,
           "cooldown": 4,
           "cost": {
             "rage": 3
@@ -6797,6 +6826,7 @@
           "name": "太极拳.四两拨千斤",
           "description": "太极拳的精要招式",
           "icon": "icon-sanhuantaoyue",
+          "hard": 8.0,
           "cooldown": 6,
           "cost": {
             "rage": 4
@@ -6960,6 +6990,7 @@
           "name": "狂风快剑.神速",
           "description": "提升极限攻速，一定几率出三次攻击",
           "icon": "icon-kuangfengkuaijian",
+          "hard": 7.0,
           "cooldown": 4,
           "cost": {
             "rage": 2
@@ -7033,6 +7064,7 @@
           "name": "血刀大法.吸",
           "description": "我是你的护舒宝",
           "icon": "icon-xuedaodafaxi",
+          "hard": 9.0,
           "cooldown": 4,
           "cost": {
             "rage": 4
@@ -7215,6 +7247,7 @@
           "name": "三阴蜈蚣爪.逍遥三笑散",
           "description": "三阴蜈蚣爪绝招毒功",
           "icon": "icon-rulaiqianshou",
+          "hard": 9.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -7303,6 +7336,7 @@
           "name": "空明拳.空空如也",
           "description": "空空如也，空手套白狼",
           "icon": "icon-kongmingquan",
+          "hard": 7.0,
           "cooldown": 3,
           "cost": {
             "rage": 2
@@ -7483,6 +7517,7 @@
           "name": "一阳指.万法归一",
           "description": "一阳指练到极限领悟的绝技",
           "icon": "icon-yiyangzhi",
+          "hard": 9.0,
           "cooldown": 3,
           "cost": {
             "rage": 3
@@ -7580,6 +7615,7 @@
           "name": "倚天屠龙笔法.银钩铁划",
           "description": "张翠山武学得意之作",
           "icon": "icon-yitiantulongbi",
+          "hard": 7.0,
           "cooldown": 4,
           "cost": {
             "rage": 4
@@ -7674,6 +7710,7 @@
           "name": "幻阴指.冰魄神爪",
           "description": "带冰冻效果攻击",
           "icon": "icon-huanyinzhi",
+          "hard": 9.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -7784,6 +7821,7 @@
           "name": "弹指神通.tjjtds",
           "description": "我叫你不乖，叫你不乖！",
           "icon": "icon-tanzhishentong",
+          "hard": 9.0,
           "cooldown": 0,
           "cost": {
             "rage": 2
@@ -7812,6 +7850,7 @@
           "name": "弹指神通.冰霜一指",
           "description": "弹指神通绝技",
           "icon": "icon-tanzhishentong",
+          "hard": 9.0,
           "cooldown": 4,
           "cost": {
             "rage": 4
@@ -7895,6 +7934,7 @@
           "name": "混元掌.独步降魔",
           "description": "混元掌中精妙招式，绵延不绝。",
           "icon": "icon-hunyuanzhang",
+          "hard": 9.0,
           "cooldown": 3,
           "cost": {
             "rage": 3
@@ -8001,6 +8041,7 @@
           "name": "三花聚顶掌.五气朝阳",
           "description": "全真教名震天下的掌法绝学",
           "icon": "icon-sanhuajuding",
+          "hard": 9.0,
           "cooldown": 4,
           "cost": {
             "rage": 4
@@ -8165,6 +8206,7 @@
           "name": "火焰刀法.十方炼狱",
           "description": "救命啊！起火啦！",
           "icon": "icon-huoyandao",
+          "hard": 7.0,
           "cooldown": 4,
           "cost": {
             "rage": 4
@@ -8272,6 +8314,7 @@
           "name": "破玉拳.封",
           "description": "破玉拳杀招,封",
           "icon": "icon-poyuquanfeng",
+          "hard": 9.0,
           "cooldown": 2,
           "cost": {
             "rage": 3
@@ -8306,6 +8349,7 @@
           "name": "破玉拳.崩",
           "description": "破玉拳杀招,崩",
           "icon": "icon-poyuquanbeng",
+          "hard": 9.0,
           "cooldown": 3,
           "cost": {
             "rage": 3
@@ -8389,6 +8433,7 @@
           "name": "碧落苍穹.落九天",
           "description": "气劲直冲九重天",
           "icon": "icon-chongjiutian",
+          "hard": 9.0,
           "cooldown": 4,
           "cost": {
             "rage": 2
@@ -8423,6 +8468,7 @@
           "name": "碧落苍穹.落黄泉",
           "description": "气劲下透落黄泉",
           "icon": "icon-luohuangquan",
+          "hard": 9.0,
           "cooldown": 4,
           "cost": {
             "rage": 4
@@ -8505,6 +8551,7 @@
           "name": "天外飞龙.一剑西来",
           "description": "恍惚中天边似有一剑西来",
           "icon": "icon-yijianxilai",
+          "hard": 9.0,
           "cooldown": 3,
           "cost": {
             "rage": 2
@@ -8539,6 +8586,7 @@
           "name": "天外飞龙.天外飞仙",
           "description": "月圆之夜,紫禁之巅,一剑西来,天外飞仙!",
           "icon": "icon-tianwaifeixian",
+          "hard": 9.0,
           "cooldown": 4,
           "cost": {
             "rage": 4
@@ -8627,6 +8675,7 @@
           "name": "大力金刚指.炎魔一指",
           "description": "大力金刚指绝技",
           "icon": "icon-dalijingangzhi",
+          "hard": 9.0,
           "cooldown": 2,
           "cost": {
             "rage": 2
@@ -8771,6 +8820,7 @@
           "name": "太极剑.无我无剑",
           "description": "太极剑的精要，达到无我的境界，几乎能够毁天灭地的一招",
           "icon": "icon-wuwowujian",
+          "hard": 10.0,
           "cooldown": 10,
           "cost": {
             "rage": 6
@@ -8916,6 +8966,7 @@
           "name": "苗家剑法.冲天掌苏秦背剑",
           "description": "苗家剑法精妙招式",
           "icon": "icon-miaojiajianfa",
+          "hard": 8.0,
           "cooldown": 4,
           "cost": {
             "rage": 2
@@ -9029,6 +9080,7 @@
           "name": "连城剑法.长剑横九野",
           "description": "连城剑法精妙招式",
           "icon": "icon-lianchengjianfa",
+          "hard": 9.0,
           "cooldown": 3,
           "cost": {
             "rage": 2
@@ -9057,6 +9109,7 @@
           "name": "连城剑法.大雪满弓刀",
           "description": "连城剑法精妙招式",
           "icon": "icon-lianchengjianfa",
+          "hard": 9.0,
           "cooldown": 6,
           "cost": {
             "rage": 4
@@ -9161,6 +9214,7 @@
           "name": "药王神掌.万蛊嗜心",
           "description": "撒出致命毒药",
           "icon": "icon-yaowangshenzhang",
+          "hard": 8.0,
           "cooldown": 2,
           "cost": {
             "rage": 1
@@ -9251,6 +9305,7 @@
           "name": "玄冥神掌.九幽归天",
           "description": "阴寒至极的掌法",
           "icon": "icon-xuanmingshenzhang",
+          "hard": 8.0,
           "cooldown": 3,
           "cost": {
             "rage": 2
@@ -9335,6 +9390,7 @@
           "name": "六脉神剑.少泽剑",
           "description": "以小拇指发出的剑气，速度极快",
           "icon": "icon-shaozejian",
+          "hard": 10.0,
           "cooldown": 2,
           "cost": {
             "rage": 1
@@ -9363,6 +9419,7 @@
           "name": "六脉神剑.六脉齐发",
           "description": "六脉神剑的精髓所在",
           "icon": "icon-liumaiqifa",
+          "hard": 10.0,
           "cooldown": 6,
           "cost": {
             "rage": 3
@@ -9462,6 +9519,7 @@
           "name": "黯然销魂掌.拖泥带水",
           "description": "神雕大侠吼一吼，大山也要抖三抖",
           "icon": "icon-tuonidaishui",
+          "hard": 10.0,
           "cooldown": 4,
           "cost": {
             "rage": 4
@@ -9574,6 +9632,7 @@
           "name": "胡家刀法.八方藏刀式",
           "description": "胡家刀法中的精妙绝技",
           "icon": "icon-hujiadaofa",
+          "hard": 10.0,
           "cooldown": 5,
           "cost": {
             "rage": 4
@@ -9717,6 +9776,7 @@
           "name": "金蛇剑法.金蛇狂舞",
           "description": "金蛇剑法的极致",
           "icon": "icon-jinshejianfa",
+          "hard": 9.0,
           "cooldown": 2,
           "cost": {
             "rage": 4
@@ -9924,6 +9984,7 @@
           "name": "天山折梅手.折梅六式",
           "description": "天下武功，尽在天山折梅手六式之内。",
           "icon": "icon-zhemeiliushi",
+          "hard": 10.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -10022,6 +10083,7 @@
           "name": "辟邪剑法.剑魔乱舞",
           "description": "辟邪剑法的极致，无边无际的黑暗",
           "icon": "icon-jianmoluanwu",
+          "hard": 10.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -10121,6 +10183,7 @@
           "name": "鸳鸯刀法.花开并蒂",
           "description": "两路刀法并使，鸳鸯刀法真意",
           "icon": "icon-yuanyangdaofa",
+          "hard": 10.0,
           "cooldown": 4,
           "cost": {
             "rage": 4
@@ -10193,6 +10256,7 @@
           "name": "打狗棒法.天下无狗",
           "description": "打狗棒法的精义所在",
           "icon": "icon-tianxiawugou",
+          "hard": 10.0,
           "cooldown": 5,
           "cost": {
             "rage": 4
@@ -10281,6 +10345,7 @@
           "name": "斗转星移.陨石星浪",
           "description": "斗转星移绝技",
           "icon": "icon-douzhuanxingyi",
+          "hard": 9.0,
           "cooldown": 5,
           "cost": {
             "rage": 6
@@ -10354,6 +10419,7 @@
           "name": "如来神掌.天佛降世",
           "description": "佛耶？魔耶？",
           "icon": "icon-tianfojiangshi",
+          "hard": 10.0,
           "cooldown": 4,
           "cost": {
             "rage": 4
@@ -10562,6 +10628,7 @@
           "name": "天山剑法.白莲",
           "description": "如白莲一般美丽绽放。",
           "icon": "icon-songfengjianfa",
+          "hard": 10.0,
           "cooldown": 5,
           "cost": {
             "rage": 2
@@ -10590,6 +10657,7 @@
           "name": "天山剑法.回风飘雪",
           "description": "如飘雪一般笼罩战场，造成极大的杀伤",
           "icon": "icon-songfengjianfa",
+          "hard": 10.0,
           "cooldown": 5,
           "cost": {
             "rage": 6
@@ -10676,6 +10744,7 @@
           "name": "玄铁剑法.重剑无锋",
           "description": "玄铁剑法朴实无华的一招",
           "icon": "icon-xuantiejianfa",
+          "hard": 10.0,
           "cooldown": 4,
           "cost": {
             "rage": 3
@@ -10789,6 +10858,7 @@
           "name": "降龙十八掌.亢龙有悔",
           "description": "刚猛无匹的亢龙有悔",
           "icon": "icon-kanglongyouhui",
+          "hard": 11.0,
           "cooldown": 3,
           "cost": {
             "rage": 4
@@ -10823,6 +10893,7 @@
           "name": "降龙十八掌.飞龙在天",
           "description": "至刚至烈的一式",
           "icon": "icon-feilongzaitian",
+          "hard": 11.0,
           "cooldown": 5,
           "cost": {
             "rage": 6
@@ -10997,6 +11068,7 @@
           "name": "独孤九剑.破剑式",
           "description": "独孤九剑破剑式",
           "icon": "icon-pojianshi",
+          "hard": 10.0,
           "cooldown": 6,
           "cost": {
             "rage": 4
@@ -11025,6 +11097,7 @@
           "name": "独孤九剑.破刀式",
           "description": "独孤九剑破刀式",
           "icon": "icon-podaoshi",
+          "hard": 10.0,
           "cooldown": 6,
           "cost": {
             "rage": 4
@@ -11053,6 +11126,7 @@
           "name": "独孤九剑.破掌式",
           "description": "独孤九剑破掌式",
           "icon": "icon-pozhangshi",
+          "hard": 10.0,
           "cooldown": 6,
           "cost": {
             "rage": 4
@@ -11081,6 +11155,7 @@
           "name": "独孤九剑.破兵式",
           "description": "独孤九剑破兵式，破各种奇门技能",
           "icon": "icon-pobingshi",
+          "hard": 10.0,
           "cooldown": 6,
           "cost": {
             "rage": 4
@@ -11109,6 +11184,7 @@
           "name": "独孤九剑.总诀式",
           "description": "学成此式，方可以天下绝顶高手一较胜负",
           "icon": "icon-zongjueshi",
+          "hard": 10.0,
           "cooldown": 6,
           "cost": {
             "rage": 4
@@ -11209,6 +11285,7 @@
           "name": "烈焰黑枪.八方黑炎",
           "description": "黑色火焰笼罩世界",
           "icon": "icon-lieyanheiqiang",
+          "hard": 12.0,
           "cooldown": 5,
           "cost": {
             "rage": 6
@@ -11278,6 +11355,7 @@
           "name": "烈焰黑剑.幽垠",
           "description": "黑色火焰笼罩世界",
           "icon": "icon-lieyanheijian",
+          "hard": 12.0,
           "cooldown": 5,
           "cost": {
             "rage": 6
@@ -11461,6 +11539,7 @@
           "name": "野球拳.市井流氓",
           "description": "我是流氓我怕谁！",
           "icon": "icon-shijingliumang",
+          "hard": 12.0,
           "cooldown": 5,
           "cost": {
             "rage": 2
@@ -11489,6 +11568,7 @@
           "name": "野球拳.胡搅蛮缠",
           "description": "我要发飙了！",
           "icon": "icon-hujiaomanchan",
+          "hard": 12.0,
           "cooldown": 8,
           "cost": {
             "rage": 6
@@ -11589,6 +11669,7 @@
           "name": "越女剑法.无影神剑",
           "description": "无法琢磨的神奇剑法",
           "icon": "icon-yuejiaqiangfa",
+          "hard": 12.0,
           "cooldown": 6,
           "cost": {
             "rage": 4
