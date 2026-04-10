@@ -6,6 +6,19 @@ from pathlib import Path
 import xml.etree.ElementTree as ET
 
 
+COVER_TYPE_MAP: dict[int, str] = {
+    0: "single",
+    1: "plus",
+    2: "star",
+    3: "line",
+    4: "square",
+    5: "fan",
+    6: "ring",
+    7: "x",
+    8: "cleave",
+}
+
+
 def parse_args() -> argparse.Namespace:
     script_path = Path(__file__).resolve()
     repo_root = script_path.parent.parent
@@ -41,6 +54,12 @@ def parse_optional_text(value: str | None) -> str | None:
     return value or None
 
 
+def parse_cover_type(value: str | None) -> str | None:
+    if value is None or value == "":
+        return None
+    return COVER_TYPE_MAP.get(int(value), value)
+
+
 def parse_buffs(value: str | None) -> list[dict[str, object]]:
     text = parse_optional_text(value)
     if text is None:
@@ -52,7 +71,12 @@ def parse_buffs(value: str | None) -> list[dict[str, object]]:
         if not parts or not parts[0]:
             continue
 
-        buff: dict[str, object] = {"id": parts[0]}
+        buff: dict[str, object] = {
+            "id": parts[0],
+            "level": 1,
+            "duration": 3,
+            "chance": -1,
+        }
         if len(parts) > 1 and parts[1] != "":
             buff["level"] = parse_int(parts[1])
         if len(parts) > 2 and parts[2] != "":
@@ -81,7 +105,7 @@ def build_skill(skill: ET.Element) -> dict[str, object]:
             "canTargetSelf": skill.get("hitself") == "1",
             "castType": None,
             "castSize": parse_int(skill.get("castsize")),
-            "impactType": parse_int(skill.get("covertype")),
+            "impactType": parse_cover_type(skill.get("covertype")),
             "impactSize": parse_int(skill.get("coversize")),
         },
         "animation": parse_optional_text(skill.get("animation")),

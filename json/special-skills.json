@@ -17,7 +17,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 10,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 1
       },
       "animation": "guanghuan_yellow3",
@@ -38,7 +38,7 @@
         "canTargetSelf": false,
         "castType": null,
         "castSize": 1,
-        "impactType": 3,
+        "impactType": "line",
         "impactSize": 10
       },
       "animation": "jian_zhan",
@@ -59,7 +59,7 @@
         "canTargetSelf": false,
         "castType": null,
         "castSize": 3,
-        "impactType": 4,
+        "impactType": "square",
         "impactSize": 5
       },
       "animation": "guanghuan_bianfu",
@@ -80,7 +80,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 0,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 0
       },
       "animation": "test",
@@ -108,7 +108,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 0,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 0
       },
       "animation": "guanghuan_yellow",
@@ -136,7 +136,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 0,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 0
       },
       "animation": "guanghuan_blue2",
@@ -170,7 +170,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 0,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 0
       },
       "animation": "guanghuan_yellow3",
@@ -204,7 +204,7 @@
         "canTargetSelf": false,
         "castType": null,
         "castSize": 1,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 1
       },
       "animation": "huozhu_jin",
@@ -225,7 +225,7 @@
         "canTargetSelf": false,
         "castType": null,
         "castSize": 1,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 1
       },
       "animation": "huozhu_jin",
@@ -246,7 +246,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 0,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 0
       },
       "animation": "guanghuan_orange",
@@ -267,7 +267,7 @@
         "canTargetSelf": false,
         "castType": null,
         "castSize": 4,
-        "impactType": 1,
+        "impactType": "plus",
         "impactSize": 1
       },
       "animation": "guanghuan_shengji",
@@ -288,7 +288,7 @@
         "canTargetSelf": false,
         "castType": null,
         "castSize": 6,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 0
       },
       "animation": "baozha2",
@@ -322,7 +322,7 @@
         "canTargetSelf": false,
         "castType": null,
         "castSize": 3,
-        "impactType": 1,
+        "impactType": "plus",
         "impactSize": 0
       },
       "animation": "heixue",
@@ -350,7 +350,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 0,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 0
       },
       "animation": "guanghuan_yellow",
@@ -378,7 +378,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 0,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 0
       },
       "animation": "guanghuan_yellow",
@@ -399,7 +399,7 @@
         "canTargetSelf": false,
         "castType": null,
         "castSize": 1,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 1
       },
       "animation": "yuanquan",
@@ -433,7 +433,7 @@
         "canTargetSelf": false,
         "castType": null,
         "castSize": 1,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 1
       },
       "animation": "yuanquan",
@@ -467,7 +467,7 @@
         "canTargetSelf": false,
         "castType": null,
         "castSize": 5,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 1
       },
       "animation": "longjuanfeng_green",
@@ -495,7 +495,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 0,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 0
       },
       "animation": "guanghuan_white",
@@ -516,7 +516,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 0,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 0
       },
       "animation": "guanghuan_white",
@@ -537,7 +537,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 0,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 0
       },
       "animation": "guanghuan_white",
@@ -558,7 +558,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 0,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 0
       },
       "animation": "aoyi_fire",
@@ -579,7 +579,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 10,
-        "impactType": 4,
+        "impactType": "square",
         "impactSize": 3
       },
       "animation": "guanghuan_yellow",
@@ -600,7 +600,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 0,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 0
       },
       "animation": "guanghuan_blue2",
@@ -628,7 +628,7 @@
         "canTargetSelf": false,
         "castType": null,
         "castSize": 3,
-        "impactType": 1,
+        "impactType": "plus",
         "impactSize": 0
       },
       "animation": "baozha2",
@@ -656,7 +656,7 @@
         "canTargetSelf": false,
         "castType": null,
         "castSize": 2,
-        "impactType": 4,
+        "impactType": "square",
         "impactSize": 4
       },
       "animation": "baozha2",
@@ -677,7 +677,7 @@
         "canTargetSelf": true,
         "castType": null,
         "castSize": 0,
-        "impactType": 0,
+        "impactType": "single",
         "impactSize": 0
       },
       "animation": "aoyi_jianpurple",
