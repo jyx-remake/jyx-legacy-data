@@ -87,8 +87,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "output",
         nargs="?",
-        default=str(output_dir / "external_skills.json"),
-        help="Path to output external_skills.json",
+        default=str(output_dir / "external-skills.json"),
+        help="Path to output external-skills.json",
     )
     return parser.parse_args()
 

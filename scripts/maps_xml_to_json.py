@@ -62,15 +62,20 @@ def build_event(event: ET.Element) -> dict[str, object]:
     if event_type is None:
         raise ValueError("map event is missing type.")
 
-    return {
+    event_data: dict[str, object] = {
         "type": event_type,
         "targetId": parse_optional_text(event.get("value")),
         "probability": parse_int(event.get("probability"), default=100),
-        "repeatMode": parse_repeat_mode(event.get("repeat")),
         "image": parse_optional_text(event.get("image")),
         "description": parse_optional_text(event.get("description")),
         "conditions": [build_condition(condition) for condition in event.findall("condition")],
     }
+
+    repeat_mode = parse_repeat_mode(event.get("repeat"))
+    if repeat_mode is not None:
+        event_data["repeatMode"] = repeat_mode
+
+    return event_data
 
 
 def build_map_unit(unit: ET.Element) -> dict[str, object]:

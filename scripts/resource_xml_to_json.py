@@ -22,8 +22,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "output",
         nargs="?",
-        default=str(output_dir / "resource-catalog.json"),
-        help="Path to output resource-catalog.json",
+        default=str(output_dir / "resources.json"),
+        help="Path to output resources.json",
     )
     return parser.parse_args()
 
@@ -42,7 +42,7 @@ def infer_group(resource_id: str) -> str | None:
     return head or None
 
 
-def build_entry(element: ET.Element) -> dict[str, object]:
+def build_resouce(element: ET.Element) -> dict[str, object]:
     resource_id = parse_optional_text(element.get("key"))
     if resource_id is None:
         raise ValueError("resource entry is missing key.")
@@ -51,18 +51,17 @@ def build_entry(element: ET.Element) -> dict[str, object]:
         "id": resource_id,
         "group": infer_group(resource_id),
         "value": parse_optional_text(element.get("value")),
-        "icon": parse_optional_text(element.get("icon")),
     }
 
 
-def convert_resource_catalog(input_path: Path) -> dict[str, object]:
+def convert_resource(input_path: Path) -> dict[str, object]:
     root = ET.parse(input_path).getroot()
-    entries = [build_entry(element) for element in root.findall("resource")]
+    resouces = [build_resouce(element) for element in root.findall("resource")]
     return {
-        "schema": "jyx-legacy.resource-catalog.v1",
+        "schema": "jyx-legacy.resources.v1",
         "source": input_path.name,
-        "count": len(entries),
-        "entries": entries,
+        "count": len(resouces),
+        "resouces": resouces,
     }
 
 
@@ -71,7 +70,7 @@ def main() -> None:
     input_path = Path(args.input).resolve()
     output_path = Path(args.output).resolve()
 
-    payload = convert_resource_catalog(input_path)
+    payload = convert_resource(input_path)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(
         json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
