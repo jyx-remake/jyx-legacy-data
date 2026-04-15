@@ -46,15 +46,9 @@ def build_game_tip(element: ET.Element) -> dict[str, object]:
     }
 
 
-def convert_game_tips(input_path: Path) -> dict[str, object]:
+def convert_game_tips(input_path: Path) -> list[dict[str, object]]:
     root = ET.parse(input_path).getroot()
-    game_tips = [build_game_tip(element) for element in root.findall("resource")]
-    return {
-        "schema": "jyx-legacy.game-tips.v1",
-        "source": input_path.name,
-        "count": len(game_tips),
-        "gameTips": game_tips,
-    }
+    return [build_game_tip(element) for element in root.findall("resource")]
 
 
 def main() -> None:

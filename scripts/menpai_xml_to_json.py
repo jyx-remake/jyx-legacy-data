@@ -69,15 +69,9 @@ def build_menpai(element: ET.Element) -> dict[str, object]:
     }
 
 
-def convert_menpai(input_path: Path) -> dict[str, object]:
+def convert_menpai(input_path: Path) -> list[dict[str, object]]:
     root = ET.parse(input_path).getroot()
-    sects = [build_menpai(element) for element in root.findall("menpai")]
-    return {
-        "schema": "jyx-legacy.sects.v1",
-        "source": input_path.name,
-        "count": len(sects),
-        "sects": sects,
-    }
+    return [build_menpai(element) for element in root.findall("menpai")]
 
 
 def main() -> None:

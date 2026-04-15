@@ -6,6 +6,9 @@ from pathlib import Path
 import xml.etree.ElementTree as ET
 
 
+EXCLUDED_GROUPS = {"天赋", "buff"}
+
+
 def parse_args() -> argparse.Namespace:
     script_path = Path(__file__).resolve()
     repo_root = script_path.parent.parent
@@ -42,27 +45,29 @@ def infer_group(resource_id: str) -> str | None:
     return head or None
 
 
-def build_resouce(element: ET.Element) -> dict[str, object]:
+def build_resource(element: ET.Element) -> dict[str, object] | None:
     resource_id = parse_optional_text(element.get("key"))
     if resource_id is None:
         raise ValueError("resource entry is missing key.")
 
+    group = infer_group(resource_id)
+    if group in EXCLUDED_GROUPS:
+        return None
+
     return {
         "id": resource_id,
-        "group": infer_group(resource_id),
+        "group": group,
         "value": parse_optional_text(element.get("value")),
     }
 
 
-def convert_resource(input_path: Path) -> dict[str, object]:
+def convert_resource(input_path: Path) -> list[dict[str, object]]:
     root = ET.parse(input_path).getroot()
-    resouces = [build_resouce(element) for element in root.findall("resource")]
-    return {
-        "schema": "jyx-legacy.resources.v1",
-        "source": input_path.name,
-        "count": len(resouces),
-        "resouces": resouces,
-    }
+    return [
+        resource
+        for element in root.findall("resource")
+        if (resource := build_resource(element)) is not None
+    ]
 
 
 def main() -> None:

@@ -75,14 +75,15 @@ def parse_buffs(value: str | None) -> list[dict[str, object]]:
             "id": parts[0],
             "level": 1,
             "duration": 3,
-            "chance": -1,
         }
         if len(parts) > 1 and parts[1] != "":
             buff["level"] = parse_int(parts[1])
         if len(parts) > 2 and parts[2] != "":
             buff["duration"] = parse_int(parts[2])
         if len(parts) > 3 and parts[3] != "":
-            buff["chance"] = parse_int(parts[3])
+            chance = parse_int(parts[3])
+            if chance >= 0:
+                buff["chance"] = chance
         if len(parts) > 4:
             buff["args"] = [part for part in parts[4:] if part]
         buffs.append(buff)
@@ -114,15 +115,9 @@ def build_skill(skill: ET.Element) -> dict[str, object]:
     }
 
 
-def convert_special_skills(input_path: Path) -> dict[str, object]:
+def convert_special_skills(input_path: Path) -> list[dict[str, object]]:
     root = ET.parse(input_path).getroot()
-    special_skills = [build_skill(skill) for skill in root.findall("special_skill")]
-    return {
-        "schema": "jyx-legacy.special-skills.v2",
-        "source": input_path.name,
-        "count": len(special_skills),
-        "specialSkills": special_skills,
-    }
+    return [build_skill(skill) for skill in root.findall("special_skill")]
 
 
 def main() -> None:

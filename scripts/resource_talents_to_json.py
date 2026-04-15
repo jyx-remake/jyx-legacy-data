@@ -66,8 +66,6 @@ def build_talent_entry(element: ET.Element) -> dict[str, object] | None:
         "name": name,
         "point": point,
         "description": description,
-        "modifiers": [],
-        "hooks": [],
     }
 
 

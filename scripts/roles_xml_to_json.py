@@ -111,7 +111,7 @@ def build_internal_skills(role: ET.Element) -> list[dict[str, object]]:
             "id": skill_name,
             "level": parse_int(skill.get("level"), default=1),
             "maxLevel": parse_int(skill.get("maxlevel"), default=10),
-            "isEquipped": skill.get("equipped") == "1",
+            "equipped": skill.get("equipped") == "1",
         }
         for skill in container.findall("internal_skill")
         if (skill_name := parse_optional_text(skill.get("name"))) is not None
@@ -151,7 +151,7 @@ def build_role(role: ET.Element) -> dict[str, object]:
         "name": role.get("name"),
         "level": parse_int(role.get("level"), default=1),
         "portrait": parse_optional_text(role.get("head")),
-        "animation": parse_optional_text(role.get("animation")),
+        "model": parse_optional_text(role.get("animation")),
         "gender": legacy_gender,
         "growTemplate": parse_optional_text(role.get("grow_template")),
         "arenaEnabled": parse_arena(role.get("arena")),
@@ -166,15 +166,9 @@ def build_role(role: ET.Element) -> dict[str, object]:
     return payload
 
 
-def convert_roles(input_path: Path) -> dict[str, object]:
+def convert_roles(input_path: Path) -> list[dict[str, object]]:
     root = ET.parse(input_path).getroot()
-    characters = [build_role(role) for role in root.findall("role")]
-    return {
-        "schema": "jyx-legacy.characters.v3",
-        "source": input_path.name,
-        "count": len(characters),
-        "characters": characters,
-    }
+    return [build_role(role) for role in root.findall("role")]
 
 
 def main() -> None:

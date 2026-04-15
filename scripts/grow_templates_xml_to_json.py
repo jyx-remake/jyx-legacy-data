@@ -70,15 +70,9 @@ def build_grow_template(element: ET.Element) -> dict[str, object]:
     }
 
 
-def convert_grow_templates(input_path: Path) -> dict[str, object]:
+def convert_grow_templates(input_path: Path) -> list[dict[str, object]]:
     root = ET.parse(input_path).getroot()
-    grow_templates = [build_grow_template(element) for element in root.findall("grow_template")]
-    return {
-        "schema": "jyx-legacy.grow-templates.v1",
-        "source": input_path.name,
-        "count": len(grow_templates),
-        "growTemplates": grow_templates,
-    }
+    return [build_grow_template(element) for element in root.findall("grow_template")]
 
 
 def main() -> None:

@@ -73,15 +73,9 @@ def build_shop(shop: ET.Element) -> dict[str, object]:
     }
 
 
-def convert_shops(input_path: Path) -> dict[str, object]:
+def convert_shops(input_path: Path) -> list[dict[str, object]]:
     root = ET.parse(input_path).getroot()
-    shops = [build_shop(shop) for shop in root.findall("shop")]
-    return {
-        "schema": "jyx-legacy.shops.v1",
-        "source": input_path.name,
-        "count": len(shops),
-        "shops": shops,
-    }
+    return [build_shop(shop) for shop in root.findall("shop")]
 
 
 def main() -> None:

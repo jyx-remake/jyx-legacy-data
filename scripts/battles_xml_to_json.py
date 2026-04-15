@@ -102,15 +102,9 @@ def build_battle(battle: ET.Element) -> dict[str, object]:
     }
 
 
-def convert_battles(input_path: Path) -> dict[str, object]:
+def convert_battles(input_path: Path) -> list[dict[str, object]]:
     root = ET.parse(input_path).getroot()
-    battles = [build_battle(battle) for battle in root.findall("battle")]
-    return {
-        "schema": "jyx-legacy.battles.v1",
-        "source": input_path.name,
-        "count": len(battles),
-        "battles": battles,
-    }
+    return [build_battle(battle) for battle in root.findall("battle")]
 
 
 def main() -> None:

@@ -71,6 +71,7 @@ def build_stage(stage: ET.Element) -> dict[str, object]:
 
     return {
         "id": stage_id,
+        "name": stage_id,
         "battleId": stage_id,
         "index": parse_int(stage.get("index")),
         "rewards": [build_reward(item) for item in stage.findall("item")],
@@ -102,15 +103,9 @@ def build_tower(tower: ET.Element) -> dict[str, object]:
     }
 
 
-def convert_towers(input_path: Path) -> dict[str, object]:
+def convert_towers(input_path: Path) -> list[dict[str, object]]:
     root = ET.parse(input_path).getroot()
-    towers = [build_tower(tower) for tower in root.findall("tower")]
-    return {
-        "schema": "jyx-legacy.towers.v1",
-        "source": input_path.name,
-        "count": len(towers),
-        "towers": towers,
-    }
+    return [build_tower(tower) for tower in root.findall("tower")]
 
 
 def main() -> None:

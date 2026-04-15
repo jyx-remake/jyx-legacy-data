@@ -62,14 +62,15 @@ def parse_buffs(value: str | None) -> list[dict[str, object]]:
             "id": parts[0],
             "level": 1,
             "duration": 3,
-            "chance": -1,
         }
         if len(parts) > 1 and parts[1] != "":
             buff["level"] = parse_int(parts[1])
         if len(parts) > 2 and parts[2] != "":
             buff["duration"] = parse_int(parts[2])
         if len(parts) > 3 and parts[3] != "":
-            buff["chance"] = parse_int(parts[3])
+            chance = parse_int(parts[3])
+            if chance >= 0:
+                buff["chance"] = chance
         if len(parts) > 4:
             args = [part for part in parts[4:] if part]
             if args:
@@ -137,16 +138,11 @@ def build_legend_skill(aoyi: ET.Element) -> dict[str, object]:
     return legend_skill
 
 
-def convert_aoyis(input_path: Path) -> dict[str, object]:
+def convert_aoyis(input_path: Path) -> list[dict[str, object]]:
     root = ET.parse(input_path).getroot()
     legend_skills = [build_legend_skill(aoyi) for aoyi in root.findall("aoyi")]
     assign_unique_ids(legend_skills)
-    return {
-        "schema": "jyx-legacy.legend-skills.v1",
-        "source": input_path.name,
-        "count": len(legend_skills),
-        "legendSkills": legend_skills,
-    }
+    return legend_skills
 
 
 def main() -> None:

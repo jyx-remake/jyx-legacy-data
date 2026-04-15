@@ -5,6 +5,12 @@ import json
 from pathlib import Path
 import xml.etree.ElementTree as ET
 
+from current_content_schema import (
+    EQUIPMENT_ITEM_TYPES,
+    build_grant_talent_affix,
+    parse_passive_affixes,
+)
+
 
 ACTIVE_TRIGGER_NAME_MAP: dict[str, str] = {
     "AddBuff": "add_buff",
@@ -21,29 +27,6 @@ ACTIVE_TRIGGER_NAME_MAP: dict[str, str] = {
     "specialskill": "special_skill",
 }
 
-PASSIVE_TRIGGER_NAME_MAP: dict[str, str] = {
-    "powerup_skill": "powerup_external_skill",
-    "powerup_internalskill": "powerup_internal_skill",
-    "powerup_uniqueskill": "powerup_form_skill",
-    "powerup_aoyi": "powerup_legend_skill",
-    "powerup_quanzhang": "powerup_quanzhang",
-    "powerup_jianfa": "powerup_jianfa",
-    "powerup_daofa": "powerup_daofa",
-    "powerup_qimen": "powerup_qimen",
-    "attack": "attack",
-    "defence": "defence",
-    "critical": "crit_mult",
-    "criticalp": "crit_chance",
-    "sp": "speed",
-    "mingzhong": "accuracy",
-    "xi": "lifesteal",
-    "anti_debuff": "anti_debuff",
-    "animation": "animation",
-    "talent": "talent",
-    "eq_talent": "equipped_talent",
-    "attribute": "stat",
-}
-
 ITEM_TYPE_MAP: dict[int, str] = {
     0: "consumable",
     1: "weapon",
@@ -54,23 +37,7 @@ ITEM_TYPE_MAP: dict[int, str] = {
     6: "special_skill_book",
     7: "talent_book",
     8: "booster",
-    9: "utility_item",
-}
-
-ATTRIBUTE_NAME_MAP: dict[str, str] = {
-    "臂力": "bili",
-    "定力": "dingli",
-    "福缘": "fuyuan",
-    "根骨": "gengu",
-    "剑法": "jianfa",
-    "刀法": "daofa",
-    "拳掌": "quanzhang",
-    "奇门": "qimen",
-    "身法": "shenfa",
-    "五行": "wuxing",
-    "悟性": "wuxue",
-    "生命": "max_hp",
-    "内力": "max_mp",
+    9: "utility",
 }
 
 REQUIRE_STAT_NAMES = {
@@ -139,31 +106,6 @@ def split_hash_list(value: str | None) -> list[str]:
     return [part.strip() for part in text.split("#") if part.strip()]
 
 
-def split_csv(value: str | None) -> list[str]:
-    text = parse_optional_text(value)
-    if text is None:
-        return []
-    return [part.strip() for part in text.split(",") if part.strip()]
-
-
-def try_parse_number(value: str) -> int | float | None:
-    try:
-        return int(value)
-    except ValueError:
-        try:
-            return float(value)
-        except ValueError:
-            return None
-
-
-def parse_numeric_csv(value: str | None) -> list[int | float] | None:
-    parts = split_csv(value)
-    if not parts:
-        return None
-    numbers = [try_parse_number(part) for part in parts]
-    return None if any(number is None for number in numbers) else [number for number in numbers if number is not None]
-
-
 def parse_active_effect(trigger: ET.Element) -> dict[str, object]:
     original_name = trigger.get("name")
     effect_type = ACTIVE_TRIGGER_NAME_MAP[original_name]
@@ -183,11 +125,11 @@ def parse_active_effect(trigger: ET.Element) -> dict[str, object]:
         return effect
 
     if effect_type == "detoxify":
-        effect["values"] = parse_numeric_csv(argvs) or []
+        effect["values"] = parse_numeric_values(argvs)
         return effect
 
     if effect_type in {"external_skill", "internal_skill"}:
-        parts = split_csv(argvs)
+        parts = split_csv_values(argvs)
         effect["skillId"] = parts[0] if parts else None
         if len(parts) > 1:
             effect["level"] = parse_int(parts[1])
@@ -200,124 +142,16 @@ def parse_active_effect(trigger: ET.Element) -> dict[str, object]:
     raise ValueError(f"Unsupported active trigger: {original_name}")
 
 
-def build_skill_modifier_effect(
-    target_type: str,
-    value: int,
-    *,
-    target_id: str | None = None,
-    stat: str = "power",
-) -> dict[str, object]:
-    effect: dict[str, object] = {
-        "type": "skill_modifier",
-        "targetType": target_type,
-        "stat": stat,
-        "value": value,
-    }
-    if target_id is not None:
-        effect["targetId"] = target_id
-    return effect
+def split_csv_values(value: str | None) -> list[str]:
+    text = parse_optional_text(value)
+    if text is None:
+        return []
+    return [part.strip() for part in text.split(",") if part.strip()]
 
 
-def build_stat_modifier_effect(stat_id: str, value: int) -> dict[str, object]:
-    return {
-        "type": "stat_modifier",
-        "statId": stat_id,
-        "value": value,
-    }
-
-
-def parse_passive_effects(trigger: ET.Element) -> list[dict[str, object]]:
-    original_name = trigger.get("name")
-    effect_type = PASSIVE_TRIGGER_NAME_MAP[original_name]
-    argvs = parse_optional_text(trigger.get("argvs"))
-
-    effect: dict[str, object] = {"type": effect_type}
-    numeric_values = parse_numeric_csv(argvs)
-
-    if effect_type == "stat":
-        parts = split_csv(argvs)
-        stat_name = parts[0] if parts else None
-        effect["type"] = "stat_modifier"
-        effect["statId"] = ATTRIBUTE_NAME_MAP.get(stat_name or "", stat_name)
-        if len(parts) > 1:
-            effect["value"] = parse_int(parts[1])
-        return [effect]
-
-    if effect_type in {"talent", "equipped_talent"}:
-        effect["type"] = "talent_modifier"
-        effect["talentId"] = argvs
-        return [effect]
-
-    if effect_type == "animation":
-        effect["type"] = "animation_modifier"
-        effect["animationId"] = argvs
-        return [effect]
-
-    if effect_type == "attack":
-        values = parse_numeric_csv(argvs) or []
-        if len(values) >= 2:
-            return [
-                build_stat_modifier_effect("attack", int(values[0])),
-                build_stat_modifier_effect("crit_chance", int(values[1])),
-            ]
-
-    if effect_type == "defence":
-        values = parse_numeric_csv(argvs) or []
-        if len(values) >= 2:
-            return [
-                build_stat_modifier_effect("defence", int(values[0])),
-                build_stat_modifier_effect("anti_crit_chance", int(values[1])),
-            ]
-
-    if effect_type in {"powerup_external_skill", "powerup_internal_skill", "powerup_form_skill"}:
-        parts = split_csv(argvs)
-        if len(parts) >= 2 and try_parse_number(parts[1]) is not None:
-            return [
-                build_skill_modifier_effect(
-                    effect_type.removeprefix("powerup_"),
-                    parse_int(parts[1]),
-                    target_id=parts[0],
-                )
-            ]
-
-    if effect_type == "powerup_legend_skill":
-        parts = split_csv(argvs)
-        if len(parts) >= 3:
-            return [
-                build_skill_modifier_effect(
-                    "legend_skill",
-                    parse_int(parts[1]),
-                    target_id=parts[0],
-                    stat="power",
-                ),
-                build_skill_modifier_effect(
-                    "legend_skill",
-                    parse_int(parts[2]),
-                    target_id=parts[0],
-                    stat="trigger_chance",
-                ),
-            ]
-
-    if effect_type in {"powerup_quanzhang", "powerup_jianfa", "powerup_daofa", "powerup_qimen"} and numeric_values:
-        return [
-            build_skill_modifier_effect(
-                effect_type.removeprefix("powerup_"),
-                int(numeric_values[0]),
-            )
-        ]
-
-    if numeric_values is not None:
-        if len(numeric_values) == 1:
-            effect["value"] = numeric_values[0]
-        else:
-            effect["values"] = numeric_values
-        return [effect]
-
-    if argvs is not None:
-        effect["value"] = argvs
-        return [effect]
-
-    return [effect]
+def parse_numeric_values(value: str | None) -> list[int]:
+    parts = split_csv_values(value)
+    return [parse_int(part) for part in parts]
 
 
 def normalize_requirement(name: str | None, argvs: str | None) -> tuple[str | None, str | None]:
@@ -365,29 +199,51 @@ def build_item(item: ET.Element) -> dict[str, object]:
         for trigger in item.findall("trigger")
         if trigger.get("name") in ACTIVE_TRIGGER_NAME_MAP
     ]
-    passive_effects = [
-        effect
-        for trigger in item.findall("trigger")
-        if trigger.get("name") in PASSIVE_TRIGGER_NAME_MAP
-        for effect in parse_passive_effects(trigger)
+    talent_ids = split_hash_list(item.get("talent"))
+    item_type = ITEM_TYPE_MAP.get(legacy_type, "unknown")
+    passive_triggers = item.findall("trigger")
+    if item_type == "talent_book":
+        passive_triggers = [
+            trigger
+            for trigger in passive_triggers
+            if trigger.get("name") != "talent"
+        ]
+
+    affixes = [
+        affix
+        for trigger in passive_triggers
+        for affix in parse_passive_affixes(trigger)
     ]
-    passive_effects.extend(
-        {
-            "type": "talent_modifier",
-            "talentId": talent_id,
-        }
-        for talent_id in split_hash_list(item.get("talent"))
-    )
+    if item_type == "talent_book":
+        use_effects.extend(
+            {
+                "type": "grant_talent",
+                "talentId": parse_optional_text(trigger.get("argvs")),
+            }
+            for trigger in item.findall("trigger")
+            if trigger.get("name") == "talent" and parse_optional_text(trigger.get("argvs")) is not None
+        )
+        use_effects.extend(
+            {
+                "type": "grant_talent",
+                "talentId": talent_id,
+            }
+            for talent_id in talent_ids
+        )
+    else:
+        affixes.extend(build_grant_talent_affix(talent_id) for talent_id in talent_ids)
     requirements = [
         parsed
         for require in item.findall("require")
         if (parsed := parse_requirement(require)) is not None
     ]
+    catalog = "equipment" if item_type in EQUIPMENT_ITEM_TYPES or affixes else "normal"
 
-    return {
+    payload = {
+        "catalog": catalog,
         "id": item_id,
         "name": item_id,
-        "type": ITEM_TYPE_MAP.get(legacy_type, "unknown"),
+        "type": item_type,
         "level": parse_int(item.get("level"), default=1),
         "price": parse_int(item.get("price")),
         "cooldown": parse_int(item.get("cd")),
@@ -396,19 +252,15 @@ def build_item(item: ET.Element) -> dict[str, object]:
         "picture": parse_optional_text(item.get("pic")),
         "requirements": requirements,
         "useEffects": use_effects,
-        "modifiers": passive_effects,
     }
+    if catalog == "equipment":
+        payload["affixes"] = affixes
+    return payload
 
 
-def convert_items(input_path: Path) -> dict[str, object]:
+def convert_items(input_path: Path) -> list[dict[str, object]]:
     root = ET.parse(input_path).getroot()
-    items = [build_item(item) for item in root.findall("item")]
-    return {
-        "schema": "jyx-legacy.items.v1",
-        "source": input_path.name,
-        "count": len(items),
-        "items": items,
-    }
+    return [build_item(item) for item in root.findall("item")]
 
 
 def main() -> None:

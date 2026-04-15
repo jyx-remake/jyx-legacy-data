@@ -110,15 +110,9 @@ def build_map(map_element: ET.Element) -> dict[str, object]:
     }
 
 
-def convert_maps(input_path: Path) -> dict[str, object]:
+def convert_maps(input_path: Path) -> list[dict[str, object]]:
     root = ET.parse(input_path).getroot()
-    maps = [build_map(map_element) for map_element in root.findall("map")]
-    return {
-        "schema": "jyx-legacy.maps.v1",
-        "source": input_path.name,
-        "count": len(maps),
-        "maps": maps,
-    }
+    return [build_map(map_element) for map_element in root.findall("map")]
 
 
 def main() -> None:
