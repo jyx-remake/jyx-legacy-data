@@ -1,6 +1,6 @@
 [
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "止血草",
     "name": "止血草",
     "type": "consumable",
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "小还丹",
     "name": "小还丹",
     "type": "consumable",
@@ -38,7 +38,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "道口烧鸡",
     "name": "道口烧鸡",
     "type": "consumable",
@@ -57,7 +57,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "红药",
     "name": "红药",
     "type": "consumable",
@@ -76,7 +76,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "鸡腿",
     "name": "鸡腿",
     "type": "consumable",
@@ -95,7 +95,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "月饼",
     "name": "月饼",
     "type": "consumable",
@@ -118,7 +118,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "牛黄解毒片",
     "name": "牛黄解毒片",
     "type": "consumable",
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "大还丹",
     "name": "大还丹",
     "type": "consumable",
@@ -163,7 +163,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "大蟠桃",
     "name": "大蟠桃",
     "type": "consumable",
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "冬虫夏草",
     "name": "冬虫夏草",
     "type": "consumable",
@@ -205,7 +205,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "特制鸡腿",
     "name": "特制鸡腿",
     "type": "consumable",
@@ -224,7 +224,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "九转熊蛇丸",
     "name": "九转熊蛇丸",
     "type": "consumable",
@@ -247,7 +247,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "九花玉露丸",
     "name": "九花玉露丸",
     "type": "consumable",
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "白酒",
     "name": "白酒",
     "type": "consumable",
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "黑玉断续膏",
     "name": "黑玉断续膏",
     "type": "consumable",
@@ -317,7 +317,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "生生造化丹",
     "name": "生生造化丹",
     "type": "consumable",
@@ -340,7 +340,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "七星黄腊丹",
     "name": "七星黄腊丹",
     "type": "consumable",
@@ -362,7 +362,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "天王保命丹",
     "name": "天王保命丹",
     "type": "consumable",
@@ -392,7 +392,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "续命八丸",
     "name": "续命八丸",
     "type": "consumable",
@@ -411,7 +411,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "仙灵琼露",
     "name": "仙灵琼露",
     "type": "consumable",
@@ -434,7 +434,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "圣战之药",
     "name": "圣战之药",
     "type": "consumable",
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "木刀",
     "name": "木刀",
     "type": "weapon",
@@ -498,7 +498,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "精钢拳套",
     "name": "精钢拳套",
     "type": "weapon",
@@ -545,7 +545,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "阔剑",
     "name": "阔剑",
     "type": "weapon",
@@ -592,7 +592,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "赵志敬的剑",
     "name": "赵志敬的剑",
     "type": "weapon",
@@ -639,7 +639,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "柳叶刀",
     "name": "柳叶刀",
     "type": "weapon",
@@ -686,7 +686,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "精制匕首",
     "name": "精制匕首",
     "type": "weapon",
@@ -728,7 +728,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "铲刀",
     "name": "铲刀",
     "type": "weapon",
@@ -783,7 +783,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "金刚杵",
     "name": "金刚杵",
     "type": "weapon",
@@ -830,7 +830,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "黄金棒",
     "name": "黄金棒",
     "type": "weapon",
@@ -877,7 +877,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "金龙鞭",
     "name": "金龙鞭",
     "type": "weapon",
@@ -924,7 +924,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "飞轮",
     "name": "飞轮",
     "type": "weapon",
@@ -979,7 +979,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "拳击手套",
     "name": "拳击手套",
     "type": "weapon",
@@ -1026,7 +1026,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "软鞭",
     "name": "软鞭",
     "type": "weapon",
@@ -1073,7 +1073,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "天龙宝剑",
     "name": "天龙宝剑",
     "type": "weapon",
@@ -1125,7 +1125,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "君子剑",
     "name": "君子剑",
     "type": "weapon",
@@ -1172,7 +1172,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "重阳遗剑",
     "name": "重阳遗剑",
     "type": "weapon",
@@ -1233,7 +1233,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "淑女剑",
     "name": "淑女剑",
     "type": "weapon",
@@ -1280,7 +1280,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "马钰佩剑",
     "name": "马钰佩剑",
     "type": "weapon",
@@ -1327,7 +1327,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "金蛇剑",
     "name": "金蛇剑",
     "type": "weapon",
@@ -1378,7 +1378,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "玄铁匕首",
     "name": "玄铁匕首",
     "type": "weapon",
@@ -1424,7 +1424,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "回纥宝刀",
     "name": "回纥宝刀",
     "type": "weapon",
@@ -1466,7 +1466,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "紫金八卦刀",
     "name": "紫金八卦刀",
     "type": "weapon",
@@ -1521,7 +1521,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "古铜匕首",
     "name": "古铜匕首",
     "type": "weapon",
@@ -1571,7 +1571,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "戒刀",
     "name": "戒刀",
     "type": "weapon",
@@ -1626,7 +1626,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "吴钩",
     "name": "吴钩",
     "type": "weapon",
@@ -1681,7 +1681,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "月梦爪",
     "name": "月梦爪",
     "type": "weapon",
@@ -1736,7 +1736,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "万劫指",
     "name": "万劫指",
     "type": "weapon",
@@ -1783,7 +1783,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "碧水剑",
     "name": "碧水剑",
     "type": "weapon",
@@ -1830,7 +1830,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "龙头拐杖",
     "name": "龙头拐杖",
     "type": "weapon",
@@ -1877,7 +1877,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "不二枪",
     "name": "不二枪",
     "type": "weapon",
@@ -1924,7 +1924,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "灭仙爪",
     "name": "灭仙爪",
     "type": "weapon",
@@ -1971,7 +1971,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "紫薇软剑",
     "name": "紫薇软剑",
     "type": "weapon",
@@ -2018,7 +2018,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "龙泉剑",
     "name": "龙泉剑",
     "type": "weapon",
@@ -2065,7 +2065,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "锯齿刀",
     "name": "锯齿刀",
     "type": "weapon",
@@ -2120,7 +2120,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "流星锤",
     "name": "流星锤",
     "type": "weapon",
@@ -2175,7 +2175,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "搏击爪套",
     "name": "搏击爪套",
     "type": "weapon",
@@ -2238,7 +2238,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "倚天剑",
     "name": "倚天剑",
     "type": "weapon",
@@ -2289,7 +2289,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "屠龙刀",
     "name": "屠龙刀",
     "type": "weapon",
@@ -2340,7 +2340,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "真武剑",
     "name": "真武剑",
     "type": "weapon",
@@ -2391,7 +2391,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "打狗棒",
     "name": "打狗棒",
     "type": "weapon",
@@ -2442,7 +2442,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "真.天龙宝剑",
     "name": "真.天龙宝剑",
     "type": "weapon",
@@ -2498,7 +2498,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "鸣凤剑",
     "name": "鸣凤剑",
     "type": "weapon",
@@ -2558,7 +2558,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "玄铁剑",
     "name": "玄铁剑",
     "type": "weapon",
@@ -2617,7 +2617,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "血刀",
     "name": "血刀",
     "type": "weapon",
@@ -2676,7 +2676,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "冷月宝刀",
     "name": "冷月宝刀",
     "type": "weapon",
@@ -2727,7 +2727,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "凝碧剑",
     "name": "凝碧剑",
     "type": "weapon",
@@ -2778,7 +2778,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "真.金蛇剑",
     "name": "真.金蛇剑",
     "type": "weapon",
@@ -2833,7 +2833,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "被诅咒的木刀",
     "name": "被诅咒的木刀",
     "type": "weapon",
@@ -2895,7 +2895,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "真.倚天剑",
     "name": "真.倚天剑",
     "type": "weapon",
@@ -2958,7 +2958,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "真.屠龙刀",
     "name": "真.屠龙刀",
     "type": "weapon",
@@ -3021,7 +3021,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "真.打狗棒",
     "name": "真.打狗棒",
     "type": "weapon",
@@ -3096,7 +3096,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "真.灭仙爪",
     "name": "真.灭仙爪",
     "type": "weapon",
@@ -3159,7 +3159,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "越女神剑",
     "name": "越女神剑",
     "type": "weapon",
@@ -3243,7 +3243,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "粗布道袍",
     "name": "粗布道袍",
     "type": "armor",
@@ -3283,7 +3283,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "金丝道袍",
     "name": "金丝道袍",
     "type": "armor",
@@ -3329,7 +3329,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "血刀门门装",
     "name": "血刀门门装",
     "type": "armor",
@@ -3372,7 +3372,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "全真教道服",
     "name": "全真教道服",
     "type": "armor",
@@ -3415,7 +3415,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "大轮寺装束",
     "name": "大轮寺装束",
     "type": "armor",
@@ -3458,7 +3458,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "古墓派装束",
     "name": "古墓派装束",
     "type": "armor",
@@ -3501,7 +3501,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "灵鹫宫装束",
     "name": "灵鹫宫装束",
     "type": "armor",
@@ -3544,7 +3544,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "粗布披风",
     "name": "粗布披风",
     "type": "armor",
@@ -3587,7 +3587,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "黄金重甲",
     "name": "黄金重甲",
     "type": "armor",
@@ -3633,7 +3633,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "金丝袈裟",
     "name": "金丝袈裟",
     "type": "armor",
@@ -3684,7 +3684,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "华裳",
     "name": "华裳",
     "type": "armor",
@@ -3735,7 +3735,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "乌蚕衣",
     "name": "乌蚕衣",
     "type": "armor",
@@ -3779,7 +3779,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "忍者服",
     "name": "忍者服",
     "type": "armor",
@@ -3838,7 +3838,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "三清袍",
     "name": "三清袍",
     "type": "armor",
@@ -3880,7 +3880,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "幽梦衣",
     "name": "幽梦衣",
     "type": "armor",
@@ -3931,7 +3931,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "霓裳羽衣",
     "name": "霓裳羽衣",
     "type": "armor",
@@ -3982,7 +3982,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "岳飞的重铠",
     "name": "岳飞的重铠",
     "type": "armor",
@@ -4024,7 +4024,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "姜子牙的道袍",
     "name": "姜子牙的道袍",
     "type": "armor",
@@ -4070,7 +4070,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "蚩尤的护甲",
     "name": "蚩尤的护甲",
     "type": "armor",
@@ -4118,7 +4118,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "千变魔女的披风",
     "name": "千变魔女的披风",
     "type": "armor",
@@ -4160,7 +4160,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "金头箍",
     "name": "金头箍",
     "type": "accessory",
@@ -4212,7 +4212,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "银手镯",
     "name": "银手镯",
     "type": "accessory",
@@ -4264,7 +4264,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "草帽",
     "name": "草帽",
     "type": "accessory",
@@ -4316,7 +4316,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "木人",
     "name": "木人",
     "type": "accessory",
@@ -4354,7 +4354,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "黄金项链",
     "name": "黄金项链",
     "type": "accessory",
@@ -4406,7 +4406,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "回力跑鞋",
     "name": "回力跑鞋",
     "type": "accessory",
@@ -4458,7 +4458,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "木鱼",
     "name": "木鱼",
     "type": "accessory",
@@ -4506,7 +4506,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "将军头盔",
     "name": "将军头盔",
     "type": "accessory",
@@ -4530,7 +4530,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "檀香佛珠",
     "name": "檀香佛珠",
     "type": "accessory",
@@ -4554,7 +4554,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "金丝护腕",
     "name": "金丝护腕",
     "type": "accessory",
@@ -4578,7 +4578,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "橙色灯戒",
     "name": "橙色灯戒",
     "type": "accessory",
@@ -4602,7 +4602,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "铂金戒指",
     "name": "铂金戒指",
     "type": "accessory",
@@ -4626,7 +4626,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "莽毒蛛蛤",
     "name": "莽毒蛛蛤",
     "type": "accessory",
@@ -4658,7 +4658,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "一品鹿鼎公印记",
     "name": "一品鹿鼎公印记",
     "type": "accessory",
@@ -4698,7 +4698,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "蓝宝戒指",
     "name": "蓝宝戒指",
     "type": "accessory",
@@ -4730,7 +4730,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "水晶护符",
     "name": "水晶护符",
     "type": "accessory",
@@ -4754,7 +4754,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "李延宗的项链",
     "name": "李延宗的项链",
     "type": "accessory",
@@ -4806,7 +4806,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "悲酥清风",
     "name": "悲酥清风",
     "type": "accessory",
@@ -4858,7 +4858,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "王语嫣的武学概要",
     "name": "王语嫣的武学概要",
     "type": "accessory",
@@ -4910,7 +4910,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "铁剑令",
     "name": "铁剑令",
     "type": "accessory",
@@ -4962,7 +4962,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "金蛇手抄本",
     "name": "金蛇手抄本",
     "type": "accessory",
@@ -5014,7 +5014,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "仙丽雅的项链",
     "name": "仙丽雅的项链",
     "type": "accessory",
@@ -5066,7 +5066,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "独孤求败的草帽",
     "name": "独孤求败的草帽",
     "type": "accessory",
@@ -5118,7 +5118,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "达摩祖师的木鱼",
     "name": "达摩祖师的木鱼",
     "type": "accessory",
@@ -5182,7 +5182,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "孙悟空的紧箍咒",
     "name": "孙悟空的紧箍咒",
     "type": "accessory",
@@ -5228,7 +5228,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "魔神信物",
     "name": "魔神信物",
     "type": "accessory",
@@ -5286,7 +5286,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "墨玉",
     "name": "墨玉",
     "type": "accessory",
@@ -5316,7 +5316,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "小人物的逆袭",
     "name": "小人物的逆袭",
     "type": "accessory",
@@ -5364,7 +5364,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "神奇戒指",
     "name": "神奇戒指",
     "type": "accessory",
@@ -5424,7 +5424,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "渡元禅师的木鱼",
     "name": "渡元禅师的木鱼",
     "type": "accessory",
@@ -5475,7 +5475,7 @@
     ]
   },
   {
-    "catalog": "equipment",
+    "category": "equipment",
     "id": "火工头陀的秘本",
     "name": "火工头陀的秘本",
     "type": "accessory",
@@ -5515,7 +5515,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "罗汉拳谱",
     "name": "罗汉拳谱",
     "type": "skill_book",
@@ -5535,7 +5535,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "飘雪穿云掌法",
     "name": "飘雪穿云掌法",
     "type": "skill_book",
@@ -5555,7 +5555,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "天山掌法谱",
     "name": "天山掌法谱",
     "type": "skill_book",
@@ -5575,7 +5575,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "松风剑法秘籍",
     "name": "松风剑法秘籍",
     "type": "skill_book",
@@ -5595,7 +5595,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "华山剑法秘籍",
     "name": "华山剑法秘籍",
     "type": "skill_book",
@@ -5615,7 +5615,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "三分剑术",
     "name": "三分剑术",
     "type": "skill_book",
@@ -5635,7 +5635,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "青蟒剑法秘籍",
     "name": "青蟒剑法秘籍",
     "type": "skill_book",
@@ -5655,7 +5655,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "雷震剑法秘籍",
     "name": "雷震剑法秘籍",
     "type": "skill_book",
@@ -5675,7 +5675,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "南山刀法谱",
     "name": "南山刀法谱",
     "type": "skill_book",
@@ -5695,7 +5695,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "万劫刀法谱",
     "name": "万劫刀法谱",
     "type": "skill_book",
@@ -5715,7 +5715,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "袖箭秘诀",
     "name": "袖箭秘诀",
     "type": "skill_book",
@@ -5735,7 +5735,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "拂尘秘诀",
     "name": "拂尘秘诀",
     "type": "skill_book",
@@ -5755,7 +5755,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "疯魔杖法秘诀",
     "name": "疯魔杖法秘诀",
     "type": "skill_book",
@@ -5775,7 +5775,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "蛇鹤八打",
     "name": "蛇鹤八打",
     "type": "skill_book",
@@ -5795,7 +5795,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "七弦无形琴谱",
     "name": "七弦无形琴谱",
     "type": "skill_book",
@@ -5821,7 +5821,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "如来千手法",
     "name": "如来千手法",
     "type": "skill_book",
@@ -5847,7 +5847,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "寒冰绵掌谱",
     "name": "寒冰绵掌谱",
     "type": "skill_book",
@@ -5873,7 +5873,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "百花错拳谱",
     "name": "百花错拳谱",
     "type": "skill_book",
@@ -5899,7 +5899,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "八卦游身掌法",
     "name": "八卦游身掌法",
     "type": "skill_book",
@@ -5925,7 +5925,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "四象掌掌谱",
     "name": "四象掌掌谱",
     "type": "skill_book",
@@ -5951,7 +5951,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "密宗大手印秘籍",
     "name": "密宗大手印秘籍",
     "type": "skill_book",
@@ -5977,7 +5977,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "落英神剑掌秘籍",
     "name": "落英神剑掌秘籍",
     "type": "skill_book",
@@ -6003,7 +6003,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "五毒神掌掌谱",
     "name": "五毒神掌掌谱",
     "type": "skill_book",
@@ -6029,7 +6029,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "三花聚顶掌掌谱",
     "name": "三花聚顶掌掌谱",
     "type": "skill_book",
@@ -6070,7 +6070,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "无量剑法秘籍",
     "name": "无量剑法秘籍",
     "type": "skill_book",
@@ -6096,7 +6096,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "七星七绝剑剑谱",
     "name": "七星七绝剑剑谱",
     "type": "skill_book",
@@ -6132,7 +6132,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "嵩山剑法秘籍",
     "name": "嵩山剑法秘籍",
     "type": "skill_book",
@@ -6152,7 +6152,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "绕指柔剑剑谱",
     "name": "绕指柔剑剑谱",
     "type": "skill_book",
@@ -6178,7 +6178,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "玉箫剑法秘籍",
     "name": "玉箫剑法秘籍",
     "type": "skill_book",
@@ -6204,7 +6204,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "峨眉剑法秘籍",
     "name": "峨眉剑法秘籍",
     "type": "skill_book",
@@ -6230,7 +6230,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "全真剑法秘籍",
     "name": "全真剑法秘籍",
     "type": "skill_book",
@@ -6256,7 +6256,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "铁剑剑法秘籍",
     "name": "铁剑剑法秘籍",
     "type": "skill_book",
@@ -6282,7 +6282,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "狂风刀法秘籍",
     "name": "狂风刀法秘籍",
     "type": "skill_book",
@@ -6308,7 +6308,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "草原刀法",
     "name": "草原刀法",
     "type": "skill_book",
@@ -6334,7 +6334,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "玄虚刀法",
     "name": "玄虚刀法",
     "type": "skill_book",
@@ -6360,7 +6360,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "八卦刀法秘籍",
     "name": "八卦刀法秘籍",
     "type": "skill_book",
@@ -6386,7 +6386,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "冰魄银针精要",
     "name": "冰魄银针精要",
     "type": "skill_book",
@@ -6412,7 +6412,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "玉蜂针",
     "name": "玉蜂针",
     "type": "skill_book",
@@ -6438,7 +6438,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "漫天花雨秘籍",
     "name": "漫天花雨秘籍",
     "type": "skill_book",
@@ -6464,7 +6464,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "无上大力杵秘籍",
     "name": "无上大力杵秘籍",
     "type": "skill_book",
@@ -6490,7 +6490,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "流星锤法",
     "name": "流星锤法",
     "type": "skill_book",
@@ -6516,7 +6516,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "毒龙鞭法秘籍",
     "name": "毒龙鞭法秘籍",
     "type": "skill_book",
@@ -6536,7 +6536,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "如来神掌掌谱",
     "name": "如来神掌掌谱",
     "type": "skill_book",
@@ -6577,7 +6577,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "柴山十八路秘籍",
     "name": "柴山十八路秘籍",
     "type": "skill_book",
@@ -6597,7 +6597,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "雁行刀秘录",
     "name": "雁行刀秘录",
     "type": "skill_book",
@@ -6623,7 +6623,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "石梁心法秘籍",
     "name": "石梁心法秘籍",
     "type": "skill_book",
@@ -6649,7 +6649,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "参合指书",
     "name": "参合指书",
     "type": "skill_book",
@@ -6675,7 +6675,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "佛光普照",
     "name": "佛光普照",
     "type": "skill_book",
@@ -6701,7 +6701,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "擒龙功",
     "name": "擒龙功",
     "type": "skill_book",
@@ -6727,7 +6727,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "灵蛇拳秘籍",
     "name": "灵蛇拳秘籍",
     "type": "skill_book",
@@ -6753,7 +6753,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "九阴白骨爪精义",
     "name": "九阴白骨爪精义",
     "type": "skill_book",
@@ -6779,7 +6779,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "铁掌掌谱",
     "name": "铁掌掌谱",
     "type": "skill_book",
@@ -6810,7 +6810,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "大金刚掌法",
     "name": "大金刚掌法",
     "type": "skill_book",
@@ -6841,7 +6841,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "庖丁解牛",
     "name": "庖丁解牛",
     "type": "skill_book",
@@ -6867,7 +6867,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "幻阴指指法精要",
     "name": "幻阴指指法精要",
     "type": "skill_book",
@@ -6903,7 +6903,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "弹指神通入门",
     "name": "弹指神通入门",
     "type": "skill_book",
@@ -6929,7 +6929,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "弹指神通秘籍",
     "name": "弹指神通秘籍",
     "type": "skill_book",
@@ -6965,7 +6965,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "一阳指书",
     "name": "一阳指书",
     "type": "skill_book",
@@ -6996,7 +6996,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "火焰刀残篇",
     "name": "火焰刀残篇",
     "type": "skill_book",
@@ -7022,7 +7022,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "火焰刀秘籍",
     "name": "火焰刀秘籍",
     "type": "skill_book",
@@ -7053,7 +7053,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "绝户虎爪手秘籍",
     "name": "绝户虎爪手秘籍",
     "type": "skill_book",
@@ -7084,7 +7084,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "太极拳谱",
     "name": "太极拳谱",
     "type": "skill_book",
@@ -7120,7 +7120,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "玉女素心口诀",
     "name": "玉女素心口诀",
     "type": "skill_book",
@@ -7140,7 +7140,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "玉女素心剑谱",
     "name": "玉女素心剑谱",
     "type": "skill_book",
@@ -7166,7 +7166,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "金蛇剑法秘籍",
     "name": "金蛇剑法秘籍",
     "type": "skill_book",
@@ -7202,7 +7202,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "百变千幻云雾十三式秘籍",
     "name": "百变千幻云雾十三式秘籍",
     "type": "skill_book",
@@ -7233,7 +7233,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "柔云剑法秘籍",
     "name": "柔云剑法秘籍",
     "type": "skill_book",
@@ -7264,7 +7264,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "狂风快剑决",
     "name": "狂风快剑决",
     "type": "skill_book",
@@ -7290,7 +7290,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "神门十三剑剑谱",
     "name": "神门十三剑剑谱",
     "type": "skill_book",
@@ -7316,7 +7316,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "上清剑法",
     "name": "上清剑法",
     "type": "skill_book",
@@ -7347,7 +7347,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "上清剑法精要",
     "name": "上清剑法精要",
     "type": "skill_book",
@@ -7378,7 +7378,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "达摩剑法",
     "name": "达摩剑法",
     "type": "skill_book",
@@ -7404,7 +7404,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "两仪剑法",
     "name": "两仪剑法",
     "type": "skill_book",
@@ -7430,7 +7430,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "太极剑法谱",
     "name": "太极剑法谱",
     "type": "skill_book",
@@ -7466,7 +7466,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "反两仪刀法",
     "name": "反两仪刀法",
     "type": "skill_book",
@@ -7492,7 +7492,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "燃木刀法",
     "name": "燃木刀法",
     "type": "skill_book",
@@ -7523,7 +7523,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "血刀经",
     "name": "血刀经",
     "type": "skill_book",
@@ -7554,7 +7554,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "血刀经真本",
     "name": "血刀经真本",
     "type": "skill_book",
@@ -7585,7 +7585,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "阴阳倒乱刃",
     "name": "阴阳倒乱刃",
     "type": "skill_book",
@@ -7611,7 +7611,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "岳家枪法精义",
     "name": "岳家枪法精义",
     "type": "skill_book",
@@ -7642,7 +7642,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "伏魔杖法",
     "name": "伏魔杖法",
     "type": "skill_book",
@@ -7668,7 +7668,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "海叟钓法",
     "name": "海叟钓法",
     "type": "skill_book",
@@ -7694,7 +7694,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "日月鞭法秘籍",
     "name": "日月鞭法秘籍",
     "type": "skill_book",
@@ -7720,7 +7720,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "黑血神针秘籍",
     "name": "黑血神针秘籍",
     "type": "skill_book",
@@ -7746,7 +7746,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "七伤摧魂针法",
     "name": "七伤摧魂针法",
     "type": "skill_book",
@@ -7772,7 +7772,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "玄铁剑法谱",
     "name": "玄铁剑法谱",
     "type": "skill_book",
@@ -7803,7 +7803,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "太极拳秘籍",
     "name": "太极拳秘籍",
     "type": "skill_book",
@@ -7839,7 +7839,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "太极剑秘籍",
     "name": "太极剑秘籍",
     "type": "skill_book",
@@ -7875,7 +7875,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "倚天屠龙笔法秘籍",
     "name": "倚天屠龙笔法秘籍",
     "type": "skill_book",
@@ -7906,7 +7906,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "黯然销魂掌谱",
     "name": "黯然销魂掌谱",
     "type": "skill_book",
@@ -7942,7 +7942,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "六脉神剑谱",
     "name": "六脉神剑谱",
     "type": "skill_book",
@@ -7978,7 +7978,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "六脉神剑心法",
     "name": "六脉神剑心法",
     "type": "skill_book",
@@ -8014,7 +8014,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "天山折梅手法",
     "name": "天山折梅手法",
     "type": "skill_book",
@@ -8045,7 +8045,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "降龙十八掌谱",
     "name": "降龙十八掌谱",
     "type": "skill_book",
@@ -8076,7 +8076,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "降龙十八掌真意",
     "name": "降龙十八掌真意",
     "type": "skill_book",
@@ -8107,7 +8107,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "如来神掌秘籍",
     "name": "如来神掌秘籍",
     "type": "skill_book",
@@ -8143,7 +8143,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "独孤九剑剑谱",
     "name": "独孤九剑剑谱",
     "type": "skill_book",
@@ -8184,7 +8184,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "独孤九剑秘籍",
     "name": "独孤九剑秘籍",
     "type": "skill_book",
@@ -8225,7 +8225,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "独孤九剑真意",
     "name": "独孤九剑真意",
     "type": "skill_book",
@@ -8266,7 +8266,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "辟邪剑谱",
     "name": "辟邪剑谱",
     "type": "skill_book",
@@ -8301,7 +8301,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "两页胡家刀法",
     "name": "两页胡家刀法",
     "type": "skill_book",
@@ -8332,7 +8332,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "胡家刀法手抄本",
     "name": "胡家刀法手抄本",
     "type": "skill_book",
@@ -8368,7 +8368,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "胡家刀法秘籍",
     "name": "胡家刀法秘籍",
     "type": "skill_book",
@@ -8404,7 +8404,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "苗家剑法秘籍",
     "name": "苗家剑法秘籍",
     "type": "skill_book",
@@ -8440,7 +8440,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "鸳鸯刀",
     "name": "鸳鸯刀",
     "type": "skill_book",
@@ -8471,7 +8471,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "打狗棒法入门",
     "name": "打狗棒法入门",
     "type": "skill_book",
@@ -8507,7 +8507,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "烈焰黑枪之法",
     "name": "烈焰黑枪之法",
     "type": "skill_book",
@@ -8538,7 +8538,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "神照经",
     "name": "神照经",
     "type": "skill_book",
@@ -8574,7 +8574,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "三阴蜈蚣爪秘籍",
     "name": "三阴蜈蚣爪秘籍",
     "type": "skill_book",
@@ -8610,7 +8610,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "天山六阳掌真解",
     "name": "天山六阳掌真解",
     "type": "skill_book",
@@ -8641,7 +8641,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "般若掌秘籍",
     "name": "般若掌秘籍",
     "type": "skill_book",
@@ -8672,7 +8672,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "拈花指秘籍",
     "name": "拈花指秘籍",
     "type": "skill_book",
@@ -8703,7 +8703,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "伏魔棍秘籍",
     "name": "伏魔棍秘籍",
     "type": "skill_book",
@@ -8734,7 +8734,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "野球拳秘籍",
     "name": "野球拳秘籍",
     "type": "skill_book",
@@ -8775,7 +8775,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "斗转星移决",
     "name": "斗转星移决",
     "type": "skill_book",
@@ -8806,7 +8806,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "斗转星移心得",
     "name": "斗转星移心得",
     "type": "skill_book",
@@ -8837,7 +8837,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "金蛇剑法秘籍残篇",
     "name": "金蛇剑法秘籍残篇",
     "type": "skill_book",
@@ -8873,7 +8873,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "金蛇游身掌掌谱",
     "name": "金蛇游身掌掌谱",
     "type": "skill_book",
@@ -8904,7 +8904,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "破玉拳秘籍",
     "name": "破玉拳秘籍",
     "type": "skill_book",
@@ -8935,7 +8935,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "连城剑法",
     "name": "连城剑法",
     "type": "skill_book",
@@ -8976,7 +8976,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "连城剑法精要",
     "name": "连城剑法精要",
     "type": "skill_book",
@@ -9017,7 +9017,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "打狗棒法",
     "name": "打狗棒法",
     "type": "skill_book",
@@ -9053,7 +9053,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "内功入门",
     "name": "内功入门",
     "type": "skill_book",
@@ -9079,7 +9079,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "血刀心法秘籍",
     "name": "血刀心法秘籍",
     "type": "skill_book",
@@ -9105,7 +9105,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "全真心法秘籍",
     "name": "全真心法秘籍",
     "type": "skill_book",
@@ -9136,7 +9136,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "紫霞神功秘籍",
     "name": "紫霞神功秘籍",
     "type": "skill_book",
@@ -9167,7 +9167,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "蛤蟆功秘籍",
     "name": "蛤蟆功秘籍",
     "type": "skill_book",
@@ -9198,7 +9198,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "武当心法抄本",
     "name": "武当心法抄本",
     "type": "skill_book",
@@ -9224,7 +9224,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "先天功秘籍",
     "name": "先天功秘籍",
     "type": "skill_book",
@@ -9255,7 +9255,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "北冥神功精义",
     "name": "北冥神功精义",
     "type": "skill_book",
@@ -9291,7 +9291,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "血海魔功秘籍",
     "name": "血海魔功秘籍",
     "type": "skill_book",
@@ -9332,7 +9332,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "龙象般若功精义",
     "name": "龙象般若功精义",
     "type": "skill_book",
@@ -9363,7 +9363,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "九阴真经抄本",
     "name": "九阴真经抄本",
     "type": "skill_book",
@@ -9394,7 +9394,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "九阴真经",
     "name": "九阴真经",
     "type": "skill_book",
@@ -9425,7 +9425,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "真九阴真经",
     "name": "真九阴真经",
     "type": "skill_book",
@@ -9456,7 +9456,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "葵花宝典",
     "name": "葵花宝典",
     "type": "skill_book",
@@ -9497,7 +9497,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "真葵花宝典",
     "name": "真葵花宝典",
     "type": "skill_book",
@@ -9538,7 +9538,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "易筋经",
     "name": "易筋经",
     "type": "skill_book",
@@ -9574,7 +9574,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "易筋经真本",
     "name": "易筋经真本",
     "type": "skill_book",
@@ -9610,7 +9610,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "紫阳剑经",
     "name": "紫阳剑经",
     "type": "skill_book",
@@ -9641,7 +9641,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "九阴遗篇",
     "name": "九阴遗篇",
     "type": "skill_book",
@@ -9672,7 +9672,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "混元功秘籍",
     "name": "混元功秘籍",
     "type": "skill_book",
@@ -9703,7 +9703,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "烈焰黑枪秘本",
     "name": "烈焰黑枪秘本",
     "type": "skill_book",
@@ -9734,7 +9734,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "小无相功精要",
     "name": "小无相功精要",
     "type": "skill_book",
@@ -9770,7 +9770,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "大力金刚指秘籍",
     "name": "大力金刚指秘籍",
     "type": "skill_book",
@@ -9806,7 +9806,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "九阳真经",
     "name": "九阳真经",
     "type": "skill_book",
@@ -9837,7 +9837,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "九阳真经真解",
     "name": "九阳真经真解",
     "type": "skill_book",
@@ -9868,7 +9868,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "太极神功秘籍",
     "name": "太极神功秘籍",
     "type": "skill_book",
@@ -9904,7 +9904,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "武当九阳功秘籍",
     "name": "武当九阳功秘籍",
     "type": "skill_book",
@@ -9935,7 +9935,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "罗汉伏魔功秘本",
     "name": "罗汉伏魔功秘本",
     "type": "skill_book",
@@ -9966,7 +9966,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "神木王鼎",
     "name": "神木王鼎",
     "type": "skill_book",
@@ -9997,7 +9997,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "金蛇剑法真解",
     "name": "金蛇剑法真解",
     "type": "skill_book",
@@ -10033,7 +10033,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "铁血大旗功秘籍",
     "name": "铁血大旗功秘籍",
     "type": "skill_book",
@@ -10074,7 +10074,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "铁血大旗功真本",
     "name": "铁血大旗功真本",
     "type": "skill_book",
@@ -10115,7 +10115,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "破玉拳真解",
     "name": "破玉拳真解",
     "type": "skill_book",
@@ -10146,7 +10146,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "天外飞龙秘籍",
     "name": "天外飞龙秘籍",
     "type": "skill_book",
@@ -10182,7 +10182,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "碧落苍穹秘籍",
     "name": "碧落苍穹秘籍",
     "type": "skill_book",
@@ -10218,7 +10218,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "越女剑法秘籍",
     "name": "越女剑法秘籍",
     "type": "skill_book",
@@ -10254,7 +10254,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "闯王军刀",
     "name": "闯王军刀",
     "type": "quest_item",
@@ -10268,7 +10268,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "杨不悔的发簪",
     "name": "杨不悔的发簪",
     "type": "quest_item",
@@ -10282,7 +10282,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "行军司马的信",
     "name": "行军司马的信",
     "type": "quest_item",
@@ -10296,7 +10296,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "少林寺失窃的经书",
     "name": "少林寺失窃的经书",
     "type": "quest_item",
@@ -10310,7 +10310,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "七星海棠",
     "name": "七星海棠",
     "type": "quest_item",
@@ -10324,7 +10324,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "辟邪剑法残卷",
     "name": "辟邪剑法残卷",
     "type": "quest_item",
@@ -10338,7 +10338,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "河岳英灵集",
     "name": "河岳英灵集",
     "type": "quest_item",
@@ -10352,7 +10352,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "五毒教信物",
     "name": "五毒教信物",
     "type": "quest_item",
@@ -10366,7 +10366,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "雪莲花",
     "name": "雪莲花",
     "type": "quest_item",
@@ -10380,7 +10380,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "万年醉",
     "name": "万年醉",
     "type": "quest_item",
@@ -10394,7 +10394,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "长白人参",
     "name": "长白人参",
     "type": "quest_item",
@@ -10408,7 +10408,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "松果",
     "name": "松果",
     "type": "quest_item",
@@ -10422,7 +10422,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "天关.炼狱之证",
     "name": "天关.炼狱之证",
     "type": "quest_item",
@@ -10436,7 +10436,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "天关.决战光明顶之证",
     "name": "天关.决战光明顶之证",
     "type": "quest_item",
@@ -10450,7 +10450,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "天关.林平之的复仇",
     "name": "天关.林平之的复仇",
     "type": "quest_item",
@@ -10464,7 +10464,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "天关.血战少室山",
     "name": "天关.血战少室山",
     "type": "quest_item",
@@ -10478,7 +10478,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "天关.越女剑",
     "name": "天关.越女剑",
     "type": "quest_item",
@@ -10492,7 +10492,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "黄金包裹一",
     "name": "黄金包裹一",
     "type": "quest_item",
@@ -10506,7 +10506,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "黄金包裹二",
     "name": "黄金包裹二",
     "type": "quest_item",
@@ -10520,7 +10520,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "温青青的发簪",
     "name": "温青青的发簪",
     "type": "quest_item",
@@ -10534,7 +10534,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "龙游帮VIP令牌",
     "name": "龙游帮VIP令牌",
     "type": "quest_item",
@@ -10548,7 +10548,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "金蛇藏宝图",
     "name": "金蛇藏宝图",
     "type": "quest_item",
@@ -10562,7 +10562,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "毒物",
     "name": "毒物",
     "type": "quest_item",
@@ -10576,7 +10576,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "笑傲江湖曲",
     "name": "笑傲江湖曲",
     "type": "special_skill_book",
@@ -10601,7 +10601,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "凌波微步图谱",
     "name": "凌波微步图谱",
     "type": "special_skill_book",
@@ -10631,7 +10631,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "青莲诗集",
     "name": "青莲诗集",
     "type": "special_skill_book",
@@ -10650,7 +10650,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "天地同寿",
     "name": "天地同寿",
     "type": "special_skill_book",
@@ -10669,7 +10669,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "武穆遗书",
     "name": "武穆遗书",
     "type": "special_skill_book",
@@ -10699,7 +10699,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "药王神篇",
     "name": "药王神篇",
     "type": "talent_book",
@@ -10734,7 +10734,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "神行百变秘籍",
     "name": "神行百变秘籍",
     "type": "talent_book",
@@ -10764,7 +10764,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "厚黑学",
     "name": "厚黑学",
     "type": "talent_book",
@@ -10789,7 +10789,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "春宫图",
     "name": "春宫图",
     "type": "talent_book",
@@ -10808,7 +10808,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "真北冥气穴图",
     "name": "真北冥气穴图",
     "type": "talent_book",
@@ -10843,7 +10843,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "无尽斗志",
     "name": "无尽斗志",
     "type": "talent_book",
@@ -10868,7 +10868,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "天下轻功总决",
     "name": "天下轻功总决",
     "type": "talent_book",
@@ -10893,7 +10893,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "不老长春功法",
     "name": "不老长春功法",
     "type": "talent_book",
@@ -10918,7 +10918,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "碎裂的怒吼",
     "name": "碎裂的怒吼",
     "type": "talent_book",
@@ -10948,7 +10948,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "沾衣十八跌",
     "name": "沾衣十八跌",
     "type": "talent_book",
@@ -10978,7 +10978,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "万年长春",
     "name": "万年长春",
     "type": "talent_book",
@@ -11003,7 +11003,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "灵心慧质",
     "name": "灵心慧质",
     "type": "talent_book",
@@ -11028,7 +11028,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "隔空取物",
     "name": "隔空取物",
     "type": "talent_book",
@@ -11047,7 +11047,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "妙手仁心",
     "name": "妙手仁心",
     "type": "talent_book",
@@ -11066,7 +11066,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "飞向天际",
     "name": "飞向天际",
     "type": "talent_book",
@@ -11085,7 +11085,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "素心神剑心得",
     "name": "素心神剑心得",
     "type": "talent_book",
@@ -11110,7 +11110,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "太极心得手抄本",
     "name": "太极心得手抄本",
     "type": "talent_book",
@@ -11135,7 +11135,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "乾坤大挪移心法",
     "name": "乾坤大挪移心法",
     "type": "talent_book",
@@ -11165,7 +11165,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "华佗遗篇",
     "name": "华佗遗篇",
     "type": "talent_book",
@@ -11195,7 +11195,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "金钟罩心法",
     "name": "金钟罩心法",
     "type": "talent_book",
@@ -11220,7 +11220,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "吸星大法精义",
     "name": "吸星大法精义",
     "type": "talent_book",
@@ -11245,7 +11245,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "黑暗遗篇之黑天死炎",
     "name": "黑暗遗篇之黑天死炎",
     "type": "talent_book",
@@ -11264,7 +11264,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "黑暗遗篇之死生茫茫",
     "name": "黑暗遗篇之死生茫茫",
     "type": "talent_book",
@@ -11283,7 +11283,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "斗转星移之法",
     "name": "斗转星移之法",
     "type": "talent_book",
@@ -11318,7 +11318,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "精明天赋书",
     "name": "精明天赋书",
     "type": "talent_book",
@@ -11343,7 +11343,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "左右互搏术",
     "name": "左右互搏术",
     "type": "talent_book",
@@ -11368,7 +11368,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "生意经",
     "name": "生意经",
     "type": "talent_book",
@@ -11398,7 +11398,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "医术汇总",
     "name": "医术汇总",
     "type": "talent_book",
@@ -11428,7 +11428,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "华山拳法纲要",
     "name": "华山拳法纲要",
     "type": "talent_book",
@@ -11458,7 +11458,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "新手礼包-大蟠桃",
     "name": "新手礼包-大蟠桃",
     "type": "booster",
@@ -11481,7 +11481,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "玉蜂浆",
     "name": "玉蜂浆",
     "type": "booster",
@@ -11504,7 +11504,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "王母蟠桃",
     "name": "王母蟠桃",
     "type": "booster",
@@ -11527,7 +11527,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "蛇胆",
     "name": "蛇胆",
     "type": "booster",
@@ -11546,7 +11546,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "道家仙丹",
     "name": "道家仙丹",
     "type": "booster",
@@ -11565,7 +11565,7 @@
     ]
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "刀",
     "name": "刀",
     "type": "utility",
@@ -11579,7 +11579,7 @@
     "useEffects": []
   },
   {
-    "catalog": "normal",
+    "category": "normal",
     "id": "洗练书",
     "name": "洗练书",
     "type": "utility",
@@ -11593,3 +11593,4 @@
     "useEffects": []
   }
 ]
+

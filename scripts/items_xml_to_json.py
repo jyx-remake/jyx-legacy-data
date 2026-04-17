@@ -237,10 +237,10 @@ def build_item(item: ET.Element) -> dict[str, object]:
         for require in item.findall("require")
         if (parsed := parse_requirement(require)) is not None
     ]
-    catalog = "equipment" if item_type in EQUIPMENT_ITEM_TYPES or affixes else "normal"
+    category = "equipment" if item_type in EQUIPMENT_ITEM_TYPES or affixes else "normal"
 
     payload = {
-        "catalog": catalog,
+        "category": category,
         "id": item_id,
         "name": item_id,
         "type": item_type,
@@ -253,7 +253,7 @@ def build_item(item: ET.Element) -> dict[str, object]:
         "requirements": requirements,
         "useEffects": use_effects,
     }
-    if catalog == "equipment":
+    if category == "equipment":
         payload["affixes"] = affixes
     return payload
 
