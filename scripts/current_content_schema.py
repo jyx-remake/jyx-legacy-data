@@ -54,7 +54,11 @@ WEAPON_TYPE_MAP: dict[str, str] = {
     "powerup_qimen": "qimen",
 }
 
-EQUIPMENT_ITEM_TYPES = {"weapon", "armor", "accessory"}
+EQUIPMENT_SLOT_TYPE_MAP: dict[int, str] = {
+    1: "weapon",
+    2: "armor",
+    3: "accessory",
+}
 
 
 def parse_int(value: str | None, *, default: int = 0) -> int:

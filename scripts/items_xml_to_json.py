@@ -6,7 +6,7 @@ from pathlib import Path
 import xml.etree.ElementTree as ET
 
 from current_content_schema import (
-    EQUIPMENT_ITEM_TYPES,
+    EQUIPMENT_SLOT_TYPE_MAP,
     build_grant_talent_affix,
     parse_passive_affixes,
 )
@@ -29,9 +29,6 @@ ACTIVE_TRIGGER_NAME_MAP: dict[str, str] = {
 
 ITEM_TYPE_MAP: dict[int, str] = {
     0: "consumable",
-    1: "weapon",
-    2: "armor",
-    3: "accessory",
     4: "skill_book",
     5: "quest_item",
     6: "special_skill_book",
@@ -200,7 +197,8 @@ def build_item(item: ET.Element) -> dict[str, object]:
         if trigger.get("name") in ACTIVE_TRIGGER_NAME_MAP
     ]
     talent_ids = split_hash_list(item.get("talent"))
-    item_type = ITEM_TYPE_MAP.get(legacy_type, "unknown")
+    slot_type = EQUIPMENT_SLOT_TYPE_MAP.get(legacy_type)
+    item_type = "equipment" if slot_type is not None else ITEM_TYPE_MAP.get(legacy_type, "unknown")
     passive_triggers = item.findall("trigger")
     if item_type == "talent_book":
         passive_triggers = [
@@ -237,7 +235,7 @@ def build_item(item: ET.Element) -> dict[str, object]:
         for require in item.findall("require")
         if (parsed := parse_requirement(require)) is not None
     ]
-    category = "equipment" if item_type in EQUIPMENT_ITEM_TYPES or affixes else "normal"
+    category = "equipment" if slot_type is not None or affixes else "normal"
 
     payload = {
         "category": category,
@@ -254,6 +252,9 @@ def build_item(item: ET.Element) -> dict[str, object]:
         "useEffects": use_effects,
     }
     if category == "equipment":
+        if slot_type is None:
+            raise ValueError(f"equipment item '{item_id}' is missing a slot type.")
+        payload["slotType"] = slot_type
         payload["affixes"] = affixes
     return payload
 
