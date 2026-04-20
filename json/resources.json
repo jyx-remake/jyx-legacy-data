@@ -2,2987 +2,2987 @@
   {
     "id": "BLACK",
     "group": null,
-    "value": "UI/black"
+    "value": "ui/black"
   },
   {
     "id": "音乐.欢乐",
     "group": "音乐",
-    "value": "Audios/huanle.mp3"
+    "value": "audio/huanle.mp3"
   },
   {
     "id": "音乐.经典",
     "group": "音乐",
-    "value": "Audios/game04.mp3"
+    "value": "audio/game04.mp3"
   },
   {
     "id": "音乐.七夕",
     "group": "音乐",
-    "value": "Audios/qixi.mp3"
+    "value": "audio/qixi.mp3"
   },
   {
     "id": "音乐.逍遥",
     "group": "音乐",
-    "value": "Audios/xiaoyaogu.mp3"
+    "value": "audio/xiaoyaogu.mp3"
   },
   {
     "id": "音乐.逍遥1",
     "group": "音乐",
-    "value": "Audios/xiaoyaogu1.mp3"
+    "value": "audio/xiaoyaogu1.mp3"
   },
   {
     "id": "音乐.逍遥2",
     "group": "音乐",
-    "value": "Audios/xiaoyaogu2.mp3"
+    "value": "audio/xiaoyaogu2.mp3"
   },
   {
     "id": "音乐.逍遥3",
     "group": "音乐",
-    "value": "Audios/xiaoyaogu3.mp3"
+    "value": "audio/xiaoyaogu3.mp3"
   },
   {
     "id": "音乐.逍遥4",
     "group": "音乐",
-    "value": "Audios/xiaoyaogu4.mp3"
+    "value": "audio/xiaoyaogu4.mp3"
   },
   {
     "id": "音乐.天外村",
     "group": "音乐",
-    "value": "Audios/tianwaicun.mp3"
+    "value": "audio/tianwaicun.mp3"
   },
   {
     "id": "音乐.神秘山洞",
     "group": "音乐",
-    "value": "Audios/shenmishandong.mp3"
+    "value": "audio/shenmishandong.mp3"
   },
   {
     "id": "音乐.如梦往事",
     "group": "音乐",
-    "value": "Audios/rumengwangshi.mp3"
+    "value": "audio/rumengwangshi.mp3"
   },
   {
     "id": "音乐.宿命",
     "group": "音乐",
-    "value": "Audios/suming.mp3"
+    "value": "audio/suming.mp3"
   },
   {
     "id": "音乐.圣火令",
     "group": "音乐",
-    "value": "Audios/shenghuoling.mp3"
+    "value": "audio/shenghuoling.mp3"
   },
   {
     "id": "音乐.武林至尊",
     "group": "音乐",
-    "value": "Audios/wulinzhizun.mp3"
+    "value": "audio/wulinzhizun.mp3"
   },
   {
     "id": "音乐.紧张感",
     "group": "音乐",
-    "value": "Audios/jinzhanggan.mp3"
+    "value": "audio/jinzhanggan.mp3"
   },
   {
     "id": "音乐.太行八径",
     "group": "音乐",
-    "value": "Audios/taihangbajing.mp3"
+    "value": "audio/taihangbajing.mp3"
   },
   {
     "id": "音乐.室内_安静",
     "group": "音乐",
-    "value": "Audios/shineianjing.mp3"
+    "value": "audio/shineianjing.mp3"
   },
   {
     "id": "音乐.室内_清新",
     "group": "音乐",
-    "value": "Audios/shineiqingxin.mp3"
+    "value": "audio/shineiqingxin.mp3"
   },
   {
     "id": "音乐.室内_世俗",
     "group": "音乐",
-    "value": "Audios/shineishisu.mp3"
+    "value": "audio/shineishisu.mp3"
   },
   {
     "id": "音乐.游戏失败",
     "group": "音乐",
-    "value": "Audios/gameover.mp3"
+    "value": "audio/gameover.mp3"
   },
   {
     "id": "战斗音乐.1",
     "group": "战斗音乐",
-    "value": "Audios/battle.mp3"
+    "value": "audio/battle.mp3"
   },
   {
     "id": "战斗音乐.2",
     "group": "战斗音乐",
-    "value": "Audios/battle2.mp3"
+    "value": "audio/battle2.mp3"
   },
   {
     "id": "战斗音乐.3",
     "group": "战斗音乐",
-    "value": "Audios/battle3.mp3"
+    "value": "audio/battle3.mp3"
   },
   {
     "id": "战斗音乐.4",
     "group": "战斗音乐",
-    "value": "Audios/battle4.mp3"
+    "value": "audio/battle4.mp3"
   },
   {
     "id": "战斗音乐.5",
     "group": "战斗音乐",
-    "value": "Audios/VS03.mp3"
+    "value": "audio/VS03.mp3"
   },
   {
     "id": "战斗音乐.云狐之战",
     "group": "战斗音乐",
-    "value": "Audios/yunhuzhizhan.mp3"
+    "value": "audio/yunhuzhizhan.mp3"
   },
   {
     "id": "战斗音乐.暮云出击",
     "group": "战斗音乐",
-    "value": "Audios/muyunchuji.mp3"
+    "value": "audio/muyunchuji.mp3"
   },
   {
     "id": "战斗音乐.山谷行进",
     "group": "战斗音乐",
-    "value": "Audios/shanguxingjin.mp3"
+    "value": "audio/shanguxingjin.mp3"
   },
   {
     "id": "战斗音乐.山谷行进2",
     "group": "战斗音乐",
-    "value": "Audios/shanguxingjin2.mp3"
+    "value": "audio/shanguxingjin2.mp3"
   },
   {
     "id": "音乐.华山论剑",
     "group": "音乐",
-    "value": "Audios/huashanlunjian.mp3"
+    "value": "audio/huashanlunjian.mp3"
   },
   {
     "id": "音乐.金庸群侠传4",
     "group": "音乐",
-    "value": "Audios/game04.mp3"
+    "value": "audio/game04.mp3"
   },
   {
     "id": "音乐.金庸群侠传5",
     "group": "音乐",
-    "value": "Audios/game05.mp3"
+    "value": "audio/game05.mp3"
   },
   {
     "id": "音乐.开场",
     "group": "音乐",
-    "value": "Audios/op.mp3"
+    "value": "audio/op.mp3"
   },
   {
     "id": "音乐.苦闷",
     "group": "音乐",
-    "value": "Audios/kumen.mp3"
+    "value": "audio/kumen.mp3"
   },
   {
     "id": "音乐.神雕.歌泣",
     "group": "音乐",
-    "value": "Audios/shendiaogeqi.mp3"
+    "value": "audio/shendiaogeqi.mp3"
   },
   {
     "id": "音乐.神雕.舒缓",
     "group": "音乐",
-    "value": "Audios/shendiaoshuhuan.mp3"
+    "value": "audio/shendiaoshuhuan.mp3"
   },
   {
     "id": "音乐.神雕.主题",
     "group": "音乐",
-    "value": "Audios/shendiaozhuti.mp3"
+    "value": "audio/shendiaozhuti.mp3"
   },
   {
     "id": "音乐.倚天.醉拳",
     "group": "音乐",
-    "value": "Audios/yitianzuiquan.mp3"
+    "value": "audio/yitianzuiquan.mp3"
   },
   {
     "id": "音乐.天龙八部1",
     "group": "音乐",
-    "value": "Audios/pm01.mp3"
+    "value": "audio/pm01.mp3"
   },
   {
     "id": "音乐.天龙八部2",
     "group": "音乐",
-    "value": "Audios/pm02.mp3"
+    "value": "audio/pm02.mp3"
   },
   {
     "id": "音乐.天龙八部3",
     "group": "音乐",
-    "value": "Audios/pm03.mp3"
+    "value": "audio/pm03.mp3"
   },
   {
     "id": "音乐.天龙八部4",
     "group": "音乐",
-    "value": "Audios/pm03a.mp3"
+    "value": "audio/pm03a.mp3"
   },
   {
     "id": "音乐.天龙八部5",
     "group": "音乐",
-    "value": "Audios/pm04.mp3"
+    "value": "audio/pm04.mp3"
   },
   {
     "id": "音乐.天龙八部6",
     "group": "音乐",
-    "value": "Audios/pm06.mp3"
+    "value": "audio/pm06.mp3"
   },
   {
     "id": "音乐.天龙八部7",
     "group": "音乐",
-    "value": "Audios/pm07.mp3"
+    "value": "audio/pm07.mp3"
   },
   {
     "id": "音乐.天龙八部8",
     "group": "音乐",
-    "value": "Audios/pm08.mp3"
+    "value": "audio/pm08.mp3"
   },
   {
     "id": "音乐.天龙八部9",
     "group": "音乐",
-    "value": "Audios/pm09.mp3"
+    "value": "audio/pm09.mp3"
   },
   {
     "id": "音乐.天龙八部10",
     "group": "音乐",
-    "value": "Audios/pm10.mp3"
+    "value": "audio/pm10.mp3"
   },
   {
     "id": "音乐.天龙八部11",
     "group": "音乐",
-    "value": "Audios/pm11.mp3"
+    "value": "audio/pm11.mp3"
   },
   {
     "id": "音乐.天龙八部.佛音1",
     "group": "音乐",
-    "value": "Audios/pn09-1.mp3"
+    "value": "audio/pn09-1.mp3"
   },
   {
     "id": "音乐.天龙八部.佛音2",
     "group": "音乐",
-    "value": "Audios/pn09-2.mp3"
+    "value": "audio/pn09-2.mp3"
   },
   {
     "id": "音乐.天龙八部.佛音3",
     "group": "音乐",
-    "value": "Audios/pn09-3.mp3"
+    "value": "audio/pn09-3.mp3"
   },
   {
     "id": "音乐.天龙八部.佛音4",
     "group": "音乐",
-    "value": "Audios/pn09-4.mp3"
+    "value": "audio/pn09-4.mp3"
   },
   {
     "id": "音乐.天龙八部.紧张感1",
     "group": "音乐",
-    "value": "Audios/power1.mp3"
+    "value": "audio/power1.mp3"
   },
   {
     "id": "音乐.天龙八部.紧张感2",
     "group": "音乐",
-    "value": "Audios/power2.mp3"
+    "value": "audio/power2.mp3"
   },
   {
     "id": "音乐.天龙八部.紧张感3",
     "group": "音乐",
-    "value": "Audios/power3.mp3"
+    "value": "audio/power3.mp3"
   },
   {
     "id": "音乐.天龙八部.紧张感4",
     "group": "音乐",
-    "value": "Audios/power4.mp3"
+    "value": "audio/power4.mp3"
   },
   {
     "id": "音乐.天龙八部.紧张感5",
     "group": "音乐",
-    "value": "Audios/power5.mp3"
+    "value": "audio/power5.mp3"
   },
   {
     "id": "音乐.天龙八部.燕子坞",
     "group": "音乐",
-    "value": "Audios/yanziwu.mp3"
+    "value": "audio/yanziwu.mp3"
   },
   {
     "id": "音乐.天龙八部.忧伤",
     "group": "音乐",
-    "value": "Audios/youshang.mp3"
+    "value": "audio/youshang.mp3"
   },
   {
     "id": "音乐.天龙八部.无量山洞",
     "group": "音乐",
-    "value": "Audios/wuliangyudong.mp3"
+    "value": "audio/wuliangyudong.mp3"
   },
   {
     "id": "音乐.天龙八部.逍遥派",
     "group": "音乐",
-    "value": "Audios/xiaoyaopai.mp3"
+    "value": "audio/xiaoyaopai.mp3"
   },
   {
     "id": "音乐.天龙八部.逍遥派抒情版",
     "group": "音乐",
-    "value": "Audios/xiaoyaopaishuqingban.mp3"
+    "value": "audio/xiaoyaopaishuqingban.mp3"
   },
   {
     "id": "音乐.城市1",
     "group": "音乐",
-    "value": "Audios/city1.mp3"
+    "value": "audio/city1.mp3"
   },
   {
     "id": "音乐.城市2",
     "group": "音乐",
-    "value": "Audios/city1.mp3"
+    "value": "audio/city1.mp3"
   },
   {
     "id": "音乐.城市3",
     "group": "音乐",
-    "value": "Audios/city3.mp3"
+    "value": "audio/city3.mp3"
   },
   {
     "id": "音乐.城市4",
     "group": "音乐",
-    "value": "Audios/city4.mp3"
+    "value": "audio/city4.mp3"
   },
   {
     "id": "音乐.武侠进行",
     "group": "音乐",
-    "value": "Audios/sound21.mp3"
+    "value": "audio/sound21.mp3"
   },
   {
     "id": "音乐.武侠回忆",
     "group": "音乐",
-    "value": "Audios/sound32.mp3"
+    "value": "audio/sound32.mp3"
   },
   {
     "id": "音乐.武侠流水",
     "group": "音乐",
-    "value": "Audios/sound33.mp3"
+    "value": "audio/sound33.mp3"
   },
   {
     "id": "音乐.武侠雄壮",
     "group": "音乐",
-    "value": "Audios/sound35.mp3"
+    "value": "audio/sound35.mp3"
   },
   {
     "id": "音乐.欢快工作",
     "group": "音乐",
-    "value": "Audios/worklist.mp3"
+    "value": "audio/worklist.mp3"
   },
   {
     "id": "音乐.七秀",
     "group": "音乐",
-    "value": "Audios/qixiu.mp3"
+    "value": "audio/qixiu.mp3"
   },
   {
     "id": "音乐.纵横江湖",
     "group": "音乐",
-    "value": "Audios/zonghengjianghu.mp3"
+    "value": "audio/zonghengjianghu.mp3"
   },
   {
     "id": "音乐.中原树林",
     "group": "音乐",
-    "value": "Audios/zhongyuanshulin.mp3"
+    "value": "audio/zhongyuanshulin.mp3"
   },
   {
     "id": "音乐.仙剑奇缘",
     "group": "音乐",
-    "value": "Audios/xianjianqiyuan.mp3"
+    "value": "audio/xianjianqiyuan.mp3"
   },
   {
     "id": "音乐.刀间鼓",
     "group": "音乐",
-    "value": "Audios/daojiangu.mp3"
+    "value": "audio/daojiangu.mp3"
   },
   {
     "id": "音乐.少林山门",
     "group": "音乐",
-    "value": "Audios/shaolinshanmen.mp3"
+    "value": "audio/shaolinshanmen.mp3"
   },
   {
     "id": "音乐.武当",
     "group": "音乐",
-    "value": "Audios/chunyang.mp3"
+    "value": "audio/chunyang.mp3"
   },
   {
     "id": "音乐.纯阳",
     "group": "音乐",
-    "value": "Audios/chunyang.mp3"
+    "value": "audio/chunyang.mp3"
   },
   {
     "id": "音乐.琵琶语",
     "group": "音乐",
-    "value": "Audios/pipayu.mp3"
+    "value": "audio/pipayu.mp3"
   },
   {
     "id": "音乐.血刀门",
     "group": "音乐",
-    "value": "Audios/power1.mp3"
+    "value": "audio/power1.mp3"
   },
   {
     "id": "音乐.全真教",
     "group": "音乐",
-    "value": "Audios/shendiaozhuti.mp3"
+    "value": "audio/shendiaozhuti.mp3"
   },
   {
     "id": "音效.拳击",
     "group": "音效",
-    "value": "Audios/fist.mp3"
+    "value": "audio/fist.mp3"
   },
   {
     "id": "音效.拳1",
     "group": "音效",
-    "value": "Audios/Atk00.mp3"
+    "value": "audio/Atk00.mp3"
   },
   {
     "id": "音效.拳2",
     "group": "音效",
-    "value": "Audios/Atk01.mp3"
+    "value": "audio/Atk01.mp3"
   },
   {
     "id": "音效.拳3",
     "group": "音效",
-    "value": "Audios/Atk02.mp3"
+    "value": "audio/Atk02.mp3"
   },
   {
     "id": "音效.闷拳",
     "group": "音效",
-    "value": "Audios/Atk03.mp3"
+    "value": "audio/Atk03.mp3"
   },
   {
     "id": "音效.指法",
     "group": "音效",
-    "value": "Audios/hit_finger.mp3"
+    "value": "audio/hit_finger.mp3"
   },
   {
     "id": "音效.指1",
     "group": "音效",
-    "value": "Audios/Atk04.mp3"
+    "value": "audio/Atk04.mp3"
   },
   {
     "id": "音效.指2",
     "group": "音效",
-    "value": "Audios/Atk14.mp3"
+    "value": "audio/Atk14.mp3"
   },
   {
     "id": "音效.剑",
     "group": "音效",
-    "value": "Audios/sword.mp3"
+    "value": "audio/sword.mp3"
   },
   {
     "id": "音效.利器1",
     "group": "音效",
-    "value": "Audios/Atk05.mp3"
+    "value": "audio/Atk05.mp3"
   },
   {
     "id": "音效.利器2",
     "group": "音效",
-    "value": "Audios/Atk06.mp3"
+    "value": "audio/Atk06.mp3"
   },
   {
     "id": "音效.利器3",
     "group": "音效",
-    "value": "Audios/Atk06.mp3"
+    "value": "audio/Atk06.mp3"
   },
   {
     "id": "音效.利器4",
     "group": "音效",
-    "value": "Audios/Atk10.mp3"
+    "value": "audio/Atk10.mp3"
   },
   {
     "id": "音效.利器5",
     "group": "音效",
-    "value": "Audios/Atk13.mp3"
+    "value": "audio/Atk13.mp3"
   },
   {
     "id": "音效.利器6",
     "group": "音效",
-    "value": "Audios/E11.mp3"
+    "value": "audio/E11.mp3"
   },
   {
     "id": "音效.利器7",
     "group": "音效",
-    "value": "Audios/E12.mp3"
+    "value": "audio/E12.mp3"
   },
   {
     "id": "音效.威猛利器",
     "group": "音效",
-    "value": "Audios/E33.mp3"
+    "value": "audio/E33.mp3"
   },
   {
     "id": "音效.威猛利器2",
     "group": "音效",
-    "value": "Audios/E23.mp3"
+    "value": "audio/E23.mp3"
   },
   {
     "id": "音效.威猛利器3",
     "group": "音效",
-    "value": "Audios/E49.mp3"
+    "value": "audio/E49.mp3"
   },
   {
     "id": "音效.钝器1",
     "group": "音效",
-    "value": "Audios/Atk07.mp3"
+    "value": "audio/Atk07.mp3"
   },
   {
     "id": "音效.钝器2",
     "group": "音效",
-    "value": "Audios/Atk08.mp3"
+    "value": "audio/Atk08.mp3"
   },
   {
     "id": "音效.钝器3",
     "group": "音效",
-    "value": "Audios/Atk09.mp3"
+    "value": "audio/Atk09.mp3"
   },
   {
     "id": "音效.钝器4",
     "group": "音效",
-    "value": "Audios/E01.mp3"
+    "value": "audio/E01.mp3"
   },
   {
     "id": "音效.钝器5",
     "group": "音效",
-    "value": "Audios/E02.mp3"
+    "value": "audio/E02.mp3"
   },
   {
     "id": "音效.钝器6",
     "group": "音效",
-    "value": "Audios/E03.mp3"
+    "value": "audio/E03.mp3"
   },
   {
     "id": "音效.钝器7",
     "group": "音效",
-    "value": "Audios/E04.mp3"
+    "value": "audio/E04.mp3"
   },
   {
     "id": "音效.钝器8",
     "group": "音效",
-    "value": "Audios/E13.mp3"
+    "value": "audio/E13.mp3"
   },
   {
     "id": "音效.破空钝器",
     "group": "音效",
-    "value": "Audios/E17.mp3"
+    "value": "audio/E17.mp3"
   },
   {
     "id": "音效.打破罐子",
     "group": "音效",
-    "value": "Audios/Atk11.mp3"
+    "value": "audio/Atk11.mp3"
   },
   {
     "id": "音效.暗器1",
     "group": "音效",
-    "value": "Audios/Atk12.mp3"
+    "value": "audio/Atk12.mp3"
   },
   {
     "id": "音效.暗器2",
     "group": "音效",
-    "value": "Audios/E06.mp3"
+    "value": "audio/E06.mp3"
   },
   {
     "id": "音效.暗器3",
     "group": "音效",
-    "value": "Audios/E37.mp3"
+    "value": "audio/E37.mp3"
   },
   {
     "id": "音效.飙血",
     "group": "音效",
-    "value": "Audios/Atk15.mp3"
+    "value": "audio/Atk15.mp3"
   },
   {
     "id": "音效.猛兽1",
     "group": "音效",
-    "value": "Audios/Atk16.mp3"
+    "value": "audio/Atk16.mp3"
   },
   {
     "id": "音效.猛兽2",
     "group": "音效",
-    "value": "Audios/Atk17.mp3"
+    "value": "audio/Atk17.mp3"
   },
   {
     "id": "音效.猛兽3",
     "group": "音效",
-    "value": "Audios/Atk22.mp3"
+    "value": "audio/Atk22.mp3"
   },
   {
     "id": "音效.鸟啄",
     "group": "音效",
-    "value": "Audios/E43.mp3"
+    "value": "audio/E43.mp3"
   },
   {
     "id": "音效.龙吼",
     "group": "音效",
-    "value": "Audios/longhou.mp3"
+    "value": "audio/longhou.mp3"
   },
   {
     "id": "音效.吸取内力",
     "group": "音效",
-    "value": "Audios/Atk18.mp3"
+    "value": "audio/Atk18.mp3"
   },
   {
     "id": "音效.内功攻击1",
     "group": "音效",
-    "value": "Audios/E15.mp3"
+    "value": "audio/E15.mp3"
   },
   {
     "id": "音效.内功攻击2",
     "group": "音效",
-    "value": "Audios/E16.mp3"
+    "value": "audio/E16.mp3"
   },
   {
     "id": "音效.内功攻击3",
     "group": "音效",
-    "value": "Audios/E19.mp3"
+    "value": "audio/E19.mp3"
   },
   {
     "id": "音效.内功攻击4",
     "group": "音效",
-    "value": "Audios/E20.mp3"
+    "value": "audio/E20.mp3"
   },
   {
     "id": "音效.内功攻击5",
     "group": "音效",
-    "value": "Audios/E21.mp3"
+    "value": "audio/E21.mp3"
   },
   {
     "id": "音效.内功攻击6",
     "group": "音效",
-    "value": "Audios/E50.mp3"
+    "value": "audio/E50.mp3"
   },
   {
     "id": "音效.小奖励",
     "group": "音效",
-    "value": "Audios/Atk19.mp3"
+    "value": "audio/Atk19.mp3"
   },
   {
     "id": "音效.打雷",
     "group": "音效",
-    "value": "Audios/Atk20.mp3"
+    "value": "audio/Atk20.mp3"
   },
   {
     "id": "音效.蛤蟆叫",
     "group": "音效",
-    "value": "Audios/Atk21.mp3"
+    "value": "audio/Atk21.mp3"
   },
   {
     "id": "音效.装备",
     "group": "音效",
-    "value": "Audios/a_equipsound.mp3"
+    "value": "audio/a_equipsound.mp3"
   },
   {
     "id": "音效.加点",
     "group": "音效",
-    "value": "Audios/a_recover.mp3"
+    "value": "audio/a_recover.mp3"
   },
   {
     "id": "音效.休息",
     "group": "音效",
-    "value": "Audios/a_recover2.mp3"
+    "value": "audio/a_recover2.mp3"
   },
   {
     "id": "音效.升级",
     "group": "音效",
-    "value": "Audios/a_levelup.mp3"
+    "value": "audio/a_levelup.mp3"
   },
   {
     "id": "音效.恢复类物品",
     "group": "音效",
-    "value": "Audios/a_recover2.mp3"
+    "value": "audio/a_recover2.mp3"
   },
   {
     "id": "音效.恢复2",
     "group": "音效",
-    "value": "Audios/E00.mp3"
+    "value": "audio/E00.mp3"
   },
   {
     "id": "音效.恢复3",
     "group": "音效",
-    "value": "Audios/E36.mp3"
+    "value": "audio/E36.mp3"
   },
   {
     "id": "音效.奥义1",
     "group": "音效",
-    "value": "Audios/E07.mp3"
+    "value": "audio/E07.mp3"
   },
   {
     "id": "音效.奥义2",
     "group": "音效",
-    "value": "Audios/E10.mp3"
+    "value": "audio/E10.mp3"
   },
   {
     "id": "音效.奥义3",
     "group": "音效",
-    "value": "Audios/E15.mp3"
+    "value": "audio/E15.mp3"
   },
   {
     "id": "音效.奥义4",
     "group": "音效",
-    "value": "Audios/E27.mp3"
+    "value": "audio/E27.mp3"
   },
   {
     "id": "音效.奥义5",
     "group": "音效",
-    "value": "Audios/E39.mp3"
+    "value": "audio/E39.mp3"
   },
   {
     "id": "音效.奥义6",
     "group": "音效",
-    "value": "Audios/E50.mp3"
+    "value": "audio/E50.mp3"
   },
   {
     "id": "音效.手枪",
     "group": "音效",
-    "value": "Audios/gunshot.mp3"
+    "value": "audio/gunshot.mp3"
   },
   {
     "id": "音效.刺伤",
     "group": "音效",
-    "value": "Audios/E51.mp3"
+    "value": "audio/E51.mp3"
   },
   {
     "id": "音效.特别回复",
     "group": "音效",
-    "value": "Audios/Atk24.mp3"
+    "value": "audio/Atk24.mp3"
   },
   {
     "id": "音效.长剑",
     "group": "音效",
-    "value": "Audios/E46.mp3"
+    "value": "audio/E46.mp3"
   },
   {
     "id": "音效.猛男",
     "group": "音效",
-    "value": "Audios/mengnan.mp3"
+    "value": "audio/mengnan.mp3"
   },
   {
     "id": "音效.男",
     "group": "音效",
-    "value": "Audios/nan.mp3"
+    "value": "audio/nan.mp3"
   },
   {
     "id": "音效.男2",
     "group": "音效",
-    "value": "Audios/nan2.mp3"
+    "value": "audio/nan2.mp3"
   },
   {
     "id": "音效.男3",
     "group": "音效",
-    "value": "Audios/nan3.mp3"
+    "value": "audio/nan3.mp3"
   },
   {
     "id": "音效.男4",
     "group": "音效",
-    "value": "Audios/nan4.mp3"
+    "value": "audio/nan4.mp3"
   },
   {
     "id": "音效.男5",
     "group": "音效",
-    "value": "Audios/nan5.mp3"
+    "value": "audio/nan5.mp3"
   },
   {
     "id": "音效.男-哼",
     "group": "音效",
-    "value": "Audios/nanheng.mp3"
+    "value": "audio/nanheng.mp3"
   },
   {
     "id": "音效.年轻男",
     "group": "音效",
-    "value": "Audios/nianqingnan.mp3"
+    "value": "audio/nianqingnan.mp3"
   },
   {
     "id": "音效.女",
     "group": "音效",
-    "value": "Audios/nv.mp3"
+    "value": "audio/nv.mp3"
   },
   {
     "id": "音效.女2",
     "group": "音效",
-    "value": "Audios/nv2.mp3"
+    "value": "audio/nv2.mp3"
   },
   {
     "id": "音效.女3",
     "group": "音效",
-    "value": "Audios/nv3.mp3"
+    "value": "audio/nv3.mp3"
   },
   {
     "id": "音效.女4",
     "group": "音效",
-    "value": "Audios/nv4.mp3"
+    "value": "audio/nv4.mp3"
   },
   {
     "id": "音效.女的奸笑",
     "group": "音效",
-    "value": "Audios/nvdejianxiao.mp3"
+    "value": "audio/nvdejianxiao.mp3"
   },
   {
     "id": "音效.男惨叫",
     "group": "音效",
-    "value": "Audios/nancanjiao.mp3"
+    "value": "audio/nancanjiao.mp3"
   },
   {
     "id": "音效.敢点老娘",
     "group": "音效",
-    "value": "Audios/gandianlaoniang.mp3"
+    "value": "audio/gandianlaoniang.mp3"
   },
   {
     "id": "音效.咆哮",
     "group": "音效",
-    "value": "Audios/paoxiao.mp3"
+    "value": "audio/paoxiao.mp3"
   },
   {
     "id": "音效.亲吻",
     "group": "音效",
-    "value": "Audios/kiss.mp3"
+    "value": "audio/kiss.mp3"
   },
   {
     "id": "音效.亲吻2",
     "group": "音效",
-    "value": "Audios/kiss2.mp3"
+    "value": "audio/kiss2.mp3"
   },
   {
     "id": "头像.支付宝二维码",
     "group": "头像",
-    "value": "Heads/zhifubao"
+    "value": "head/zhifubao"
   },
   {
     "id": "头像.刀客",
     "group": "头像",
-    "value": "Heads/daoke"
+    "value": "head/daoke"
   },
   {
     "id": "头像.年轻谢逊",
     "group": "头像",
-    "value": "Heads/xiexunnianqing"
+    "value": "head/xiexunnianqing"
   },
   {
     "id": "头像.侠客2",
     "group": "头像",
-    "value": "Heads/yuanchengzhi2"
+    "value": "head/yuanchengzhi2"
   },
   {
     "id": "头像.汉家松鼠cg",
     "group": "头像",
-    "value": "Heads/hjss_CG"
+    "value": "head/hjss_CG"
   },
   {
     "id": "头像.汉家松鼠子尹",
     "group": "头像",
-    "value": "Heads/hjss_ZY"
+    "value": "head/hjss_ZY"
   },
   {
     "id": "头像.汉家松鼠吕布",
     "group": "头像",
-    "value": "Heads/hjss_LB"
+    "value": "head/hjss_LB"
   },
   {
     "id": "头像.汉家松鼠HOME",
     "group": "头像",
-    "value": "Heads/hjss_HOME"
+    "value": "head/hjss_HOME"
   },
   {
     "id": "头像.汉家松鼠素心",
     "group": "头像",
-    "value": "Heads/hjss_SX"
+    "value": "head/hjss_SX"
   },
   {
     "id": "头像.主角",
     "group": "头像",
-    "value": "Heads/zhujue2"
+    "value": "head/zhujue2"
   },
   {
     "id": "头像.主角2",
     "group": "头像",
-    "value": "Heads/zhujue"
+    "value": "head/zhujue"
   },
   {
     "id": "头像.段誉",
     "group": "头像",
-    "value": "Heads/duanyu"
+    "value": "head/duanyu"
   },
   {
     "id": "头像.张无忌",
     "group": "头像",
-    "value": "Heads/zhangwuji"
+    "value": "head/zhangwuji"
   },
   {
     "id": "头像.鹤笔翁",
     "group": "头像",
-    "value": "Heads/hebiweng"
+    "value": "head/hebiweng"
   },
   {
     "id": "头像.赵敏",
     "group": "头像",
-    "value": "Heads/zhaomin"
+    "value": "head/zhaomin"
   },
   {
     "id": "头像.鹿杖客",
     "group": "头像",
-    "value": "Heads/luzhangke"
+    "value": "head/luzhangke"
   },
   {
     "id": "头像.杨逍",
     "group": "头像",
-    "value": "Heads/yangxiao"
+    "value": "head/yangxiao"
   },
   {
     "id": "头像.岳肃",
     "group": "头像",
-    "value": "Heads/duanziyu"
+    "value": "head/duanziyu"
   },
   {
     "id": "头像.宁清宇",
     "group": "头像",
-    "value": "Heads/ningqingyu"
+    "value": "head/ningqingyu"
   },
   {
     "id": "头像.蔡子峰",
     "group": "头像",
-    "value": "Heads/caizifeng"
+    "value": "head/caizifeng"
   },
   {
     "id": "头像.长青子",
     "group": "头像",
-    "value": "Heads/changqingzi"
+    "value": "head/changqingzi"
   },
   {
     "id": "头像.常遇春",
     "group": "头像",
-    "value": "Heads/changyuchun"
+    "value": "head/changyuchun"
   },
   {
     "id": "头像.彭和尚",
     "group": "头像",
-    "value": "Heads/pengheshang"
+    "value": "head/pengheshang"
   },
   {
     "id": "头像.徐达",
     "group": "头像",
-    "value": "Heads/xuda"
+    "value": "head/xuda"
   },
   {
     "id": "头像.康茂才",
     "group": "头像",
-    "value": "Heads/kangmaocai"
+    "value": "head/kangmaocai"
   },
   {
     "id": "头像.朱元璋近卫",
     "group": "头像",
-    "value": "Heads/zhuyuanzhangjinwei"
+    "value": "head/zhuyuanzhangjinwei"
   },
   {
     "id": "头像.士兵",
     "group": "头像",
-    "value": "Heads/shibing"
+    "value": "head/shibing"
   },
   {
     "id": "头像.南贤",
     "group": "头像",
-    "value": "Heads/nanxian"
+    "value": "head/nanxian"
   },
   {
     "id": "头像.周芷若",
     "group": "头像",
-    "value": "Heads/zhouzhiruo"
+    "value": "head/zhouzhiruo"
   },
   {
     "id": "头像.程英",
     "group": "头像",
-    "value": "Heads/chengying"
+    "value": "head/chengying"
   },
   {
     "id": "头像.郭芙",
     "group": "头像",
-    "value": "Heads/guofu"
+    "value": "head/guofu"
   },
   {
     "id": "头像.郭襄",
     "group": "头像",
-    "value": "Heads/guoxiang"
+    "value": "head/guoxiang"
   },
   {
     "id": "头像.田伯光",
     "group": "头像",
-    "value": "Heads/tianboguang"
+    "value": "head/tianboguang"
   },
   {
     "id": "头像.小龙女",
     "group": "头像",
-    "value": "Heads/xiaolongnv"
+    "value": "head/xiaolongnv"
   },
   {
     "id": "头像.杨过",
     "group": "头像",
-    "value": "Heads/yangguo"
+    "value": "head/yangguo"
   },
   {
     "id": "头像.神雕",
     "group": "头像",
-    "value": "Heads/shendiao"
+    "value": "head/shendiao"
   },
   {
     "id": "头像.李莫愁",
     "group": "头像",
-    "value": "Heads/limochou"
+    "value": "head/limochou"
   },
   {
     "id": "头像.东方不败",
     "group": "头像",
-    "value": "Heads/dongfangbubai"
+    "value": "head/dongfangbubai"
   },
   {
     "id": "头像.小昭",
     "group": "头像",
-    "value": "Heads/xiaozhao"
+    "value": "head/xiaozhao"
   },
   {
     "id": "头像.段王爷",
     "group": "头像",
-    "value": "Heads/duanwangye"
+    "value": "head/duanwangye"
   },
   {
     "id": "头像.段正淳",
     "group": "头像",
-    "value": "Heads/duanzhengchun"
+    "value": "head/duanzhengchun"
   },
   {
     "id": "头像.木婉清",
     "group": "头像",
-    "value": "Heads/muwanqing"
+    "value": "head/muwanqing"
   },
   {
     "id": "头像.木婉清2",
     "group": "头像",
-    "value": "Heads/muwanqing2"
+    "value": "head/muwanqing2"
   },
   {
     "id": "头像.胡斐",
     "group": "头像",
-    "value": "Heads/hufei"
+    "value": "head/hufei"
   },
   {
     "id": "头像.阎基",
     "group": "头像",
-    "value": "Heads/yanji"
+    "value": "head/yanji"
   },
   {
     "id": "头像.苗人凤",
     "group": "头像",
-    "value": "Heads/miaorenfeng"
+    "value": "head/miaorenfeng"
   },
   {
     "id": "头像.凤天南",
     "group": "头像",
-    "value": "Heads/fengtiannan"
+    "value": "head/fengtiannan"
   },
   {
     "id": "头像.钟阿四",
     "group": "头像",
-    "value": "Heads/zhongasi"
+    "value": "head/zhongasi"
   },
   {
     "id": "头像.猴子",
     "group": "头像",
-    "value": "Heads/xingxing"
+    "value": "head/xingxing"
   },
   {
     "id": "头像.杀手黑",
     "group": "头像",
-    "value": "Heads/xiaobing"
+    "value": "head/xiaobing"
   },
   {
     "id": "头像.杀手红",
     "group": "头像",
-    "value": "Heads/xiaobing"
+    "value": "head/xiaobing"
   },
   {
     "id": "头像.年轻仙姑",
     "group": "头像",
-    "value": "Heads/xiangu"
+    "value": "head/xiangu"
   },
   {
     "id": "头像.西域人",
     "group": "头像",
-    "value": "Heads/xiaobing3"
+    "value": "head/xiaobing3"
   },
   {
     "id": "头像.小兵1",
     "group": "头像",
-    "value": "Heads/xiaobing2"
+    "value": "head/xiaobing2"
   },
   {
     "id": "头像.小兵2",
     "group": "头像",
-    "value": "Heads/xiaobing3"
+    "value": "head/xiaobing3"
   },
   {
     "id": "头像.小兵女1",
     "group": "头像",
-    "value": "Heads/shaonv3"
+    "value": "head/shaonv3"
   },
   {
     "id": "头像.邪恶男人",
     "group": "头像",
-    "value": "Heads/xiaobing"
+    "value": "head/xiaobing"
   },
   {
     "id": "头像.女人1",
     "group": "头像",
-    "value": "Heads/shaonv2"
+    "value": "head/shaonv2"
   },
   {
     "id": "头像.一般道士.红",
     "group": "头像",
-    "value": "Heads/xiaobing"
+    "value": "head/xiaobing"
   },
   {
     "id": "头像.一般道士.玫瑰",
     "group": "头像",
-    "value": "Heads/xiaobing"
+    "value": "head/xiaobing"
   },
   {
     "id": "头像.一般道士.青",
     "group": "头像",
-    "value": "Heads/xiaobing"
+    "value": "head/xiaobing"
   },
   {
     "id": "头像.一般道士.土黄",
     "group": "头像",
-    "value": "Heads/xiaobing"
+    "value": "head/xiaobing"
   },
   {
     "id": "头像.公子1",
     "group": "头像",
-    "value": "Heads/gongzi"
+    "value": "head/gongzi"
   },
   {
     "id": "头像.公子2",
     "group": "头像",
-    "value": "Heads/ouyangke"
+    "value": "head/ouyangke"
   },
   {
     "id": "头像.渔",
     "group": "头像",
-    "value": "Heads/xiaobing"
+    "value": "head/xiaobing"
   },
   {
     "id": "头像.樵",
     "group": "头像",
-    "value": "Heads/xiaobing"
+    "value": "head/xiaobing"
   },
   {
     "id": "头像.耕",
     "group": "头像",
-    "value": "Heads/xiaobing"
+    "value": "head/xiaobing"
   },
   {
     "id": "头像.读",
     "group": "头像",
-    "value": "Heads/xiaobing"
+    "value": "head/xiaobing"
   },
   {
     "id": "头像.王爷",
     "group": "头像",
-    "value": "Heads/wangye"
+    "value": "head/wangye"
   },
   {
     "id": "头像.夫人",
     "group": "头像",
-    "value": "Heads/yeerniang"
+    "value": "head/yeerniang"
   },
   {
     "id": "头像.叶二娘",
     "group": "头像",
-    "value": "Heads/yeerniang"
+    "value": "head/yeerniang"
   },
   {
     "id": "头像.少女1",
     "group": "头像",
-    "value": "Heads/shaonv1"
+    "value": "head/shaonv1"
   },
   {
     "id": "头像.少女2",
     "group": "头像",
-    "value": "Heads/shaonv2"
+    "value": "head/shaonv2"
   },
   {
     "id": "头像.少女3",
     "group": "头像",
-    "value": "Heads/shaonv3"
+    "value": "head/shaonv3"
   },
   {
     "id": "头像.掌门1",
     "group": "头像",
-    "value": "Heads/zhangmen1"
+    "value": "head/zhangmen1"
   },
   {
     "id": "头像.掌门2",
     "group": "头像",
-    "value": "Heads/zhangmen2"
+    "value": "head/zhangmen2"
   },
   {
     "id": "头像.神秘人",
     "group": "头像",
-    "value": "Heads/shenmiren"
+    "value": "head/shenmiren"
   },
   {
     "id": "头像.江城快报",
     "group": "头像",
-    "value": "Heads/huanghelou"
+    "value": "head/huanghelou"
   },
   {
     "id": "头像.张三丰",
     "group": "头像",
-    "value": "Heads/zhangsanfeng"
+    "value": "head/zhangsanfeng"
   },
   {
     "id": "头像.老仙姑",
     "group": "头像",
-    "value": "Heads/laoxiangu"
+    "value": "head/laoxiangu"
   },
   {
     "id": "头像.老和尚",
     "group": "头像",
-    "value": "Heads/laoheshang"
+    "value": "head/laoheshang"
   },
   {
     "id": "头像.老色鬼",
     "group": "头像",
-    "value": "Heads/gongsunzhi"
+    "value": "head/gongsunzhi"
   },
   {
     "id": "头像.程灵素",
     "group": "头像",
-    "value": "Heads/chenglingsu"
+    "value": "head/chenglingsu"
   },
   {
     "id": "头像.胡一刀",
     "group": "头像",
-    "value": "Heads/huyidao"
+    "value": "head/huyidao"
   },
   {
     "id": "头像.田归农",
     "group": "头像",
-    "value": "Heads/tianguinong"
+    "value": "head/tianguinong"
   },
   {
     "id": "头像.苗若兰",
     "group": "头像",
-    "value": "Heads/miaoruolan"
+    "value": "head/miaoruolan"
   },
   {
     "id": "头像.毒手药王",
     "group": "头像",
-    "value": "Heads/heshang"
+    "value": "head/heshang"
   },
   {
     "id": "头像.丐帮弟子",
     "group": "头像",
-    "value": "Heads/gaibangdizi"
+    "value": "head/gaibangdizi"
   },
   {
     "id": "头像.穆人清",
     "group": "头像",
-    "value": "Heads/murenqing"
+    "value": "head/murenqing"
   },
   {
     "id": "头像.木桑道长",
     "group": "头像",
-    "value": "Heads/musangdaoren"
+    "value": "head/musangdaoren"
   },
   {
     "id": "头像.佛像",
     "group": "头像",
-    "value": "Heads/foxiang"
+    "value": "head/foxiang"
   },
   {
     "id": "头像.水笙",
     "group": "头像",
-    "value": "Heads/shuisheng"
+    "value": "head/shuisheng"
   },
   {
     "id": "头像.梅念笙",
     "group": "头像",
-    "value": "Heads/meiniansheng"
+    "value": "head/meiniansheng"
   },
   {
     "id": "头像.郭靖",
     "group": "头像",
-    "value": "Heads/guojing"
+    "value": "head/guojing"
   },
   {
     "id": "头像.黄蓉",
     "group": "头像",
-    "value": "Heads/huangrong"
+    "value": "head/huangrong"
   },
   {
     "id": "头像.欧阳克",
     "group": "头像",
-    "value": "Heads/ouyangke"
+    "value": "head/ouyangke"
   },
   {
     "id": "头像.梅超风",
     "group": "头像",
-    "value": "Heads/meichaofeng"
+    "value": "head/meichaofeng"
   },
   {
     "id": "头像.欧阳锋",
     "group": "头像",
-    "value": "Heads/ouyangfeng"
+    "value": "head/ouyangfeng"
   },
   {
     "id": "头像.黄药师",
     "group": "头像",
-    "value": "Heads/huangyaoshi"
+    "value": "head/huangyaoshi"
   },
   {
     "id": "头像.洪七公",
     "group": "头像",
-    "value": "Heads/hongqigong"
+    "value": "head/hongqigong"
   },
   {
     "id": "头像.裘千仞",
     "group": "头像",
-    "value": "Heads/murenqing"
+    "value": "head/murenqing"
   },
   {
     "id": "头像.王重阳",
     "group": "头像",
-    "value": "Heads/wangchongyang"
+    "value": "head/wangchongyang"
   },
   {
     "id": "头像.冲虚道长",
     "group": "头像",
-    "value": "Heads/chongxudaozhang"
+    "value": "head/chongxudaozhang"
   },
   {
     "id": "头像.周伯通",
     "group": "头像",
-    "value": "Heads/laowantong"
+    "value": "head/laowantong"
   },
   {
     "id": "头像.瑛姑",
     "group": "头像",
-    "value": "Heads/wangnanqu"
+    "value": "head/wangnanqu"
   },
   {
     "id": "头像.鸠摩智",
     "group": "头像",
-    "value": "Heads/jiumozhi"
+    "value": "head/jiumozhi"
   },
   {
     "id": "头像.阿朱",
     "group": "头像",
-    "value": "Heads/azhu"
+    "value": "head/azhu"
   },
   {
     "id": "头像.阿碧",
     "group": "头像",
-    "value": "Heads/abi"
+    "value": "head/abi"
   },
   {
     "id": "头像.钟灵",
     "group": "头像",
-    "value": "Heads/zhongling"
+    "value": "head/zhongling"
   },
   {
     "id": "头像.段延庆",
     "group": "头像",
-    "value": "Heads/duanyanqing"
+    "value": "head/duanyanqing"
   },
   {
     "id": "头像.萧峰",
     "group": "头像",
-    "value": "Heads/xiaofeng"
+    "value": "head/xiaofeng"
   },
   {
     "id": "头像.慕容复",
     "group": "头像",
-    "value": "Heads/murongfu"
+    "value": "head/murongfu"
   },
   {
     "id": "头像.全冠清",
     "group": "头像",
-    "value": "Heads/quanguanqing"
+    "value": "head/quanguanqing"
   },
   {
     "id": "头像.传功长老",
     "group": "头像",
-    "value": "Heads/chuangongzhanglao"
+    "value": "head/chuangongzhanglao"
   },
   {
     "id": "头像.执法长老",
     "group": "头像",
-    "value": "Heads/zhifazhanglao"
+    "value": "head/zhifazhanglao"
   },
   {
     "id": "头像.苏星河",
     "group": "头像",
-    "value": "Heads/suxinghe"
+    "value": "head/suxinghe"
   },
   {
     "id": "头像.无崖子",
     "group": "头像",
-    "value": "Heads/wuyazi"
+    "value": "head/wuyazi"
   },
   {
     "id": "头像.丁春秋",
     "group": "头像",
-    "value": "Heads/dingchunqiu"
+    "value": "head/dingchunqiu"
   },
   {
     "id": "头像.王语嫣",
     "group": "头像",
-    "value": "Heads/wangyuyan"
+    "value": "head/wangyuyan"
   },
   {
     "id": "头像.阮星竹",
     "group": "头像",
-    "value": "Heads/ruanxingzhu"
+    "value": "head/ruanxingzhu"
   },
   {
     "id": "头像.秦红棉",
     "group": "头像",
-    "value": "Heads/qinhongmian"
+    "value": "head/qinhongmian"
   },
   {
     "id": "头像.李青萝",
     "group": "头像",
-    "value": "Heads/liqingluo"
+    "value": "head/liqingluo"
   },
   {
     "id": "头像.马夫人",
     "group": "头像",
-    "value": "Heads/mafuren"
+    "value": "head/mafuren"
   },
   {
     "id": "头像.阿紫",
     "group": "头像",
-    "value": "Heads/azi"
+    "value": "head/azi"
   },
   {
     "id": "头像.商人",
     "group": "头像",
-    "value": "Heads/shangren"
+    "value": "head/shangren"
   },
   {
     "id": "头像.庄聚贤",
     "group": "头像",
-    "value": "Heads/youtanzhi"
+    "value": "head/youtanzhi"
   },
   {
     "id": "头像.萧远山",
     "group": "头像",
-    "value": "Heads/xiaoyuanshan"
+    "value": "head/xiaoyuanshan"
   },
   {
     "id": "头像.慕容博",
     "group": "头像",
-    "value": "Heads/murongbo"
+    "value": "head/murongbo"
   },
   {
     "id": "头像.黑衣人",
     "group": "头像",
-    "value": "Heads/heiyiren"
+    "value": "head/heiyiren"
   },
   {
     "id": "头像.逍遥子",
     "group": "头像",
-    "value": "Heads/xiaoyaozi"
+    "value": "head/xiaoyaozi"
   },
   {
     "id": "头像.李白",
     "group": "头像",
-    "value": "Heads/libai"
+    "value": "head/libai"
   },
   {
     "id": "头像.抚琴女",
     "group": "头像",
-    "value": "Heads/fuqinnv"
+    "value": "head/fuqinnv"
   },
   {
     "id": "头像.民女",
     "group": "头像",
-    "value": "Heads/minnv"
+    "value": "head/minnv"
   },
   {
     "id": "头像.民女2",
     "group": "头像",
-    "value": "Heads/minnv2"
+    "value": "head/minnv2"
   },
   {
     "id": "头像.男子",
     "group": "头像",
-    "value": "Heads/nanzi"
+    "value": "head/nanzi"
   },
   {
     "id": "头像.农夫",
     "group": "头像",
-    "value": "Heads/nongfu"
+    "value": "head/nongfu"
   },
   {
     "id": "头像.樵夫",
     "group": "头像",
-    "value": "Heads/qiaofu"
+    "value": "head/qiaofu"
   },
   {
     "id": "头像.王家老爷",
     "group": "头像",
-    "value": "Heads/wangjialaoye"
+    "value": "head/wangjialaoye"
   },
   {
     "id": "头像.西夏女子",
     "group": "头像",
-    "value": "Heads/xixianv"
+    "value": "head/xixianv"
   },
   {
     "id": "头像.小孩",
     "group": "头像",
-    "value": "Heads/xiaohai"
+    "value": "head/xiaohai"
   },
   {
     "id": "头像.酒楼老板",
     "group": "头像",
-    "value": "Heads/kezhanlaoban"
+    "value": "head/kezhanlaoban"
   },
   {
     "id": "头像.东",
     "group": "头像",
-    "value": "Heads/dong"
+    "value": "head/dong"
   },
   {
     "id": "头像.南",
     "group": "头像",
-    "value": "Heads/nan"
+    "value": "head/nan"
   },
   {
     "id": "头像.西",
     "group": "头像",
-    "value": "Heads/xi"
+    "value": "head/xi"
   },
   {
     "id": "头像.北",
     "group": "头像",
-    "value": "Heads/bei"
+    "value": "head/bei"
   },
   {
     "id": "头像.汉家松鼠",
     "group": "头像",
-    "value": "Heads/hanjiasongshu"
+    "value": "head/hanjiasongshu"
   },
   {
     "id": "头像.土拨鼠",
     "group": "头像",
-    "value": "Heads/tuboshu"
+    "value": "head/tuboshu"
   },
   {
     "id": "头像.黄裳",
     "group": "头像",
-    "value": "Heads/huangshang"
+    "value": "head/huangshang"
   },
   {
     "id": "头像.成昆",
     "group": "头像",
-    "value": "Heads/chengkun"
+    "value": "head/chengkun"
   },
   {
     "id": "头像.令狐冲",
     "group": "头像",
-    "value": "Heads/linghuchong"
+    "value": "head/linghuchong"
   },
   {
     "id": "头像.蓝凤凰",
     "group": "头像",
-    "value": "Heads/lanfenghuang"
+    "value": "head/lanfenghuang"
   },
   {
     "id": "头像.曲非烟",
     "group": "头像",
-    "value": "Heads/qufeiyan"
+    "value": "head/qufeiyan"
   },
   {
     "id": "头像.费彬",
     "group": "头像",
-    "value": "Heads/feibin"
+    "value": "head/feibin"
   },
   {
     "id": "头像.嵩山弟子",
     "group": "头像",
-    "value": "Heads/xiaobing"
+    "value": "head/xiaobing"
   },
   {
     "id": "头像.华山弟子",
     "group": "头像",
-    "value": "Heads/xiaobing"
+    "value": "head/xiaobing"
   },
   {
     "id": "头像.岳灵珊",
     "group": "头像",
-    "value": "Heads/yuelingshan"
+    "value": "head/yuelingshan"
   },
   {
     "id": "头像.岳不群",
     "group": "头像",
-    "value": "Heads/yuebuqun"
+    "value": "head/yuebuqun"
   },
   {
     "id": "头像.林平之",
     "group": "头像",
-    "value": "Heads/linpingzhi"
+    "value": "head/linpingzhi"
   },
   {
     "id": "头像.平一指",
     "group": "头像",
-    "value": "Heads/pingyizhi"
+    "value": "head/pingyizhi"
   },
   {
     "id": "头像.封不平",
     "group": "头像",
-    "value": "Heads/fengbuping"
+    "value": "head/fengbuping"
   },
   {
     "id": "头像.任盈盈",
     "group": "头像",
-    "value": "Heads/renyingying"
+    "value": "head/renyingying"
   },
   {
     "id": "头像.左冷禅",
     "group": "头像",
-    "value": "Heads/zuolengchan"
+    "value": "head/zuolengchan"
   },
   {
     "id": "头像.莫大",
     "group": "头像",
-    "value": "Heads/moda"
+    "value": "head/moda"
   },
   {
     "id": "头像.向问天",
     "group": "头像",
-    "value": "Heads/xiangwentian"
+    "value": "head/xiangwentian"
   },
   {
     "id": "头像.任我行",
     "group": "头像",
-    "value": "Heads/renwoxing"
+    "value": "head/renwoxing"
   },
   {
     "id": "头像.上官云",
     "group": "头像",
-    "value": "Heads/shangguanyun"
+    "value": "head/shangguanyun"
   },
   {
     "id": "头像.何红药",
     "group": "头像",
-    "value": "Heads/hehongyao"
+    "value": "head/hehongyao"
   },
   {
     "id": "头像.金蛇郎君",
     "group": "头像",
-    "value": "Heads/jinshelangjun"
+    "value": "head/jinshelangjun"
   },
   {
     "id": "头像.温青青",
     "group": "头像",
-    "value": "Heads/wenqingqing2"
+    "value": "head/wenqingqing2"
   },
   {
     "id": "头像.袁承志",
     "group": "头像",
-    "value": "Heads/yuanchengzhi"
+    "value": "head/yuanchengzhi"
   },
   {
     "id": "头像.哑仆",
     "group": "头像",
-    "value": "Heads/nongfu"
+    "value": "head/nongfu"
   },
   {
     "id": "头像.孙仲寿",
     "group": "头像",
-    "value": "Heads/chendahai"
+    "value": "head/chendahai"
   },
   {
     "id": "头像.儿时袁承志",
     "group": "头像",
-    "value": "Heads/ershiyuanchengz"
+    "value": "head/ershiyuanchengz"
   },
   {
     "id": "头像.崔秋山",
     "group": "头像",
-    "value": "Heads/gongzi"
+    "value": "head/gongzi"
   },
   {
     "id": "头像.温青",
     "group": "头像",
-    "value": "Heads/wenqingqing"
+    "value": "head/wenqingqing"
   },
   {
     "id": "头像.船老大",
     "group": "头像",
-    "value": "Heads/chuanlaoda"
+    "value": "head/chuanlaoda"
   },
   {
     "id": "头像.温老头",
     "group": "头像",
-    "value": "Heads/hebiweng"
+    "value": "head/hebiweng"
   },
   {
     "id": "头像.安小慧",
     "group": "头像",
-    "value": "Heads/anxiaohui"
+    "value": "head/anxiaohui"
   },
   {
     "id": "头像.黄真",
     "group": "头像",
-    "value": "Heads/huangzhen"
+    "value": "head/huangzhen"
   },
   {
     "id": "头像.何铁手",
     "group": "头像",
-    "value": "Heads/hetieshou"
+    "value": "head/hetieshou"
   },
   {
     "id": "头像.阿九",
     "group": "头像",
-    "value": "Heads/ajiu"
+    "value": "head/ajiu"
   },
   {
     "id": "头像.归辛树",
     "group": "头像",
-    "value": "Heads/qiaofu"
+    "value": "head/qiaofu"
   },
   {
     "id": "头像.玉真子",
     "group": "头像",
-    "value": "Heads/lisi"
+    "value": "head/lisi"
   },
   {
     "id": "头像.归二娘",
     "group": "头像",
-    "value": "Heads/lisi"
+    "value": "head/lisi"
   },
   {
     "id": "头像.太监",
     "group": "头像",
-    "value": "Heads/haidafu"
+    "value": "head/haidafu"
   },
   {
     "id": "头像.崇祯",
     "group": "头像",
-    "value": "Heads/qianlong2"
+    "value": "head/qianlong2"
   },
   {
     "id": "头像.九难2",
     "group": "头像",
-    "value": "Heads/ajiu02"
+    "value": "head/ajiu02"
   },
   {
     "id": "头像.血刀老祖",
     "group": "头像",
-    "value": "Heads/xuedaolaozu"
+    "value": "head/xuedaolaozu"
   },
   {
     "id": "头像.狄云",
     "group": "头像",
-    "value": "Heads/diyun"
+    "value": "head/diyun"
   },
   {
     "id": "头像.李文秀",
     "group": "头像",
-    "value": "Heads/liwenxiu"
+    "value": "head/liwenxiu"
   },
   {
     "id": "头像.陈达海",
     "group": "头像",
-    "value": "Heads/chendahai"
+    "value": "head/chendahai"
   },
   {
     "id": "头像.瓦耳拉齐",
     "group": "头像",
-    "value": "Heads/waerlaqi"
+    "value": "head/waerlaqi"
   },
   {
     "id": "头像.霍青桐",
     "group": "头像",
-    "value": "Heads/huoqingtong"
+    "value": "head/huoqingtong"
   },
   {
     "id": "头像.张召重",
     "group": "头像",
-    "value": "Heads/zhangzhaozhong"
+    "value": "head/zhangzhaozhong"
   },
   {
     "id": "头像.陈家洛",
     "group": "头像",
-    "value": "Heads/chenjialuo"
+    "value": "head/chenjialuo"
   },
   {
     "id": "头像.独孤求败",
     "group": "头像",
-    "value": "Heads/duguqiubai"
+    "value": "head/duguqiubai"
   },
   {
     "id": "头像.风清扬",
     "group": "头像",
-    "value": "Heads/fengqingyang"
+    "value": "head/fengqingyang"
   },
   {
     "id": "头像.班淑娴",
     "group": "头像",
-    "value": "Heads/banshuxian"
+    "value": "head/banshuxian"
   },
   {
     "id": "头像.林朝英",
     "group": "头像",
-    "value": "Heads/linzhaoying"
+    "value": "head/linzhaoying"
   },
   {
     "id": "头像.宋远桥",
     "group": "头像",
-    "value": "Heads/songyuanqiao"
+    "value": "head/songyuanqiao"
   },
   {
     "id": "头像.俞莲舟",
     "group": "头像",
-    "value": "Heads/yulianzhou"
+    "value": "head/yulianzhou"
   },
   {
     "id": "头像.俞岱岩",
     "group": "头像",
-    "value": "Heads/yudaiyan"
+    "value": "head/yudaiyan"
   },
   {
     "id": "头像.张松溪",
     "group": "头像",
-    "value": "Heads/zhangsongxi"
+    "value": "head/zhangsongxi"
   },
   {
     "id": "头像.张翠山",
     "group": "头像",
-    "value": "Heads/zhangcuishan"
+    "value": "head/zhangcuishan"
   },
   {
     "id": "头像.殷梨亭",
     "group": "头像",
-    "value": "Heads/yinliting"
+    "value": "head/yinliting"
   },
   {
     "id": "头像.莫声谷",
     "group": "头像",
-    "value": "Heads/moshenggu"
+    "value": "head/moshenggu"
   },
   {
     "id": "头像.韦小宝",
     "group": "头像",
-    "value": "Heads/weixiaobao"
+    "value": "head/weixiaobao"
   },
   {
     "id": "头像.鳌拜",
     "group": "头像",
-    "value": "Heads/aobai"
+    "value": "head/aobai"
   },
   {
     "id": "头像.康熙",
     "group": "头像",
-    "value": "Heads/kangxi"
+    "value": "head/kangxi"
   },
   {
     "id": "头像.柳燕",
     "group": "头像",
-    "value": "Heads/liuyan"
+    "value": "head/liuyan"
   },
   {
     "id": "头像.太后",
     "group": "头像",
-    "value": "Heads/tianqingwen"
+    "value": "head/tianqingwen"
   },
   {
     "id": "头像.田青文",
     "group": "头像",
-    "value": "Heads/niesangqing"
+    "value": "head/niesangqing"
   },
   {
     "id": "头像.毛东珠",
     "group": "头像",
-    "value": "Heads/maodongzhu"
+    "value": "head/maodongzhu"
   },
   {
     "id": "头像.阿珂",
     "group": "头像",
-    "value": "Heads/ake"
+    "value": "head/ake"
   },
   {
     "id": "头像.九难",
     "group": "头像",
-    "value": "Heads/ajiu02"
+    "value": "head/ajiu02"
   },
   {
     "id": "头像.陈圆圆",
     "group": "头像",
-    "value": "Heads/chenyuanyuan"
+    "value": "head/chenyuanyuan"
   },
   {
     "id": "头像.李自成",
     "group": "头像",
-    "value": "Heads/lizicheng"
+    "value": "head/lizicheng"
   },
   {
     "id": "头像.吴三桂",
     "group": "头像",
-    "value": "Heads/wusangui"
+    "value": "head/wusangui"
   },
   {
     "id": "头像.郑克爽",
     "group": "头像",
-    "value": "Heads/zhengkeshuang"
+    "value": "head/zhengkeshuang"
   },
   {
     "id": "头像.冯锡范",
     "group": "头像",
-    "value": "Heads/fengtiannan"
+    "value": "head/fengtiannan"
   },
   {
     "id": "头像.陈近南",
     "group": "头像",
-    "value": "Heads/chenjinnan"
+    "value": "head/chenjinnan"
   },
   {
     "id": "头像.杨冰儿",
     "group": "头像",
-    "value": "Heads/yangbinger"
+    "value": "head/yangbinger"
   },
   {
     "id": "头像.黄衫女子",
     "group": "头像",
-    "value": "Heads/huangshannvzi"
+    "value": "head/huangshannvzi"
   },
   {
     "id": "头像.金轮法王",
     "group": "头像",
-    "value": "Heads/jinlunfawang"
+    "value": "head/jinlunfawang"
   },
   {
     "id": "头像.达尔巴",
     "group": "头像",
-    "value": "Heads/daerba"
+    "value": "head/daerba"
   },
   {
     "id": "头像.霍都",
     "group": "头像",
-    "value": "Heads/huodu"
+    "value": "head/huodu"
   },
   {
     "id": "头像.北丑",
     "group": "头像",
-    "value": "Heads/beichou"
+    "value": "head/beichou"
   },
   {
     "id": "头像.孔八拉",
     "group": "头像",
-    "value": "Heads/kongbala"
+    "value": "head/kongbala"
   },
   {
     "id": "头像.何太冲",
     "group": "头像",
-    "value": "Heads/hetaichong"
+    "value": "head/hetaichong"
   },
   {
     "id": "头像.灭绝师太",
     "group": "头像",
-    "value": "Heads/miejueshitai"
+    "value": "head/miejueshitai"
   },
   {
     "id": "头像.扫地僧",
     "group": "头像",
-    "value": "Heads/saodiseng"
+    "value": "head/saodiseng"
   },
   {
     "id": "头像.洪教主",
     "group": "头像",
-    "value": "Heads/beihaishi"
+    "value": "head/beihaishi"
   },
   {
     "id": "头像.苏荃",
     "group": "头像",
-    "value": "Heads/suquan"
+    "value": "head/suquan"
   },
   {
     "id": "头像.马贼王",
     "group": "头像",
-    "value": "Heads/lizicheng"
+    "value": "head/lizicheng"
   },
   {
     "id": "头像.马贼",
     "group": "头像",
-    "value": "Heads/chengkun"
+    "value": "head/chengkun"
   },
   {
     "id": "头像.车夫",
     "group": "头像",
-    "value": "Heads/nongfu"
+    "value": "head/nongfu"
   },
   {
     "id": "头像.行军司马",
     "group": "头像",
-    "value": "Heads/fengtiannan"
+    "value": "head/fengtiannan"
   },
   {
     "id": "头像.张三",
     "group": "头像",
-    "value": "Heads/zhangsan"
+    "value": "head/zhangsan"
   },
   {
     "id": "头像.李四",
     "group": "头像",
-    "value": "Heads/lisi"
+    "value": "head/lisi"
   },
   {
     "id": "头像.石破天",
     "group": "头像",
-    "value": "Heads/shipotian"
+    "value": "head/shipotian"
   },
   {
     "id": "头像.石中玉",
     "group": "头像",
-    "value": "Heads/shizhongyu"
+    "value": "head/shizhongyu"
   },
   {
     "id": "头像.石清",
     "group": "头像",
-    "value": "Heads/shiqing"
+    "value": "head/shiqing"
   },
   {
     "id": "头像.龙岛主",
     "group": "头像",
-    "value": "Heads/longdaozhu"
+    "value": "head/longdaozhu"
   },
   {
     "id": "头像.木岛主",
     "group": "头像",
-    "value": "Heads/mudaozhu"
+    "value": "head/mudaozhu"
   },
   {
     "id": "头像.谢烟客",
     "group": "头像",
-    "value": "Heads/xieyanke"
+    "value": "head/xieyanke"
   },
   {
     "id": "头像.白自在",
     "group": "头像",
-    "value": "Heads/baizizai"
+    "value": "head/baizizai"
   },
   {
     "id": "头像.石壁",
     "group": "头像",
-    "value": "Heads/shibi"
+    "value": "head/shibi"
   },
   {
     "id": "头像.血刀弟子",
     "group": "头像",
-    "value": "Heads/xiaobing2"
+    "value": "head/xiaobing2"
   },
   {
     "id": "头像.宝象",
     "group": "头像",
-    "value": "Heads/xuedaomen_baoxiang"
+    "value": "head/xuedaomen_baoxiang"
   },
   {
     "id": "头像.胜谛",
     "group": "头像",
-    "value": "Heads/xuedaomen_shengdi"
+    "value": "head/xuedaomen_shengdi"
   },
   {
     "id": "头像.善勇",
     "group": "头像",
-    "value": "Heads/xuedaomen_shanyong"
+    "value": "head/xuedaomen_shanyong"
   },
   {
     "id": "头像.商老太",
     "group": "头像",
-    "value": "Heads/shipopo"
+    "value": "head/shipopo"
   },
   {
     "id": "头像.商宝震",
     "group": "头像",
-    "value": "Heads/shangbaozheng"
+    "value": "head/shangbaozheng"
   },
   {
     "id": "头像.云中鹤",
     "group": "头像",
-    "value": "Heads/yunzhonghe"
+    "value": "head/yunzhonghe"
   },
   {
     "id": "头像.尹志平",
     "group": "头像",
-    "value": "Heads/yingzhiping"
+    "value": "head/yingzhiping"
   },
   {
     "id": "头像.赵志敬",
     "group": "头像",
-    "value": "Heads/zhaozhijing"
+    "value": "head/zhaozhijing"
   },
   {
     "id": "头像.苗守一",
     "group": "头像",
-    "value": "Heads/moshenggu"
+    "value": "head/moshenggu"
   },
   {
     "id": "头像.马钰",
     "group": "头像",
-    "value": "Heads/mayu"
+    "value": "head/mayu"
   },
   {
     "id": "头像.孙不二",
     "group": "头像",
-    "value": "Heads/sunbuer"
+    "value": "head/sunbuer"
   },
   {
     "id": "头像.丘处机",
     "group": "头像",
-    "value": "Heads/qiuchuji"
+    "value": "head/qiuchuji"
   },
   {
     "id": "头像.秦婆婆",
     "group": "头像",
-    "value": "Heads/qinpopo"
+    "value": "head/qinpopo"
   },
   {
     "id": "头像.梅剑",
     "group": "头像",
-    "value": "Heads/meijian"
+    "value": "head/meijian"
   },
   {
     "id": "头像.兰剑",
     "group": "头像",
-    "value": "Heads/meijian"
+    "value": "head/meijian"
   },
   {
     "id": "头像.竹剑",
     "group": "头像",
-    "value": "Heads/meijian"
+    "value": "head/meijian"
   },
   {
     "id": "头像.菊剑",
     "group": "头像",
-    "value": "Heads/meijian"
+    "value": "head/meijian"
   },
   {
     "id": "头像.李秋水",
     "group": "头像",
-    "value": "Heads/liqiushui"
+    "value": "head/liqiushui"
   },
   {
     "id": "头像.虚竹",
     "group": "头像",
-    "value": "Heads/xuzhu"
+    "value": "head/xuzhu"
   },
   {
     "id": "头像.天山童姥",
     "group": "头像",
-    "value": "Heads/tianshantonglao"
+    "value": "head/tianshantonglao"
   },
   {
     "id": "头像.福岛主",
     "group": "头像",
-    "value": "Heads/fudaozhu"
+    "value": "head/fudaozhu"
   },
   {
     "id": "头像.渡厄",
     "group": "头像",
-    "value": "Heads/due"
+    "value": "head/due"
   },
   {
     "id": "头像.渡劫",
     "group": "头像",
-    "value": "Heads/dujie"
+    "value": "head/dujie"
   },
   {
     "id": "头像.渡难",
     "group": "头像",
-    "value": "Heads/dunan"
+    "value": "head/dunan"
   },
   {
     "id": "头像.谢逊",
     "group": "头像",
-    "value": "Heads/xiexun"
+    "value": "head/xiexun"
   },
   {
     "id": "头像.紫衫龙王",
     "group": "头像",
-    "value": "Heads/zishanlongwang"
+    "value": "head/zishanlongwang"
   },
   {
     "id": "头像.韦一笑",
     "group": "头像",
-    "value": "Heads/weiyixiao"
+    "value": "head/weiyixiao"
   },
   {
     "id": "头像.殷天正",
     "group": "头像",
-    "value": "Heads/yingtianzheng"
+    "value": "head/yingtianzheng"
   },
   {
     "id": "头像.范遥",
     "group": "头像",
-    "value": "Heads/fanyao"
+    "value": "head/fanyao"
   },
   {
     "id": "头像.流浪汉",
     "group": "头像",
-    "value": "Heads/liulanghan"
+    "value": "head/liulanghan"
   },
   {
     "id": "头像.牧羊女",
     "group": "头像",
-    "value": "Heads/muyangnv"
+    "value": "head/muyangnv"
   },
   {
     "id": "头像.烟霞神龙",
     "group": "头像",
-    "value": "Heads/yanxiashenlong"
+    "value": "head/yanxiashenlong"
   },
   {
     "id": "头像.双手开碑",
     "group": "头像",
-    "value": "Heads/shuangshoukaibei"
+    "value": "head/shuangshoukaibei"
   },
   {
     "id": "头像.流星赶月",
     "group": "头像",
-    "value": "Heads/liuxingganyue"
+    "value": "head/liuxingganyue"
   },
   {
     "id": "头像.盖七省",
     "group": "头像",
-    "value": "Heads/gaiqisheng"
+    "value": "head/gaiqisheng"
   },
   {
     "id": "头像.萧中慧",
     "group": "头像",
-    "value": "Heads/xiaozhonghui"
+    "value": "head/xiaozhonghui"
   },
   {
     "id": "头像.袁冠南",
     "group": "头像",
-    "value": "Heads/yuanguannan"
+    "value": "head/yuanguannan"
   },
   {
     "id": "头像.卓天雄",
     "group": "头像",
-    "value": "Heads/zhuotianxiong"
+    "value": "head/zhuotianxiong"
   },
   {
     "id": "头像.梁发",
     "group": "头像",
-    "value": "Heads/liangfa"
+    "value": "head/liangfa"
   },
   {
     "id": "头像.仪清",
     "group": "头像",
-    "value": "Heads/youxun"
+    "value": "head/youxun"
   },
   {
     "id": "头像.鲁连荣",
     "group": "头像",
-    "value": "Heads/lulianrong"
+    "value": "head/lulianrong"
   },
   {
     "id": "头像.天乙真人",
     "group": "头像",
-    "value": "Heads/tianyi"
+    "value": "head/tianyi"
   },
   {
     "id": "头像.木头人",
     "group": "头像",
-    "value": "Heads/mutouren"
+    "value": "head/mutouren"
   },
   {
     "id": "头像.余沧海",
     "group": "头像",
-    "value": "Heads/yucanghai"
+    "value": "head/yucanghai"
   },
   {
     "id": "头像.少林弟子",
     "group": "头像",
-    "value": "Heads/shaolindizi"
+    "value": "head/shaolindizi"
   },
   {
     "id": "头像.罗汉堂首座",
     "group": "头像",
-    "value": "Heads/luohanshouzuo"
+    "value": "head/luohanshouzuo"
   },
   {
     "id": "头像.戒律院首座",
     "group": "头像",
-    "value": "Heads/jielvyuanshouzuo"
+    "value": "head/jielvyuanshouzuo"
   },
   {
     "id": "头像.少林伙夫",
     "group": "头像",
-    "value": "Heads/shaolinhuofu"
+    "value": "head/shaolinhuofu"
   },
   {
     "id": "头像.本真和尚",
     "group": "头像",
-    "value": "Heads/benzhen"
+    "value": "head/benzhen"
   },
   {
     "id": "头像.雷老虎",
     "group": "头像",
-    "value": "Heads/leilaohu"
+    "value": "head/leilaohu"
   },
   {
     "id": "头像.玄生",
     "group": "头像",
-    "value": "Heads/xuansheng"
+    "value": "head/xuansheng"
   },
   {
     "id": "头像.梦姑",
     "group": "头像",
-    "value": "Heads/menggu"
+    "value": "head/menggu"
   },
   {
     "id": "头像.火工头陀",
     "group": "头像",
-    "value": "Heads/huogongtoutuo"
+    "value": "head/huogongtoutuo"
   },
   {
     "id": "头像.宋青书",
     "group": "头像",
-    "value": "Heads/shusheng"
+    "value": "head/shusheng"
   },
   {
     "id": "头像.黑煞",
     "group": "头像",
-    "value": "Heads/heisha"
+    "value": "head/heisha"
   },
   {
     "id": "头像.白煞",
     "group": "头像",
-    "value": "Heads/baisha"
+    "value": "head/baisha"
   },
   {
     "id": "头像.大蛇",
     "group": "头像",
-    "value": "Heads/dashe"
+    "value": "head/dashe"
   },
   {
     "id": "头像.卓一航",
     "group": "头像",
-    "value": "Heads/zhuoyihang"
+    "value": "head/zhuoyihang"
   },
   {
     "id": "头像.练霓裳",
     "group": "头像",
-    "value": "Heads/liannishang"
+    "value": "head/liannishang"
   },
   {
     "id": "头像.阿青",
     "group": "头像",
-    "value": "Heads/aqing"
+    "value": "head/aqing"
   },
   {
     "id": "头像.魔君",
     "group": "头像",
-    "value": "Heads/mojun"
+    "value": "head/mojun"
   },
   {
     "id": "头像.魔君2",
     "group": "头像",
-    "value": "Heads/mojun2"
+    "value": "head/mojun2"
   },
   {
     "id": "头像.林平之瞎",
     "group": "头像",
-    "value": "Heads/linpingzhi2"
+    "value": "head/linpingzhi2"
   },
   {
     "id": "头像.主角3",
     "group": "头像",
-    "value": "Heads/zhujue3"
+    "value": "head/zhujue3"
   },
   {
     "id": "头像.主角4",
     "group": "头像",
-    "value": "Heads/zhujue4"
+    "value": "head/zhujue4"
   },
   {
     "id": "物品.鼎",
     "group": "物品",
-    "value": "Items/shenmuwangding"
+    "value": "item/shenmuwangding"
   },
   {
     "id": "物品.止血草",
     "group": "物品",
-    "value": "Items/caoyao"
+    "value": "item/caoyao"
   },
   {
     "id": "物品.小还丹",
     "group": "物品",
-    "value": "Items/danyao"
+    "value": "item/danyao"
   },
   {
     "id": "物品.九转熊蛇丸",
     "group": "物品",
-    "value": "Items/jiuzhuanxiongshewan"
+    "value": "item/jiuzhuanxiongshewan"
   },
   {
     "id": "物品.九花玉露丸",
     "group": "物品",
-    "value": "Items/jiuhuayuluwan"
+    "value": "item/jiuhuayuluwan"
   },
   {
     "id": "物品.大还丹",
     "group": "物品",
-    "value": "Items/dahuandan"
+    "value": "item/dahuandan"
   },
   {
     "id": "物品.大蟠桃",
     "group": "物品",
-    "value": "Items/dapantao"
+    "value": "item/dapantao"
   },
   {
     "id": "物品.道口烧鸡",
     "group": "物品",
-    "value": "Items/daokoushaoji"
+    "value": "item/daokoushaoji"
   },
   {
     "id": "物品.冬虫夏草",
     "group": "物品",
-    "value": "Items/dongchongxiacao"
+    "value": "item/dongchongxiacao"
   },
   {
     "id": "物品.黑玉断续膏",
     "group": "物品",
-    "value": "Items/heiyuduanxugao"
+    "value": "item/heiyuduanxugao"
   },
   {
     "id": "物品.红药",
     "group": "物品",
-    "value": "Items/hongyao"
+    "value": "item/hongyao"
   },
   {
     "id": "物品.鸡腿",
     "group": "物品",
-    "value": "Items/jitui"
+    "value": "item/jitui"
   },
   {
     "id": "物品.生生造化丹",
     "group": "物品",
-    "value": "Items/shengshengzaohuadan"
+    "value": "item/shengshengzaohuadan"
   },
   {
     "id": "物品.月饼",
     "group": "物品",
-    "value": "Items/yuebing"
+    "value": "item/yuebing"
   },
   {
     "id": "物品.天王保命丹",
     "group": "物品",
-    "value": "Items/tianwangbaomingdan"
+    "value": "item/tianwangbaomingdan"
   },
   {
     "id": "物品.七星海棠",
     "group": "物品",
-    "value": "Items/qixinghaitang"
+    "value": "item/qixinghaitang"
   },
   {
     "id": "物品.蛇胆",
     "group": "物品",
-    "value": "Items/shedan"
+    "value": "item/shedan"
   },
   {
     "id": "物品.地图",
     "group": "物品",
-    "value": "Items/Bdugujiujianjianpu"
+    "value": "item/Bdugujiujianjianpu"
   },
   {
     "id": "物品.点击爆炸",
     "group": "物品",
-    "value": "Items/dianjibaozha"
+    "value": "item/dianjibaozha"
   },
   {
     "id": "物品.倚天剑",
     "group": "物品",
-    "value": "Items/Wyitianjian"
+    "value": "item/Wyitianjian"
   },
   {
     "id": "物品.屠龙刀",
     "group": "物品",
-    "value": "Items/Wtulongdao"
+    "value": "item/Wtulongdao"
   },
   {
     "id": "物品.打狗棒",
     "group": "物品",
-    "value": "Items/Wdagoubang"
+    "value": "item/Wdagoubang"
   },
   {
     "id": "物品.金刚杵",
     "group": "物品",
-    "value": "Items/Wjingangchu"
+    "value": "item/Wjingangchu"
   },
   {
     "id": "物品.金蛇剑",
     "group": "物品",
-    "value": "Items/Wjinshejian"
+    "value": "item/Wjinshejian"
   },
   {
     "id": "物品.金龙鞭",
     "group": "物品",
-    "value": "Items/Wjinlongbian"
+    "value": "item/Wjinlongbian"
   },
   {
     "id": "物品.精钢拳套",
     "group": "物品",
-    "value": "Items/Wjinggangquantao"
+    "value": "item/Wjinggangquantao"
   },
   {
     "id": "物品.君子剑",
     "group": "物品",
-    "value": "Items/Wjunzijian"
+    "value": "item/Wjunzijian"
   },
   {
     "id": "物品.阔剑",
     "group": "物品",
-    "value": "Items/Wkuojian"
+    "value": "item/Wkuojian"
   },
   {
     "id": "物品.柳叶刀",
     "group": "物品",
-    "value": "Items/Wliuyedao"
+    "value": "item/Wliuyedao"
   },
   {
     "id": "物品.灭仙爪",
     "group": "物品",
-    "value": "Items/Wmiexianzhao"
+    "value": "item/Wmiexianzhao"
   },
   {
     "id": "物品.木刀",
     "group": "物品",
-    "value": "Items/Wmudao"
+    "value": "item/Wmudao"
   },
   {
     "id": "物品.紫薇软剑",
     "group": "物品",
-    "value": "Items/Wziweiruanjian"
+    "value": "item/Wziweiruanjian"
   },
   {
     "id": "物品.血刀",
     "group": "物品",
-    "value": "Items/Wxuedao"
+    "value": "item/Wxuedao"
   },
   {
     "id": "物品.万劫指",
     "group": "物品",
-    "value": "Items/wanjiezhi"
+    "value": "item/wanjiezhi"
   },
   {
     "id": "物品.碧水剑",
     "group": "物品",
-    "value": "Items/bishuijian"
+    "value": "item/bishuijian"
   },
   {
     "id": "物品.龙头拐杖",
     "group": "物品",
-    "value": "Items/longtouguaizhang"
+    "value": "item/longtouguaizhang"
   },
   {
     "id": "物品.软鞭",
     "group": "物品",
-    "value": "Items/ruanbian"
+    "value": "item/ruanbian"
   },
   {
     "id": "物品.不二枪",
     "group": "物品",
-    "value": "Items/buerqiang"
+    "value": "item/buerqiang"
   },
   {
     "id": "物品.匕首",
     "group": "物品",
-    "value": "Items/bishou"
+    "value": "item/bishou"
   },
   {
     "id": "物品.匕首2",
     "group": "物品",
-    "value": "Items/bishou2"
+    "value": "item/bishou2"
   },
   {
     "id": "物品.匕首3",
     "group": "物品",
-    "value": "Items/bishou3"
+    "value": "item/bishou3"
   },
   {
     "id": "物品.刀1",
     "group": "物品",
-    "value": "Items/dao"
+    "value": "item/dao"
   },
   {
     "id": "物品.刀2",
     "group": "物品",
-    "value": "Items/dao2"
+    "value": "item/dao2"
   },
   {
     "id": "物品.刀3",
     "group": "物品",
-    "value": "Items/dao3"
+    "value": "item/dao3"
   },
   {
     "id": "物品.刀4",
     "group": "物品",
-    "value": "Items/dao4"
+    "value": "item/dao4"
   },
   {
     "id": "物品.飞轮",
     "group": "物品",
-    "value": "Items/feilun"
+    "value": "item/feilun"
   },
   {
     "id": "物品.吴钩",
     "group": "物品",
-    "value": "Items/gou"
+    "value": "item/gou"
   },
   {
     "id": "物品.棍子",
     "group": "物品",
-    "value": "Items/gun"
+    "value": "item/gun"
   },
   {
     "id": "物品.剑1",
     "group": "物品",
-    "value": "Items/jian"
+    "value": "item/jian"
   },
   {
     "id": "物品.剑2",
     "group": "物品",
-    "value": "Items/jian2"
+    "value": "item/jian2"
   },
   {
     "id": "物品.剑3",
     "group": "物品",
-    "value": "Items/jian3"
+    "value": "item/jian3"
   },
   {
     "id": "物品.剑毒",
     "group": "物品",
-    "value": "Items/ningbijian"
+    "value": "item/ningbijian"
   },
   {
     "id": "物品.流星锤",
     "group": "物品",
-    "value": "Items/liuxingchui"
+    "value": "item/liuxingchui"
   },
   {
     "id": "物品.弩",
     "group": "物品",
-    "value": "Items/nu"
+    "value": "item/nu"
   },
   {
     "id": "物品.拳套",
     "group": "物品",
-    "value": "Items/quantao"
+    "value": "item/quantao"
   },
   {
     "id": "物品.爪1",
     "group": "物品",
-    "value": "Items/zhua"
+    "value": "item/zhua"
   },
   {
     "id": "物品.爪2",
     "group": "物品",
-    "value": "Items/zhua2"
+    "value": "item/zhua2"
   },
   {
     "id": "物品.爪3",
     "group": "物品",
-    "value": "Items/zhua3"
+    "value": "item/zhua3"
   },
   {
     "id": "物品.爪4",
     "group": "物品",
-    "value": "Items/zhua4"
+    "value": "item/zhua4"
   },
   {
     "id": "物品.金丝道袍",
     "group": "物品",
-    "value": "Items/Djinsidaopao"
+    "value": "item/Djinsidaopao"
   },
   {
     "id": "物品.粗布道袍",
     "group": "物品",
-    "value": "Items/Dcubudaopao"
+    "value": "item/Dcubudaopao"
   },
   {
     "id": "物品.乌蚕衣",
     "group": "物品",
-    "value": "Items/Dwucanyi"
+    "value": "item/Dwucanyi"
   },
   {
     "id": "物品.黄金重甲",
     "group": "物品",
-    "value": "Items/Dhuangjinzhongjia"
+    "value": "item/Dhuangjinzhongjia"
   },
   {
     "id": "物品.袈裟2",
     "group": "物品",
-    "value": "Items/jiasha2"
+    "value": "item/jiasha2"
   },
   {
     "id": "物品.盔甲",
     "group": "物品",
-    "value": "Items/kuijia"
+    "value": "item/kuijia"
   },
   {
     "id": "物品.女衣1",
     "group": "物品",
-    "value": "Items/nvyi1"
+    "value": "item/nvyi1"
   },
   {
     "id": "物品.女衣2",
     "group": "物品",
-    "value": "Items/nvyi2"
+    "value": "item/nvyi2"
   },
   {
     "id": "物品.女衣3",
     "group": "物品",
-    "value": "Items/nvyi3"
+    "value": "item/nvyi3"
   },
   {
     "id": "物品.忍者服",
     "group": "物品",
-    "value": "Items/renzhefu"
+    "value": "item/renzhefu"
   },
   {
     "id": "物品.手镯",
     "group": "物品",
-    "value": "Items/shouzhuo"
+    "value": "item/shouzhuo"
   },
   {
     "id": "物品.头盔",
     "group": "物品",
-    "value": "Items/toukui"
+    "value": "item/toukui"
   },
   {
     "id": "物品.衣服1",
     "group": "物品",
-    "value": "Items/yifu1"
+    "value": "item/yifu1"
   },
   {
     "id": "物品.衣服2",
     "group": "物品",
-    "value": "Items/yifu2"
+    "value": "item/yifu2"
   },
   {
     "id": "物品.衣服3",
     "group": "物品",
-    "value": "Items/yifu3"
+    "value": "item/yifu3"
   },
   {
     "id": "物品.衣服4",
     "group": "物品",
-    "value": "Items/yifu4"
+    "value": "item/yifu4"
   },
   {
     "id": "物品.衣服5",
     "group": "物品",
-    "value": "Items/yifu5"
+    "value": "item/yifu5"
   },
   {
     "id": "物品.衣服6",
     "group": "物品",
-    "value": "Items/yifu6"
+    "value": "item/yifu6"
   },
   {
     "id": "物品.衣服7",
     "group": "物品",
-    "value": "Items/yifu7"
+    "value": "item/yifu7"
   },
   {
     "id": "物品.衣服8",
     "group": "物品",
-    "value": "Items/yifu8"
+    "value": "item/yifu8"
   },
   {
     "id": "物品.红道袍",
     "group": "物品",
-    "value": "Items/daopao"
+    "value": "item/daopao"
   },
   {
     "id": "物品.黄金项链",
     "group": "物品",
-    "value": "Items/Shuangjinxianglian"
+    "value": "item/Shuangjinxianglian"
   },
   {
     "id": "物品.回力跑鞋",
     "group": "物品",
-    "value": "Items/Shuilipaoxie"
+    "value": "item/Shuilipaoxie"
   },
   {
     "id": "物品.金头箍",
     "group": "物品",
-    "value": "Items/Sjintougu"
+    "value": "item/Sjintougu"
   },
   {
     "id": "物品.莽毒蛛蛤",
     "group": "物品",
-    "value": "Items/Smangguzhuha"
+    "value": "item/Smangguzhuha"
   },
   {
     "id": "物品.木鱼",
     "group": "物品",
-    "value": "Items/Smuyu"
+    "value": "item/Smuyu"
   },
   {
     "id": "物品.银手镯",
     "group": "物品",
-    "value": "Items/Syinshouzhuo"
+    "value": "item/Syinshouzhuo"
   },
   {
     "id": "物品.草帽",
     "group": "物品",
-    "value": "Items/Scaomao"
+    "value": "item/Scaomao"
   },
   {
     "id": "物品.木人",
     "group": "物品",
-    "value": "Items/Smuren"
+    "value": "item/Smuren"
   },
   {
     "id": "物品.元宝",
     "group": "物品",
-    "value": "Items/yuanbao"
+    "value": "item/yuanbao"
   },
   {
     "id": "物品.令牌",
     "group": "物品",
-    "value": "Items/lingpai"
+    "value": "item/lingpai"
   },
   {
     "id": "物品.铁剑令",
     "group": "物品",
-    "value": "Items/lingpai001"
+    "value": "item/lingpai001"
   },
   {
     "id": "物品.佛珠",
     "group": "物品",
-    "value": "Items/fozhu"
+    "value": "item/fozhu"
   },
   {
     "id": "物品.护腕",
     "group": "物品",
-    "value": "Items/huwan"
+    "value": "item/huwan"
   },
   {
     "id": "物品.戒指1",
     "group": "物品",
-    "value": "Items/jiezhi1"
+    "value": "item/jiezhi1"
   },
   {
     "id": "物品.戒指2",
     "group": "物品",
-    "value": "Items/jiezhi2"
+    "value": "item/jiezhi2"
   },
   {
     "id": "物品.戒指3",
     "group": "物品",
-    "value": "Items/jiezhi3"
+    "value": "item/jiezhi3"
   },
   {
     "id": "物品.戒指4",
     "group": "物品",
-    "value": "Items/jiezhi4"
+    "value": "item/jiezhi4"
   },
   {
     "id": "物品.水晶",
     "group": "物品",
-    "value": "Items/shuijing"
+    "value": "item/shuijing"
   },
   {
     "id": "物品.独孤九剑剑谱",
     "group": "物品",
-    "value": "Items/Bdugujiujianjianpu"
+    "value": "item/Bdugujiujianjianpu"
   },
   {
     "id": "物品.幻阴指指法精要",
     "group": "物品",
-    "value": "Items/Bhuanyinzhizhifajingyao"
+    "value": "item/Bhuanyinzhizhifajingyao"
   },
   {
     "id": "物品.葵花宝典",
     "group": "物品",
-    "value": "Items/Bkuihuabaodian"
+    "value": "item/Bkuihuabaodian"
   },
   {
     "id": "物品.绕指柔剑剑谱",
     "group": "物品",
-    "value": "Items/Braozhiroujianjianpu"
+    "value": "item/Braozhiroujianjianpu"
   },
   {
     "id": "物品.四象掌拳谱",
     "group": "物品",
-    "value": "Items/Bsixiangzhangquanpu"
+    "value": "item/Bsixiangzhangquanpu"
   },
   {
     "id": "物品.易筋经",
     "group": "物品",
-    "value": "Items/Byijinjing"
+    "value": "item/Byijinjing"
   },
   {
     "id": "物品.剑谱",
     "group": "物品",
-    "value": "Items/Bdugujiujianjianpu"
+    "value": "item/Bdugujiujianjianpu"
   },
   {
     "id": "物品.奇门谱",
     "group": "物品",
-    "value": "Items/Bhuanyinzhizhifajingyao"
+    "value": "item/Bhuanyinzhizhifajingyao"
   },
   {
     "id": "物品.宝典",
     "group": "物品",
-    "value": "Items/Bkuihuabaodian"
+    "value": "item/Bkuihuabaodian"
   },
   {
     "id": "物品.刀谱",
     "group": "物品",
-    "value": "Items/Braozhiroujianjianpu"
+    "value": "item/Braozhiroujianjianpu"
   },
   {
     "id": "物品.拳谱",
     "group": "物品",
-    "value": "Items/Bsixiangzhangquanpu"
+    "value": "item/Bsixiangzhangquanpu"
   },
   {
     "id": "物品.内功",
     "group": "物品",
-    "value": "Items/Byijinjing"
+    "value": "item/Byijinjing"
   },
   {
     "id": "物品.松果",
     "group": "物品",
-    "value": "Items/songguo"
+    "value": "item/songguo"
   },
   {
     "id": "物品.包裹",
     "group": "物品",
-    "value": "Items/baoguo"
+    "value": "item/baoguo"
   },
   {
     "id": "物品.发簪",
     "group": "物品",
-    "value": "Items/biyezan"
+    "value": "item/biyezan"
   },
   {
     "id": "物品.龙游帮VIP令牌",
     "group": "物品",
-    "value": "Items/viplingpai"
+    "value": "item/viplingpai"
   },
   {
     "id": "物品.破军披风",
     "group": "物品",
-    "value": "Items/pojunpifeng"
+    "value": "item/pojunpifeng"
   },
   {
     "id": "物品.袈裟",
     "group": "物品",
-    "value": "Items/jiasha"
+    "value": "item/jiasha"
   },
   {
     "id": "物品.箱子",
     "group": "物品",
-    "value": "Items/xiangzi"
+    "value": "item/xiangzi"
   },
   {
     "id": "ItemTrigger.AddHp",
@@ -3142,797 +3142,797 @@
   {
     "id": "地图.大地图",
     "group": "地图",
-    "value": "Maps/daditu"
+    "value": "map/daditu"
   },
   {
     "id": "地图.藏经阁",
     "group": "地图",
-    "value": "Maps/cangjingge"
+    "value": "map/cangjingge"
   },
   {
     "id": "地图.洛阳",
     "group": "地图",
-    "value": "Maps/mapluoyang"
+    "value": "map/mapluoyang"
   },
   {
     "id": "地图.长安",
     "group": "地图",
-    "value": "Maps/changan"
+    "value": "map/changan"
   },
   {
     "id": "地图.大理",
     "group": "地图",
-    "value": "Maps/chengshi"
+    "value": "map/chengshi"
   },
   {
     "id": "地图.西夏",
     "group": "地图",
-    "value": "Maps/mapxixia"
+    "value": "map/mapxixia"
   },
   {
     "id": "地图.衡阳",
     "group": "地图",
-    "value": "Maps/maphengyang"
+    "value": "map/maphengyang"
   },
   {
     "id": "地图.少林",
     "group": "地图",
-    "value": "Maps/mapshaolin"
+    "value": "map/mapshaolin"
   },
   {
     "id": "地图.恒山",
     "group": "地图",
-    "value": "Maps/shanzhong"
+    "value": "map/shanzhong"
   },
   {
     "id": "地图.主角之家",
     "group": "地图",
-    "value": "Maps/qinshe"
+    "value": "map/qinshe"
   },
   {
     "id": "地图.洞穴1",
     "group": "地图",
-    "value": "Maps/kuangdi1"
+    "value": "map/kuangdi1"
   },
   {
     "id": "地图.风陵渡口",
     "group": "地图",
-    "value": "Maps/fenglingdukou"
+    "value": "map/fenglingdukou"
   },
   {
     "id": "地图.帮派大厅",
     "group": "地图",
-    "value": "Maps/bangpaidating2"
+    "value": "map/bangpaidating2"
   },
   {
     "id": "地图.全真教",
     "group": "地图",
-    "value": "Maps/daoguan"
+    "value": "map/daoguan"
   },
   {
     "id": "地图.昆仑派",
     "group": "地图",
-    "value": "Maps/tianzhufeng"
+    "value": "map/tianzhufeng"
   },
   {
     "id": "地图.剑魔荒冢",
     "group": "地图",
-    "value": "Maps/jianmohuangzhong"
+    "value": "map/jianmohuangzhong"
   },
   {
     "id": "地图.大帐",
     "group": "地图",
-    "value": "Maps/nanshaolin"
+    "value": "map/nanshaolin"
   },
   {
     "id": "地图.小村",
     "group": "地图",
-    "value": "Maps/xiaocun1"
+    "value": "map/xiaocun1"
   },
   {
     "id": "地图.无量山洞",
     "group": "地图",
-    "value": "Maps/wuliangshandong"
+    "value": "map/wuliangshandong"
   },
   {
     "id": "地图.城市",
     "group": "地图",
-    "value": "Maps/chengshi"
+    "value": "map/chengshi"
   },
   {
     "id": "地图.村口2",
     "group": "地图",
-    "value": "Maps/cunkou2"
+    "value": "map/cunkou2"
   },
   {
     "id": "地图.地牢",
     "group": "地图",
-    "value": "Maps/dilao"
+    "value": "map/dilao"
   },
   {
     "id": "地图.客栈",
     "group": "地图",
-    "value": "Maps/kezhan"
+    "value": "map/kezhan"
   },
   {
     "id": "地图.农舍内",
     "group": "地图",
-    "value": "Maps/qinshe"
+    "value": "map/qinshe"
   },
   {
     "id": "地图.灵鹫宫",
     "group": "地图",
-    "value": "Maps/lingjiugong"
+    "value": "map/lingjiugong"
   },
   {
     "id": "地图.破庙",
     "group": "地图",
-    "value": "Maps/miao"
+    "value": "map/miao"
   },
   {
     "id": "地图.沙漠",
     "group": "地图",
-    "value": "Maps/shamo"
+    "value": "map/shamo"
   },
   {
     "id": "地图.室内",
     "group": "地图",
-    "value": "Maps/qinshe"
+    "value": "map/qinshe"
   },
   {
     "id": "地图.树林",
     "group": "地图",
-    "value": "Maps/shulin"
+    "value": "map/shulin"
   },
   {
     "id": "地图.小村口",
     "group": "地图",
-    "value": "Maps/xiaocunkou"
+    "value": "map/xiaocunkou"
   },
   {
     "id": "地图.佛山镇",
     "group": "地图",
-    "value": "Maps/foshanzhen"
+    "value": "map/foshanzhen"
   },
   {
     "id": "地图.湘妃庙",
     "group": "地图",
-    "value": "Maps/miao2"
+    "value": "map/miao2"
   },
   {
     "id": "地图.天宁寺",
     "group": "地图",
-    "value": "Maps/wudang"
+    "value": "map/wudang"
   },
   {
     "id": "地图.少林寺内",
     "group": "地图",
-    "value": "Maps/shaolinsinei"
+    "value": "map/shaolinsinei"
   },
   {
     "id": "地图.少林后山",
     "group": "地图",
-    "value": "Maps/shanzhong"
+    "value": "map/shanzhong"
   },
   {
     "id": "地图.南少林",
     "group": "地图",
-    "value": "Maps/nanshaolin"
+    "value": "map/nanshaolin"
   },
   {
     "id": "地图.寝宫",
     "group": "地图",
-    "value": "Maps/bangpaidating2"
+    "value": "map/bangpaidating2"
   },
   {
     "id": "地图.昆仑山底",
     "group": "地图",
-    "value": "Maps/kuangdi2"
+    "value": "map/kuangdi2"
   },
   {
     "id": "地图.塞外",
     "group": "地图",
-    "value": "Maps/saiwai"
+    "value": "map/saiwai"
   },
   {
     "id": "地图.府门前",
     "group": "地图",
-    "value": "Maps/fumenqian"
+    "value": "map/fumenqian"
   },
   {
     "id": "地图.华山",
     "group": "地图",
-    "value": "Maps/huashan"
+    "value": "map/huashan"
   },
   {
     "id": "地图.华山后山",
     "group": "地图",
-    "value": "Maps/shanzhong"
+    "value": "map/shanzhong"
   },
   {
     "id": "地图.华山山洞",
     "group": "地图",
-    "value": "Maps/yinlengshandong"
+    "value": "map/yinlengshandong"
   },
   {
     "id": "地图.华山仙境",
     "group": "地图",
-    "value": "Maps/shanzhong"
+    "value": "map/shanzhong"
   },
   {
     "id": "地图.郊外",
     "group": "地图",
-    "value": "Maps/jiaowai"
+    "value": "map/jiaowai"
   },
   {
     "id": "地图.五毒教",
     "group": "地图",
-    "value": "Maps/gumuwai2"
+    "value": "map/gumuwai2"
   },
   {
     "id": "地图.山间小路1",
     "group": "地图",
-    "value": "Maps/shanjianxiaolu1"
+    "value": "map/shanjianxiaolu1"
   },
   {
     "id": "地图.山间小路2",
     "group": "地图",
-    "value": "Maps/shanjianxiaolu2"
+    "value": "map/shanjianxiaolu2"
   },
   {
     "id": "地图.帮派门前",
     "group": "地图",
-    "value": "Maps/bangpaimenqian"
+    "value": "map/bangpaimenqian"
   },
   {
     "id": "地图.酒楼",
     "group": "地图",
-    "value": "Maps/jiulou"
+    "value": "map/jiulou"
   },
   {
     "id": "地图.郊野",
     "group": "地图",
-    "value": "Maps/jiaoye"
+    "value": "map/jiaoye"
   },
   {
     "id": "地图.琴舍",
     "group": "地图",
-    "value": "Maps/qinshe"
+    "value": "map/qinshe"
   },
   {
     "id": "地图.琴舍2",
     "group": "地图",
-    "value": "Maps/qinshe2"
+    "value": "map/qinshe2"
   },
   {
     "id": "地图.长安西市",
     "group": "地图",
-    "value": "Maps/changanxishi"
+    "value": "map/changanxishi"
   },
   {
     "id": "地图.昆仑山",
     "group": "地图",
-    "value": "Maps/kunlunshan"
+    "value": "map/kunlunshan"
   },
   {
     "id": "地图.雪山山路1",
     "group": "地图",
-    "value": "Maps/xueshanshanlu1"
+    "value": "map/xueshanshanlu1"
   },
   {
     "id": "地图.雪山山路2",
     "group": "地图",
-    "value": "Maps/xueshanshanlu2"
+    "value": "map/xueshanshanlu2"
   },
   {
     "id": "地图.雪山山路3",
     "group": "地图",
-    "value": "Maps/xueshanshanlu3"
+    "value": "map/xueshanshanlu3"
   },
   {
     "id": "地图.昆仑山之巅",
     "group": "地图",
-    "value": "Maps/xueshan1"
+    "value": "map/xueshan1"
   },
   {
     "id": "地图.天池",
     "group": "地图",
-    "value": "Maps/tianchi"
+    "value": "map/tianchi"
   },
   {
     "id": "地图.山洞",
     "group": "地图",
-    "value": "Maps/kuangdi1"
+    "value": "map/kuangdi1"
   },
   {
     "id": "地图.山洞1",
     "group": "地图",
-    "value": "Maps/kuangdi1"
+    "value": "map/kuangdi1"
   },
   {
     "id": "地图.山洞2",
     "group": "地图",
-    "value": "Maps/kuangdi2"
+    "value": "map/kuangdi2"
   },
   {
     "id": "地图.山洞3",
     "group": "地图",
-    "value": "Maps/kuangdi3"
+    "value": "map/kuangdi3"
   },
   {
     "id": "地图.黑木崖",
     "group": "地图",
-    "value": "Maps/heimuya"
+    "value": "map/heimuya"
   },
   {
     "id": "地图.黑木崖下",
     "group": "地图",
-    "value": "Maps/heimuyaxia"
+    "value": "map/heimuyaxia"
   },
   {
     "id": "地图.襄阳",
     "group": "地图",
-    "value": "Maps/xiangyang"
+    "value": "map/xiangyang"
   },
   {
     "id": "地图.森林1",
     "group": "地图",
-    "value": "Maps/senlin1"
+    "value": "map/senlin1"
   },
   {
     "id": "地图.森林2",
     "group": "地图",
-    "value": "Maps/senlin2"
+    "value": "map/senlin2"
   },
   {
     "id": "地图.森林3",
     "group": "地图",
-    "value": "Maps/senlin3"
+    "value": "map/senlin3"
   },
   {
     "id": "地图.湘江",
     "group": "地图",
-    "value": "Maps/xiangjiang"
+    "value": "map/xiangjiang"
   },
   {
     "id": "地图.桃花源",
     "group": "地图",
-    "value": "Maps/taohuayuan"
+    "value": "map/taohuayuan"
   },
   {
     "id": "地图.嵩山",
     "group": "地图",
-    "value": "Maps/songshan"
+    "value": "map/songshan"
   },
   {
     "id": "地图.杭州",
     "group": "地图",
-    "value": "Maps/hangzhou"
+    "value": "map/hangzhou"
   },
   {
     "id": "地图.丐帮",
     "group": "地图",
-    "value": "Maps/gaibang"
+    "value": "map/gaibang"
   },
   {
     "id": "地图.雁门关",
     "group": "地图",
-    "value": "Maps/yanmenguan"
+    "value": "map/yanmenguan"
   },
   {
     "id": "地图.擂鼓山",
     "group": "地图",
-    "value": "Maps/leigushan"
+    "value": "map/leigushan"
   },
   {
     "id": "地图.嵩山派",
     "group": "地图",
-    "value": "Maps/songshanpai"
+    "value": "map/songshanpai"
   },
   {
     "id": "地图.草场",
     "group": "地图",
-    "value": "Maps/xiaojinghuwanshang"
+    "value": "map/xiaojinghuwanshang"
   },
   {
     "id": "地图.枯井底",
     "group": "地图",
-    "value": "Maps/kuangdi3"
+    "value": "map/kuangdi3"
   },
   {
     "id": "地图.密洞",
     "group": "地图",
-    "value": "Maps/kuangdi3"
+    "value": "map/kuangdi3"
   },
   {
     "id": "地图.江陵",
     "group": "地图",
-    "value": "Maps/jiangling"
+    "value": "map/jiangling"
   },
   {
     "id": "地图.六和塔",
     "group": "地图",
-    "value": "Maps/liuheta"
+    "value": "map/liuheta"
   },
   {
     "id": "地图.古墓派",
     "group": "地图",
-    "value": "Maps/gumupai"
+    "value": "map/gumupai"
   },
   {
     "id": "地图.古墓绳床之间",
     "group": "地图",
-    "value": "Maps/gumushengchuangzhijian"
+    "value": "map/gumushengchuangzhijian"
   },
   {
     "id": "地图.古墓玉蜂之间",
     "group": "地图",
-    "value": "Maps/gumuyufengzhijian"
+    "value": "map/gumuyufengzhijian"
   },
   {
     "id": "地图.古墓走廊",
     "group": "地图",
-    "value": "Maps/gumuzoulang"
+    "value": "map/gumuzoulang"
   },
   {
     "id": "地图.大轮寺正殿",
     "group": "地图",
-    "value": "Maps/dalunsizhengdian"
+    "value": "map/dalunsizhengdian"
   },
   {
     "id": "地图.大轮寺雪山",
     "group": "地图",
-    "value": "Maps/xueshan"
+    "value": "map/xueshan"
   },
   {
     "id": "地图.大轮寺雪谷1",
     "group": "地图",
-    "value": "Maps/xuegu1"
+    "value": "map/xuegu1"
   },
   {
     "id": "地图.大轮寺雪谷2",
     "group": "地图",
-    "value": "Maps/xuegu2"
+    "value": "map/xuegu2"
   },
   {
     "id": "地图.香格里拉",
     "group": "地图",
-    "value": "Maps/xianggelila"
+    "value": "map/xianggelila"
   },
   {
     "id": "地图.松鼠旅馆",
     "group": "地图",
-    "value": "Maps/kezhan"
+    "value": "map/kezhan"
   },
   {
     "id": "地图.桃花岛",
     "group": "地图",
-    "value": "Maps/taohuadao"
+    "value": "map/taohuadao"
   },
   {
     "id": "地图.侠客岛",
     "group": "地图",
-    "value": "Maps/xiakedao"
+    "value": "map/xiakedao"
   },
   {
     "id": "地图.侠客岛洞内",
     "group": "地图",
-    "value": "Maps/xiakedao2"
+    "value": "map/xiakedao2"
   },
   {
     "id": "地图.血刀门",
     "group": "地图",
-    "value": "Maps/xuedaomen2"
+    "value": "map/xuedaomen2"
   },
   {
     "id": "地图.霹雳堂",
     "group": "地图",
-    "value": "Maps/pilitang"
+    "value": "map/pilitang"
   },
   {
     "id": "地图.青城派",
     "group": "地图",
-    "value": "Maps/qingcheng"
+    "value": "map/qingcheng"
   },
   {
     "id": "地图.比武场",
     "group": "地图",
-    "value": "Maps/biwuchang"
+    "value": "map/biwuchang"
   },
   {
     "id": "地图.武当山门",
     "group": "地图",
-    "value": "Maps/wudang"
+    "value": "map/wudang"
   },
   {
     "id": "地图.三清殿",
     "group": "地图",
-    "value": "Maps/sanqingdian"
+    "value": "map/sanqingdian"
   },
   {
     "id": "地图.佛堂",
     "group": "地图",
-    "value": "Maps/sanqingdian"
+    "value": "map/sanqingdian"
   },
   {
     "id": "地图.武当广场",
     "group": "地图",
-    "value": "Maps/wudangguangchang"
+    "value": "map/wudangguangchang"
   },
   {
     "id": "地图.武当后山",
     "group": "地图",
-    "value": "Maps/wudanghoushan"
+    "value": "map/wudanghoushan"
   },
   {
     "id": "地图.星宿派",
     "group": "地图",
-    "value": "Maps/bangpaidating2"
+    "value": "map/bangpaidating2"
   },
   {
     "id": "地图.龙门镖局",
     "group": "地图",
-    "value": "Maps/longmenbiaoju"
+    "value": "map/longmenbiaoju"
   },
   {
     "id": "地图.梅庄",
     "group": "地图",
-    "value": "Maps/meizhuang"
+    "value": "map/meizhuang"
   },
   {
     "id": "地图.大殿室内",
     "group": "地图",
-    "value": "Maps/qinshe2"
+    "value": "map/qinshe2"
   },
   {
     "id": "地图.山中",
     "group": "地图",
-    "value": "Maps/senlin3"
+    "value": "map/senlin3"
   },
   {
     "id": "地图.古墓内",
     "group": "地图",
-    "value": "Maps/gumuyufengzhijian"
+    "value": "map/gumuyufengzhijian"
   },
   {
     "id": "地图.绝情谷",
     "group": "地图",
-    "value": "Maps/bangpaidating2"
+    "value": "map/bangpaidating2"
   },
   {
     "id": "地图.绝情谷底",
     "group": "地图",
-    "value": "Maps/taohuayuan"
+    "value": "map/taohuayuan"
   },
   {
     "id": "地图.断肠崖",
     "group": "地图",
-    "value": "Maps/gumuwai2"
+    "value": "map/gumuwai2"
   },
   {
     "id": "地图.军营",
     "group": "地图",
-    "value": "Maps/nanshaolin"
+    "value": "map/nanshaolin"
   },
   {
     "id": "地图.大殿",
     "group": "地图",
-    "value": "Maps/sanqingdian"
+    "value": "map/sanqingdian"
   },
   {
     "id": "地图.武林大会",
     "group": "地图",
-    "value": "Maps/biwuchang"
+    "value": "map/biwuchang"
   },
   {
     "id": "地图.院内",
     "group": "地图",
-    "value": "Maps/changanxishi"
+    "value": "map/changanxishi"
   },
   {
     "id": "地图.聚贤庄",
     "group": "地图",
-    "value": "Maps/bangpaimenqian"
+    "value": "map/bangpaimenqian"
   },
   {
     "id": "地图.小镜湖",
     "group": "地图",
-    "value": "Maps/gumuwai2"
+    "value": "map/gumuwai2"
   },
   {
     "id": "地图.小镜湖晚上",
     "group": "地图",
-    "value": "Maps/xiaojinghuwanshang"
+    "value": "map/xiaojinghuwanshang"
   },
   {
     "id": "地图.曼陀山庄",
     "group": "地图",
-    "value": "Maps/wudanghoushan"
+    "value": "map/wudanghoushan"
   },
   {
     "id": "地图.琴韵小筑",
     "group": "地图",
-    "value": "Maps/taohuayuan"
+    "value": "map/taohuayuan"
   },
   {
     "id": "地图.藏书",
     "group": "地图",
-    "value": "Maps/qinshe2"
+    "value": "map/qinshe2"
   },
   {
     "id": "地图.市井",
     "group": "地图",
-    "value": "Maps/chengshi"
+    "value": "map/chengshi"
   },
   {
     "id": "地图.古墓外",
     "group": "地图",
-    "value": "Maps/gumuwai2"
+    "value": "map/gumuwai2"
   },
   {
     "id": "地图.慈宁宫",
     "group": "地图",
-    "value": "Maps/bangpaidating2"
+    "value": "map/bangpaidating2"
   },
   {
     "id": "地图.平西王府",
     "group": "地图",
-    "value": "Maps/bangpaidating2"
+    "value": "map/bangpaidating2"
   },
   {
     "id": "地图.神龙岛",
     "group": "地图",
-    "value": "Maps/songshanpai"
+    "value": "map/songshanpai"
   },
   {
     "id": "地图.台湾",
     "group": "地图",
-    "value": "Maps/wudanghoushan"
+    "value": "map/wudanghoushan"
   },
   {
     "id": "地图.鹿鼎山",
     "group": "地图",
-    "value": "Maps/xueshan1"
+    "value": "map/xueshan1"
   },
   {
     "id": "地图.古墓天罗地网之间",
     "group": "地图",
-    "value": "Maps/gumuzoulang"
+    "value": "map/gumuzoulang"
   },
   {
     "id": "地图.古墓寒玉之间",
     "group": "地图",
-    "value": "Maps/gumushengchuangzhijian"
+    "value": "map/gumushengchuangzhijian"
   },
   {
     "id": "地图.古墓师祖之间",
     "group": "地图",
-    "value": "Maps/gumupai"
+    "value": "map/gumupai"
   },
   {
     "id": "地图.城市2",
     "group": "地图",
-    "value": "Maps/chengshi"
+    "value": "map/chengshi"
   },
   {
     "id": "地图.大轮寺武场",
     "group": "地图",
-    "value": "Maps/biwuchang"
+    "value": "map/biwuchang"
   },
   {
     "id": "地图.血刀门外",
     "group": "地图",
-    "value": "Maps/kunlunshan"
+    "value": "map/kunlunshan"
   },
   {
     "id": "地图.雪山",
     "group": "地图",
-    "value": "Maps/xueshanshanlu3"
+    "value": "map/xueshanshanlu3"
   },
   {
     "id": "地图.九宫八卦",
     "group": "地图",
-    "value": "Maps/daoguan"
+    "value": "map/daoguan"
   },
   {
     "id": "地图.大雄宝殿",
     "group": "地图",
-    "value": "Maps/bangpaidating2"
+    "value": "map/bangpaidating2"
   },
   {
     "id": "地图.罗汉堂",
     "group": "地图",
-    "value": "Maps/shaolinsinei"
+    "value": "map/shaolinsinei"
   },
   {
     "id": "地图.戒律院",
     "group": "地图",
-    "value": "Maps/songshanpai"
+    "value": "map/songshanpai"
   },
   {
     "id": "地图.初祖庵",
     "group": "地图",
-    "value": "Maps/wudanghoushan"
+    "value": "map/wudanghoushan"
   },
   {
     "id": "地图.少林塔林",
     "group": "地图",
-    "value": "Maps/dalunsizhengdian"
+    "value": "map/dalunsizhengdian"
   },
   {
     "id": "地图.东汉三阙",
     "group": "地图",
-    "value": "Maps/jiaowai"
+    "value": "map/jiaowai"
   },
   {
     "id": "地图.西夏皇宫",
     "group": "地图",
-    "value": "Maps/bangpaidating2"
+    "value": "map/bangpaidating2"
   },
   {
     "id": "地图.复真观",
     "group": "地图",
-    "value": "Maps/fengmingshanzhuang"
+    "value": "map/fengmingshanzhuang"
   },
   {
     "id": "地图.天柱峰",
     "group": "地图",
-    "value": "Maps/shanzhong"
+    "value": "map/shanzhong"
   },
   {
     "id": "地图.太和山",
     "group": "地图",
-    "value": "Maps/songshanpai"
+    "value": "map/songshanpai"
   },
   {
     "id": "地图.玉虚宫",
     "group": "地图",
-    "value": "Maps/wudanghoushan"
+    "value": "map/wudanghoushan"
   },
   {
     "id": "地图.武当山顶",
     "group": "地图",
-    "value": "Maps/huashan"
+    "value": "map/huashan"
   },
   {
     "id": "地图.秦淮河",
     "group": "地图",
-    "value": "Maps/hangzhou"
+    "value": "map/hangzhou"
   },
   {
     "id": "地图.雪山派",
     "group": "地图",
-    "value": "Maps/liuheta"
+    "value": "map/liuheta"
   },
   {
     "id": "地图.大殿2",
     "group": "地图",
-    "value": "Maps/bangpaidating2"
+    "value": "map/bangpaidating2"
   },
   {
     "id": "地图.沙漠2",
     "group": "地图",
-    "value": "Maps/shamo"
+    "value": "map/shamo"
   },
   {
     "id": "地图.沙漠3",
     "group": "地图",
-    "value": "Maps/shamo"
+    "value": "map/shamo"
   },
   {
     "id": "地图.鸣凤山庄",
     "group": "地图",
-    "value": "Maps/fengmingshanzhuang"
+    "value": "map/fengmingshanzhuang"
   },
   {
     "id": "地图.商店",
     "group": "地图",
-    "value": "Maps/shop"
+    "value": "map/shop"
   },
   {
     "id": "场景.商店",
     "group": "场景",
-    "value": "Maps/shop"
+    "value": "map/shop"
   },
   {
     "id": "nick.初出茅庐",
@@ -4467,102 +4467,102 @@
   {
     "id": "UI.战场简明状态",
     "group": "UI",
-    "value": "Heads/battleinfo"
+    "value": "head/battleinfo"
   },
   {
     "id": "UI.事件1",
     "group": "UI",
-    "value": "Heads/event_1"
+    "value": "head/event_1"
   },
   {
     "id": "UI.事件2",
     "group": "UI",
-    "value": "Heads/event_2"
+    "value": "head/event_2"
   },
   {
     "id": "UI.事件3",
     "group": "UI",
-    "value": "Heads/event_3"
+    "value": "head/event_3"
   },
   {
     "id": "ui.头像框.激活",
     "group": "ui",
-    "value": "Heads/SceneHeadFrameActive"
+    "value": "head/SceneHeadFrameActive"
   },
   {
     "id": "ui.头像框.普通",
     "group": "ui",
-    "value": "Heads/sceneHeadFrame"
+    "value": "head/sceneHeadFrame"
   },
   {
     "id": "UI.对话0",
     "group": "UI",
-    "value": "Heads/dialog-0"
+    "value": "head/dialog-0"
   },
   {
     "id": "UI.对话1",
     "group": "UI",
-    "value": "Heads/dialog-1"
+    "value": "head/dialog-1"
   },
   {
     "id": "UI.对话2",
     "group": "UI",
-    "value": "Heads/dialog-2"
+    "value": "head/dialog-2"
   },
   {
     "id": "UI.对话3",
     "group": "UI",
-    "value": "Heads/dialog-3"
+    "value": "head/dialog-3"
   },
   {
     "id": "UI.对话4",
     "group": "UI",
-    "value": "Heads/dialog-4"
+    "value": "head/dialog-4"
   },
   {
     "id": "UI.back",
     "group": "UI",
-    "value": "Heads/back"
+    "value": "head/back"
   },
   {
     "id": "UI.front",
     "group": "UI",
-    "value": "Heads/front"
+    "value": "head/front"
   },
   {
     "id": "UI.left",
     "group": "UI",
-    "value": "Heads/left"
+    "value": "head/left"
   },
   {
     "id": "UI.right",
     "group": "UI",
-    "value": "Heads/right"
+    "value": "head/right"
   },
   {
     "id": "UI.教学",
     "group": "UI",
-    "value": "Heads/help"
+    "value": "head/help"
   },
   {
     "id": "UI.教学1",
     "group": "UI",
-    "value": "Heads/help1"
+    "value": "head/help1"
   },
   {
     "id": "UI.教学2",
     "group": "UI",
-    "value": "Heads/help2"
+    "value": "head/help2"
   },
   {
     "id": "UI.教学3",
     "group": "UI",
-    "value": "Heads/help3"
+    "value": "head/help3"
   },
   {
     "id": "UI.背景框",
     "group": "UI",
-    "value": "Heads/info"
+    "value": "head/info"
   },
   {
     "id": "人物.乔峰",
@@ -5207,251 +5207,251 @@
   {
     "id": "town.1",
     "group": "town",
-    "value": "UI/town/1"
+    "value": "ui/town/1"
   },
   {
     "id": "town.2",
     "group": "town",
-    "value": "UI/town/2"
+    "value": "ui/town/2"
   },
   {
     "id": "town.3",
     "group": "town",
-    "value": "UI/town/3"
+    "value": "ui/town/3"
   },
   {
     "id": "town.4",
     "group": "town",
-    "value": "UI/town/4"
+    "value": "ui/town/4"
   },
   {
     "id": "town.5",
     "group": "town",
-    "value": "UI/town/5"
+    "value": "ui/town/5"
   },
   {
     "id": "town.6",
     "group": "town",
-    "value": "UI/town/6"
+    "value": "ui/town/6"
   },
   {
     "id": "town.7",
     "group": "town",
-    "value": "UI/town/7"
+    "value": "ui/town/7"
   },
   {
     "id": "town.9",
     "group": "town",
-    "value": "UI/town/9"
+    "value": "ui/town/9"
   },
   {
     "id": "town.10",
     "group": "town",
-    "value": "UI/town/10"
+    "value": "ui/town/10"
   },
   {
     "id": "town.12",
     "group": "town",
-    "value": "UI/town/12"
+    "value": "ui/town/12"
   },
   {
     "id": "town.baota",
     "group": "town",
-    "value": "UI/town/baota"
+    "value": "ui/town/baota"
   },
   {
     "id": "town.chengshi",
     "group": "town",
-    "value": "UI/town/chengshi"
+    "value": "ui/town/chengshi"
   },
   {
     "id": "town.cunzhuang",
     "group": "town",
-    "value": "UI/town/cunzhuang"
+    "value": "ui/town/cunzhuang"
   },
   {
     "id": "town.jian1",
     "group": "town",
-    "value": "UI/town/jian1"
+    "value": "ui/town/jian1"
   },
   {
     "id": "town.jian2",
     "group": "town",
-    "value": "UI/town/jian2"
+    "value": "ui/town/jian2"
   },
   {
     "id": "town.kezhan",
     "group": "town",
-    "value": "UI/town/kezhan"
+    "value": "ui/town/kezhan"
   },
   {
     "id": "town.shui",
     "group": "town",
-    "value": "UI/town/shui"
+    "value": "ui/town/shui"
   },
   {
     "id": "town.waiguo1",
     "group": "town",
-    "value": "UI/town/waiguo1"
+    "value": "ui/town/waiguo1"
   },
   {
     "id": "town.waiguo2",
     "group": "town",
-    "value": "UI/town/waiguo2"
+    "value": "ui/town/waiguo2"
   },
   {
     "id": "town.waiguo3",
     "group": "town",
-    "value": "UI/town/waiguo3"
+    "value": "ui/town/waiguo3"
   },
   {
     "id": "town.waiguo4",
     "group": "town",
-    "value": "UI/town/waiguo4"
+    "value": "ui/town/waiguo4"
   },
   {
     "id": "town.waiguo5",
     "group": "town",
-    "value": "UI/town/waiguo5"
+    "value": "ui/town/waiguo5"
   },
   {
     "id": "town.waiguo6",
     "group": "town",
-    "value": "UI/town/waiguo6"
+    "value": "ui/town/waiguo6"
   },
   {
     "id": "town.zhangpeng",
     "group": "town",
-    "value": "UI/town/zhangpeng"
+    "value": "ui/town/zhangpeng"
   },
   {
     "id": "town.zhangpeng_gray",
     "group": "town",
-    "value": "UI/town/zhangpeng_gray"
+    "value": "ui/town/zhangpeng_gray"
   },
   {
     "id": "town.city.beijing",
     "group": "town",
-    "value": "UI/town/beijing"
+    "value": "ui/town/beijing"
   },
   {
     "id": "town.city.changan",
     "group": "town",
-    "value": "UI/town/changan"
+    "value": "ui/town/changan"
   },
   {
     "id": "town.city.luoyang",
     "group": "town",
-    "value": "UI/town/luoyang"
+    "value": "ui/town/luoyang"
   },
   {
     "id": "town.city.hengyang",
     "group": "town",
-    "value": "UI/town/hengyang"
+    "value": "ui/town/hengyang"
   },
   {
     "id": "town.city.xixia",
     "group": "town",
-    "value": "UI/town/xixia"
+    "value": "ui/town/xixia"
   },
   {
     "id": "town.city.xiangyang",
     "group": "town",
-    "value": "UI/town/xiangyang"
+    "value": "ui/town/xiangyang"
   },
   {
     "id": "town.city.hangzhou",
     "group": "town",
-    "value": "UI/town/hangzhou"
+    "value": "ui/town/hangzhou"
   },
   {
     "id": "town.city.dali",
     "group": "town",
-    "value": "UI/town/dali"
+    "value": "ui/town/dali"
   },
   {
     "id": "UI.touch.circleBg1",
     "group": "UI",
-    "value": "UI/touch/number1"
+    "value": "ui/touch/number1"
   },
   {
     "id": "UI.touch.circleBg2",
     "group": "UI",
-    "value": "UI/touch/number2"
+    "value": "ui/touch/number2"
   },
   {
     "id": "UI.touch.circleBg3",
     "group": "UI",
-    "value": "UI/touch/number3"
+    "value": "ui/touch/number3"
   },
   {
     "id": "UI.touch.circleBg4",
     "group": "UI",
-    "value": "UI/touch/number4"
+    "value": "ui/touch/number4"
   },
   {
     "id": "UI.touch.circleBg5",
     "group": "UI",
-    "value": "UI/touch/number5"
+    "value": "ui/touch/number5"
   },
   {
     "id": "UI.touch.circleBg6",
     "group": "UI",
-    "value": "UI/touch/number6"
+    "value": "ui/touch/number6"
   },
   {
     "id": "UI.touch.circleBg7",
     "group": "UI",
-    "value": "UI/touch/number7"
+    "value": "ui/touch/number7"
   },
   {
     "id": "UI.touch.circleBg8",
     "group": "UI",
-    "value": "UI/touch/number8"
+    "value": "ui/touch/number8"
   },
   {
     "id": "UI.touch.perfect",
     "group": "UI",
-    "value": "UI/touch/perfect"
+    "value": "ui/touch/perfect"
   },
   {
     "id": "UI.touch.good",
     "group": "UI",
-    "value": "UI/touch/good"
+    "value": "ui/touch/good"
   },
   {
     "id": "UI.touch.bad",
     "group": "UI",
-    "value": "UI/touch/bad"
+    "value": "ui/touch/bad"
   },
   {
     "id": "UI.touch.miss",
     "group": "UI",
-    "value": "UI/touch/miss"
+    "value": "ui/touch/miss"
   },
   {
     "id": "touch.test",
     "group": "touch",
-    "value": "CGs/touch_test"
+    "value": "cg/touch_test"
   },
   {
     "id": "touch.tianqingwen",
     "group": "touch",
-    "value": "CGs/touch_tianqingwen"
+    "value": "cg/touch_tianqingwen"
   },
   {
     "id": "touch.wangyuyan",
     "group": "touch",
-    "value": "CGs/touch_wangyuyan"
+    "value": "cg/touch_wangyuyan"
   },
   {
     "id": "touch.muwanqing",
     "group": "touch",
-    "value": "CGs/touch_muwanqing"
+    "value": "cg/touch_muwanqing"
   },
   {
     "id": "touch.liqingluo",
     "group": "touch",
-    "value": "CGs/touch_liqingluo"
+    "value": "cg/touch_liqingluo"
   }
 ]

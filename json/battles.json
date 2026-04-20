@@ -172,6 +172,116 @@
     "randomParticipants": []
   },
   {
+    "id": "南贤居_经验木头人_战斗",
+    "name": "南贤居_经验木头人_战斗",
+    "mapId": "city2",
+    "music": null,
+    "requiredCharacterIds": [],
+    "participants": [
+      {
+        "position": {
+          "x": 2,
+          "y": 1
+        },
+        "team": 1,
+        "facing": 0,
+        "characterId": null,
+        "partyIndex": 0
+      },
+      {
+        "position": {
+          "x": 2,
+          "y": 2
+        },
+        "team": 1,
+        "facing": 0,
+        "characterId": null,
+        "partyIndex": 1
+      },
+      {
+        "position": {
+          "x": 2,
+          "y": 3
+        },
+        "team": 1,
+        "facing": 0,
+        "characterId": null,
+        "partyIndex": 2
+      },
+      {
+        "position": {
+          "x": 7,
+          "y": 2
+        },
+        "team": 2,
+        "facing": 1,
+        "characterId": "经验木头人",
+        "partyIndex": null
+      },
+      {
+        "position": {
+          "x": 8,
+          "y": 1
+        },
+        "team": 2,
+        "facing": 1,
+        "characterId": "经验木头人",
+        "partyIndex": null
+      },
+      {
+        "position": {
+          "x": 8,
+          "y": 2
+        },
+        "team": 2,
+        "facing": 1,
+        "characterId": "经验木头人",
+        "partyIndex": null
+      },
+      {
+        "position": {
+          "x": 8,
+          "y": 3
+        },
+        "team": 2,
+        "facing": 1,
+        "characterId": "经验木头人",
+        "partyIndex": null
+      }
+    ],
+    "randomParticipants": []
+  },
+  {
+    "id": "南贤居_练功木头人_战斗",
+    "name": "南贤居_练功木头人_战斗",
+    "mapId": "city2",
+    "music": null,
+    "requiredCharacterIds": [],
+    "participants": [
+      {
+        "position": {
+          "x": 2,
+          "y": 2
+        },
+        "team": 1,
+        "facing": 0,
+        "characterId": null,
+        "partyIndex": 0
+      },
+      {
+        "position": {
+          "x": 8,
+          "y": 2
+        },
+        "team": 2,
+        "facing": 1,
+        "characterId": "练功木头人",
+        "partyIndex": null
+      }
+    ],
+    "randomParticipants": []
+  },
+  {
     "id": "破庙战田青文",
     "name": "破庙战田青文",
     "mapId": "shinei",

@@ -7,6 +7,14 @@ import xml.etree.ElementTree as ET
 
 
 EXCLUDED_GROUPS = {"天赋", "buff"}
+VALUE_PREFIX_MAP = {
+    "Audios": "audio",
+    "UI": "ui",
+    "Heads": "head",
+    "Items": "item",
+    "Maps": "map",
+    "CGs": "cg",
+}
 
 
 def parse_args() -> argparse.Namespace:
@@ -45,6 +53,20 @@ def infer_group(resource_id: str) -> str | None:
     return head or None
 
 
+def transform_resource_value(value: str | None) -> str | None:
+    value = parse_optional_text(value)
+    if value is None:
+        return None
+
+    prefix, separator, remainder = value.partition("/")
+    mapped_prefix = VALUE_PREFIX_MAP.get(prefix)
+    if mapped_prefix is None:
+        return value
+    if not separator:
+        return mapped_prefix
+    return f"{mapped_prefix}/{remainder}"
+
+
 def build_resource(element: ET.Element) -> dict[str, object] | None:
     resource_id = parse_optional_text(element.get("key"))
     if resource_id is None:
@@ -57,7 +79,7 @@ def build_resource(element: ET.Element) -> dict[str, object] | None:
     return {
         "id": resource_id,
         "group": group,
-        "value": parse_optional_text(element.get("value")),
+        "value": transform_resource_value(element.get("value")),
     }
 
 

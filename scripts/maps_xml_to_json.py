@@ -6,6 +6,11 @@ from pathlib import Path
 import xml.etree.ElementTree as ET
 
 
+MAP_KIND_BY_ID: dict[str, str] = {
+    "大地图": "large",
+}
+
+
 def parse_args() -> argparse.Namespace:
     script_path = Path(__file__).resolve()
     repo_root = script_path.parent.parent
@@ -44,6 +49,21 @@ def parse_optional_text(value: str | None) -> str | None:
 def parse_repeat_mode(value: str | None) -> str | None:
     text = parse_optional_text(value)
     return None if text is None else text
+
+
+def build_musics(map_element: ET.Element) -> list[str]:
+    musics: list[str] = []
+    musics_element = map_element.find("musics")
+    if musics_element is None:
+        return musics
+
+    for music in musics_element.findall("music"):
+        music_id = parse_optional_text(music.get("name"))
+        if music_id is None:
+            raise ValueError("map music entry is missing name.")
+        musics.append(music_id)
+
+    return musics
 
 
 def build_condition(condition: ET.Element) -> dict[str, object]:
@@ -101,13 +121,21 @@ def build_map(map_element: ET.Element) -> dict[str, object]:
     if map_id is None:
         raise ValueError("map entry is missing name.")
 
-    return {
+    map_data: dict[str, object] = {
         "id": map_id,
         "name": map_id,
         "description": parse_optional_text(map_element.get("desc")),
         "picture": parse_optional_text(map_element.get("pic")),
-        "locations": [build_map_unit(unit) for unit in map_element.findall("mapunit")],
     }
+
+    map_kind = MAP_KIND_BY_ID.get(map_id)
+    if map_kind is not None:
+        map_data["kind"] = map_kind
+
+    map_data["musics"] = build_musics(map_element)
+    map_data["locations"] = [build_map_unit(unit) for unit in map_element.findall("mapunit")]
+
+    return map_data
 
 
 def convert_maps(input_path: Path) -> list[dict[str, object]]:
