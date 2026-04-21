@@ -46,6 +46,15 @@ ATTRIBUTE_NAME_MAP: dict[str, str] = {
     "奇门兵器": "qimen",
 }
 
+RATIO_STAT_IDS: set[str] = {
+    "accuracy",
+    "crit_chance",
+    "crit_mult",
+    "anti_crit_chance",
+    "lifesteal",
+    "anti_debuff",
+}
+
 WEAPON_TYPE_MAP: dict[str, str] = {
     "powerup_quanzhang": "quanzhang",
     "powerup_jianfa": "jianfa",
@@ -107,7 +116,19 @@ def build_modifier_value(delta: int | float) -> dict[str, object]:
     }
 
 
+def normalize_real_ratio(delta: int | float) -> int | float:
+    normalized = round(float(delta) / 100.0, 6)
+    if normalized == 0:
+        return 0
+    if normalized.is_integer():
+        return int(normalized)
+    return normalized
+
+
 def build_stat_affix(stat_id: str, delta: int | float) -> dict[str, object]:
+    if stat_id in RATIO_STAT_IDS:
+        delta = normalize_real_ratio(delta)
+
     return {
         "type": "stat_modifier",
         "stat": stat_id,
@@ -135,7 +156,7 @@ def build_skill_bonus_affix(skill_id: str, delta: int | float) -> dict[str, obje
     return {
         "type": "skill_bonus_modifier",
         "skillId": skill_id,
-        "value": build_modifier_value(delta),
+        "value": build_modifier_value(normalize_real_ratio(delta)),
     }
 
 
@@ -143,7 +164,7 @@ def build_weapon_bonus_affix(weapon_type: str, delta: int | float) -> dict[str, 
     return {
         "type": "weapon_bonus_modifier",
         "weaponType": weapon_type,
-        "value": build_modifier_value(delta),
+        "value": build_modifier_value(normalize_real_ratio(delta)),
     }
 
 
@@ -151,7 +172,7 @@ def build_legend_skill_chance_affix(skill_id: str, delta: int | float) -> dict[s
     return {
         "type": "legend_skill_chance_modifier",
         "skillId": skill_id,
-        "value": build_modifier_value(delta),
+        "value": build_modifier_value(normalize_real_ratio(delta)),
     }
 
 
