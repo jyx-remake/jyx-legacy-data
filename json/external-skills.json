@@ -2144,7 +2144,7 @@
       {
         "effect": {
           "type": "stat_modifier",
-          "stat": "wuxue",
+          "stat": "wuxing",
           "value": {
             "op": "add",
             "delta": 12
@@ -2510,7 +2510,7 @@
       {
         "effect": {
           "type": "stat_modifier",
-          "stat": "wuxue",
+          "stat": "wuxing",
           "value": {
             "op": "add",
             "delta": 12
@@ -5057,7 +5057,7 @@
       {
         "effect": {
           "type": "stat_modifier",
-          "stat": "wuxue",
+          "stat": "wuxing",
           "value": {
             "op": "add",
             "delta": 15

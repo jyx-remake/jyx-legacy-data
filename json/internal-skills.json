@@ -59,7 +59,7 @@
       {
         "effect": {
           "type": "stat_modifier",
-          "stat": "wuxue",
+          "stat": "wuxing",
           "value": {
             "op": "add",
             "delta": 8
