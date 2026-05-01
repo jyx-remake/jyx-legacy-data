@@ -797,7 +797,6 @@
         "id": "化功大法.腐尸毒",
         "name": "化功大法.腐尸毒",
         "description": "用自身带毒的内力散去敌方内功",
-        "icon": "icon-huagongdafa",
         "cooldown": 4,
         "cost": {
           "rage": 2
@@ -1303,7 +1302,6 @@
         "id": "蛤蟆功.癞蛤蟆蹬地",
         "name": "蛤蟆功.癞蛤蟆蹬地",
         "description": "趴在地上，呱呱",
-        "icon": "icon-hamagong",
         "cooldown": 3,
         "cost": {
           "rage": 2
@@ -1691,7 +1689,6 @@
         "id": "太玄神功.太玄真气",
         "name": "太玄神功.太玄真气",
         "description": "侠客岛石壁上记载的神奇无上内功",
-        "icon": "icon-taixuanshengong2",
         "cooldown": 3,
         "cost": {
           "rage": 3
@@ -1791,7 +1788,6 @@
         "id": "血海魔功.血魔刀",
         "name": "血海魔功.血魔刀",
         "description": "血刀门神秘的邪恶内功",
-        "icon": "icon-xuemodao",
         "cooldown": 2,
         "cost": {
           "rage": 2
@@ -1933,7 +1929,6 @@
         "id": "混元功.混元一气",
         "name": "混元功.混元一气",
         "description": "混元一气,浑身坚逾精钢",
-        "icon": "icon-hunyuanyiqi",
         "cooldown": 3,
         "cost": {
           "rage": 4
@@ -2581,7 +2576,6 @@
         "id": "龙象般若功.龙象秘境",
         "name": "龙象般若功.龙象秘境",
         "description": "雪山密宗的盖世奇功",
-        "icon": "icon-longxiangmijing",
         "cooldown": 2,
         "cost": {
           "rage": 2
@@ -2609,7 +2603,6 @@
         "id": "龙象般若功.庄严宝相",
         "name": "龙象般若功.庄严宝相",
         "description": "雪山密宗的盖世奇功",
-        "icon": "icon-zhuangyanbaoxiang",
         "cooldown": 4,
         "cost": {
           "rage": 4
@@ -2705,7 +2698,6 @@
         "id": "铁血大旗功.铁血",
         "name": "铁血大旗功.铁血",
         "description": "铁血",
-        "icon": "icon-tiexue",
         "cooldown": 4,
         "cost": {
           "rage": 2
@@ -2739,7 +2731,6 @@
         "id": "铁血大旗功.大旗",
         "name": "铁血大旗功.大旗",
         "description": "铁血大旗功精髓所在,大旗所指,所向披靡",
-        "icon": "icon-daqi",
         "cooldown": 6,
         "cost": {
           "rage": 4
@@ -2850,7 +2841,6 @@
         "id": "易筋经.易筋神功",
         "name": "易筋经.易筋神功",
         "description": "易筋经中记载的绝世武艺",
-        "icon": "icon-yijinshengong",
         "cooldown": 6,
         "cost": {
           "rage": 2
@@ -2971,7 +2961,6 @@
         "id": "九阴神功.九阴神爪",
         "name": "九阴神功.九阴神爪",
         "description": "这绝不是九阴白骨爪",
-        "icon": "icon-jiuyinshenzhua",
         "cooldown": 6,
         "cost": {
           "rage": 2
@@ -2999,7 +2988,6 @@
         "id": "九阴神功.九阴极意",
         "name": "九阴神功.九阴极意",
         "description": "九阴真经中所领悟出来的天下武学总纲",
-        "icon": "icon-jiuyinjiyi",
         "cooldown": 6,
         "cost": {
           "rage": 6
@@ -3125,7 +3113,6 @@
         "id": "逆运九阴神功.九阴狂啸",
         "name": "逆运九阴神功.九阴狂啸",
         "description": "威力无匹的逆天神技",
-        "icon": "icon-jiuyinjiyi",
         "cooldown": 6,
         "cost": {
           "rage": 3
@@ -3251,7 +3238,6 @@
         "id": "九阳神功.乾卦九阳",
         "name": "九阳神功.乾卦九阳",
         "description": "九阳神功绝招",
-        "icon": "icon-qianguajiuyang",
         "cooldown": 4,
         "cost": {
           "rage": 4
@@ -3355,7 +3341,6 @@
         "id": "葵花宝典.绣花针",
         "name": "葵花宝典.绣花针",
         "description": "阴毒之极，迅速之极",
-        "icon": "icon-xiuhuazhen",
         "cooldown": 0,
         "cost": {
           "rage": 1
@@ -3383,7 +3368,6 @@
         "id": "葵花宝典.真辟邪剑法",
         "name": "葵花宝典.真辟邪剑法",
         "description": "阴毒之极，迅速之极，辟邪剑法奥义式",
-        "icon": "icon-zhenbixiejian",
         "cooldown": 5,
         "cost": {
           "rage": 4

@@ -109,7 +109,6 @@ def build_form_skill(unique: ET.Element) -> dict[str, object]:
         "id": form_id,
         "name": form_id,
         "description": parse_optional_text(unique.get("info")),
-        "icon": parse_optional_text(unique.get("icon")) or "",
         "cooldown": parse_int(unique.get("cd")),
         "cost": {
             "rage": parse_int(unique.get("costball")),
