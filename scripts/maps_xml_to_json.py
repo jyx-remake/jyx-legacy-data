@@ -10,6 +10,8 @@ MAP_KIND_BY_ID: dict[str, str] = {
     "大地图": "large",
 }
 
+GLOBAL_TRIGGER_MAP_ID = "大地图"
+
 
 def parse_args() -> argparse.Namespace:
     script_path = Path(__file__).resolve()
@@ -29,6 +31,11 @@ def parse_args() -> argparse.Namespace:
         nargs="?",
         default=str(output_dir / "maps.json"),
         help="Path to output maps.json",
+    )
+    parser.add_argument(
+        "--globaltrigger",
+        default=str(repo_root / "globaltrigger.xml"),
+        help="Path to globaltrigger.xml",
     )
     return parser.parse_args()
 
@@ -138,17 +145,53 @@ def build_map(map_element: ET.Element) -> dict[str, object]:
     return map_data
 
 
-def convert_maps(input_path: Path) -> list[dict[str, object]]:
+def build_global_trigger_event(trigger: ET.Element) -> dict[str, object]:
+    story_id = parse_optional_text(trigger.get("story"))
+    if story_id is None:
+        raise ValueError("global trigger is missing story.")
+
+    return {
+        "type": "story",
+        "targetId": story_id,
+        "probability": 100,
+        "conditions": [build_condition(condition) for condition in trigger.findall("condition")],
+    }
+
+
+def load_global_trigger_events(input_path: Path) -> list[dict[str, object]]:
     root = ET.parse(input_path).getroot()
-    return [build_map(map_element) for map_element in root.findall("map")]
+    return [build_global_trigger_event(trigger) for trigger in root.findall("trigger")]
+
+
+def attach_global_trigger_events(
+    maps: list[dict[str, object]],
+    global_trigger_events: list[dict[str, object]],
+) -> None:
+    if not global_trigger_events:
+        return
+
+    for map_data in maps:
+        if map_data.get("id") == GLOBAL_TRIGGER_MAP_ID:
+            map_data["enterEvents"] = global_trigger_events
+            return
+
+    raise ValueError(f"map '{GLOBAL_TRIGGER_MAP_ID}' was not found while attaching global triggers.")
+
+
+def convert_maps(input_path: Path, global_trigger_path: Path) -> list[dict[str, object]]:
+    root = ET.parse(input_path).getroot()
+    maps = [build_map(map_element) for map_element in root.findall("map")]
+    attach_global_trigger_events(maps, load_global_trigger_events(global_trigger_path))
+    return maps
 
 
 def main() -> None:
     args = parse_args()
     input_path = Path(args.input).resolve()
     output_path = Path(args.output).resolve()
+    global_trigger_path = Path(args.globaltrigger).resolve()
 
-    payload = convert_maps(input_path)
+    payload = convert_maps(input_path, global_trigger_path)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(
         json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
