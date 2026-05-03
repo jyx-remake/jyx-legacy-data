@@ -112,7 +112,6 @@ def build_map_unit(unit: ET.Element) -> dict[str, object]:
 
     return {
         "id": unit_id,
-        "name": unit_id,
         "position": {
             "x": parse_int(unit.get("x")),
             "y": parse_int(unit.get("y")),
