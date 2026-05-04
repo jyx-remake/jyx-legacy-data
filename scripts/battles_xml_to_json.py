@@ -46,6 +46,13 @@ def parse_optional_int(value: str | None) -> int | None:
     return None if text is None else int(text)
 
 
+def parse_bool(value: str | None) -> bool:
+    text = parse_optional_text(value)
+    if text is None:
+        return False
+    return text.lower() == "true"
+
+
 def split_required_characters(value: str | None) -> list[str]:
     text = parse_optional_text(value)
     if text is None:
@@ -71,12 +78,18 @@ def build_fixed_participant(role: ET.Element) -> dict[str, object]:
 
 
 def build_random_participant(role: ET.Element) -> dict[str, object]:
-    return {
+    participant = {
         "position": build_position(role),
         "facing": parse_int(role.get("face")),
         "characterId": parse_optional_text(role.get("name")),
         "level": parse_int(role.get("level")),
     }
+    animation = parse_optional_text(role.get("animation"))
+    if animation is not None:
+        participant["animation"] = animation
+    if parse_bool(role.get("boss")):
+        participant["boss"] = True
+    return participant
 
 
 def build_battle(battle: ET.Element) -> dict[str, object]:

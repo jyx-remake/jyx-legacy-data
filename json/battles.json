@@ -17895,7 +17895,8 @@
         },
         "facing": 0,
         "characterId": "朝廷走狗",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -17904,7 +17905,8 @@
         },
         "facing": 0,
         "characterId": "朝廷走狗",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -17913,7 +17915,8 @@
         },
         "facing": 0,
         "characterId": "朝廷走狗",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -17922,7 +17925,8 @@
         },
         "facing": 0,
         "characterId": "朝廷走狗",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -17931,7 +17935,8 @@
         },
         "facing": 0,
         "characterId": "朝廷走狗",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       }
     ]
   },
@@ -17993,7 +17998,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18002,7 +18008,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18011,7 +18018,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18020,7 +18028,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18029,7 +18038,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18038,7 +18048,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18047,7 +18058,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18056,7 +18068,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18065,7 +18078,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18074,7 +18088,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18083,7 +18098,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18092,7 +18108,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       }
     ]
   },
@@ -18156,7 +18173,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18165,7 +18183,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18174,7 +18193,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18183,7 +18203,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18192,7 +18213,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18201,7 +18223,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18210,7 +18233,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18219,7 +18243,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18228,7 +18253,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18237,7 +18263,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18246,7 +18273,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       },
       {
         "position": {
@@ -18255,7 +18283,8 @@
         },
         "facing": 0,
         "characterId": "朝廷鹰犬",
-        "level": 1
+        "level": 1,
+        "animation": "shibing"
       }
     ]
   },
@@ -23249,7 +23278,8 @@
         },
         "facing": 1,
         "characterId": "大内绝顶高手",
-        "level": 3
+        "level": 3,
+        "animation": "guanyuan2"
       },
       {
         "position": {
@@ -23258,7 +23288,8 @@
         },
         "facing": 1,
         "characterId": "大内绝顶高手",
-        "level": 3
+        "level": 3,
+        "animation": "guanyuan2"
       },
       {
         "position": {
@@ -23267,7 +23298,8 @@
         },
         "facing": 0,
         "characterId": "大内绝顶高手",
-        "level": 3
+        "level": 3,
+        "animation": "guanyuan2"
       },
       {
         "position": {
@@ -23276,7 +23308,8 @@
         },
         "facing": 0,
         "characterId": "大内绝顶高手",
-        "level": 3
+        "level": 3,
+        "animation": "guanyuan2"
       },
       {
         "position": {
@@ -23285,7 +23318,8 @@
         },
         "facing": 0,
         "characterId": "大内绝顶高手",
-        "level": 3
+        "level": 3,
+        "animation": "guanyuan2"
       },
       {
         "position": {
@@ -23294,7 +23328,8 @@
         },
         "facing": 0,
         "characterId": "大内绝顶高手",
-        "level": 3
+        "level": 3,
+        "animation": "guanyuan2"
       },
       {
         "position": {
@@ -23303,7 +23338,8 @@
         },
         "facing": 0,
         "characterId": "大内绝顶高手",
-        "level": 3
+        "level": 3,
+        "animation": "guanyuan2"
       },
       {
         "position": {
@@ -23312,7 +23348,8 @@
         },
         "facing": 0,
         "characterId": "大内绝顶高手",
-        "level": 3
+        "level": 3,
+        "animation": "guanyuan2"
       }
     ]
   },
@@ -24140,7 +24177,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       },
       {
         "position": {
@@ -24149,7 +24187,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       },
       {
         "position": {
@@ -24158,7 +24197,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       }
     ]
   },
@@ -24208,7 +24248,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       },
       {
         "position": {
@@ -24217,7 +24258,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       },
       {
         "position": {
@@ -24226,7 +24268,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       }
     ]
   },
@@ -26968,7 +27011,8 @@
         },
         "facing": 0,
         "characterId": "神秘高手",
-        "level": 3
+        "level": 3,
+        "boss": true
       }
     ]
   },
@@ -27098,7 +27142,8 @@
         },
         "facing": 0,
         "characterId": "神秘超级高手",
-        "level": 4
+        "level": 4,
+        "boss": true
       },
       {
         "position": {
@@ -27107,7 +27152,8 @@
         },
         "facing": 0,
         "characterId": "神秘超级高手",
-        "level": 4
+        "level": 4,
+        "boss": true
       }
     ]
   },
@@ -27167,7 +27213,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       },
       {
         "position": {
@@ -27176,7 +27223,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       }
     ]
   },
@@ -27226,7 +27274,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       }
     ]
   },
@@ -27276,7 +27325,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       },
       {
         "position": {
@@ -27285,7 +27335,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       },
       {
         "position": {
@@ -27294,7 +27345,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       }
     ]
   },
@@ -27324,7 +27376,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       }
     ]
   },
@@ -27354,7 +27407,8 @@
         },
         "facing": 1,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       },
       {
         "position": {
@@ -27363,7 +27417,8 @@
         },
         "facing": 1,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       },
       {
         "position": {
@@ -27372,7 +27427,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       },
       {
         "position": {
@@ -27381,7 +27437,8 @@
         },
         "facing": 0,
         "characterId": "神秘绝顶高手",
-        "level": 5
+        "level": 5,
+        "boss": true
       }
     ]
   },
