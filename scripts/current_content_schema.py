@@ -116,6 +116,13 @@ def build_modifier_value(delta: int | float) -> dict[str, object]:
     }
 
 
+def build_increase_modifier_value(delta: int | float) -> dict[str, object]:
+    return {
+        "op": "increase",
+        "delta": delta,
+    }
+
+
 def normalize_real_ratio(delta: int | float) -> int | float:
     normalized = round(float(delta) / 100.0, 6)
     if normalized == 0:

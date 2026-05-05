@@ -115,10 +115,16 @@ def parse_active_effect(trigger: ET.Element) -> dict[str, object]:
         return effect
 
     if effect_type == "add_buff":
-        buff_id, _, chance = (argvs or "").partition(".")
-        effect["buffId"] = buff_id
-        if chance:
-            effect["chance"] = parse_float(chance)
+        parts = (argvs or "").split(".")
+        effect["buffId"] = parts[0] if parts else ""
+        if len(parts) > 1:
+            effect["level"] = parse_int(parts[1])
+        if len(parts) > 2:
+            effect["duration"] = parse_int(parts[2])
+        if len(parts) > 3:
+            property_value = parse_int(parts[3], default=-1)
+            if property_value >= 0:
+                effect["property"] = property_value
         return effect
 
     if effect_type == "detoxify":

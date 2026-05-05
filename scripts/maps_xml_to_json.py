@@ -153,6 +153,7 @@ def build_global_trigger_event(trigger: ET.Element) -> dict[str, object]:
         "type": "story",
         "targetId": story_id,
         "probability": 100,
+        "repeatMode": "once",
         "conditions": [build_condition(condition) for condition in trigger.findall("condition")],
     }
 
