@@ -44,7 +44,7 @@
       <skill level="10" maxlevel="10" name="一阳指" />
     </skills>
   </role>
-  <role key="木头人" shenfa="0" head="头像.木头人" wuxing="0" arena="no" qimen="0" name="木头人" talent="瘸子" bili="0" dingli="0" daofa="0" grow_template="" quanzhang="0" maxhp="500" gengu="0" wuxue="-1" fuyuan="0" maxmp="1" animation="muren" female="0" jianfa="0" level="1">
+  <role key="木头人" shenfa="0" head="头像.木头人" wuxing="0" arena="no" qimen="0" name="木头人" talent="瘸子" bili="0" dingli="0" daofa="0" grow_template="" quanzhang="0" maxhp="500" gengu="0" wuxue="-1" fuyuan="0" maxmp="1" animation="mutouren" female="0" jianfa="0" level="1">
     <special_skills />
     <internal_skills>
       <internal_skill level="1" maxlevel="10" equipped="1" name="基本内功" />

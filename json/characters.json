@@ -196,7 +196,7 @@
     "name": "木头人",
     "level": 1,
     "portrait": "头像.木头人",
-    "model": "muren",
+    "model": "mutouren",
     "gender": "neutral",
     "growTemplate": null,
     "arenaEnabled": false,

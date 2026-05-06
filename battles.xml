@@ -19,34 +19,34 @@
   </battle>
   <battle key="南贤居_木头人_战斗" music="" mapkey="city2" must="主角">
     <roles>
-      <role key="" face="0" team="1" x="2" index="0" y="2" />
-      <role key="木头人" face="1" team="2" x="8" y="2" />
+      <role key="" face="1" team="1" x="2" index="0" y="2" />
+      <role key="木头人" face="0" team="2" x="8" y="2" />
     </roles>
     <random />
   </battle>
   <battle key="南贤居_经验木头人_战斗" music="" mapkey="city2" must="">
     <roles>
-      <role key="" face="0" team="1" x="2" index="0" y="1" />
-      <role key="" face="0" team="1" x="2" index="1" y="2" />
-      <role key="" face="0" team="1" x="2" index="2" y="3" />
-      <role key="经验木头人" face="1" team="2" x="7" y="2" />
-      <role key="经验木头人" face="1" team="2" x="8" y="1" />
-      <role key="经验木头人" face="1" team="2" x="8" y="2" />
-      <role key="经验木头人" face="1" team="2" x="8" y="3" />
+      <role key="" face="1" team="1" x="2" index="0" y="1" />
+      <role key="" face="1" team="1" x="2" index="1" y="2" />
+      <role key="" face="1" team="1" x="2" index="2" y="3" />
+      <role key="经验木头人" face="0" team="2" x="7" y="2" />
+      <role key="经验木头人" face="0" team="2" x="8" y="1" />
+      <role key="经验木头人" face="0" team="2" x="8" y="2" />
+      <role key="经验木头人" face="0" team="2" x="8" y="3" />
     </roles>
     <random />
   </battle>
   <battle key="南贤居_练功木头人_战斗" music="" mapkey="city2" must="">
     <roles>
-      <role key="" face="0" team="1" x="2" index="0" y="2" />
-      <role key="练功木头人" face="1" team="2" x="8" y="2" />
+      <role key="" face="1" team="1" x="2" index="0" y="2" />
+      <role key="练功木头人" face="0" team="2" x="8" y="2" />
     </roles>
     <random />
   </battle>
   <battle key="破庙战田青文" music="" mapkey="shinei" must="主角">
     <roles>
-      <role key="" face="0" team="1" x="2" index="0" y="2" />
-      <role key="田青文" face="1" team="2" x="8" y="2" />
+      <role key="" face="1" team="1" x="2" index="0" y="2" />
+      <role key="田青文" face="0" team="2" x="8" y="2" />
     </roles>
     <random />
   </battle>
