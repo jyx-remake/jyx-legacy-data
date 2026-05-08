@@ -1,0 +1,399 @@
+[
+  {
+    "id": "mainStory_黑暗的阴影",
+    "type": "story",
+    "targetId": "mainStory_黑暗的阴影",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "level_greater_than",
+        "value": "主角#10"
+      },
+      {
+        "type": "friendCount",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "mainStory_神秘剑客",
+    "type": "story",
+    "targetId": "mainStory_神秘剑客",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "level_greater_than",
+        "value": "主角#15"
+      },
+      {
+        "type": "friendCount",
+        "value": "8"
+      },
+      {
+        "type": "should_finish",
+        "value": "mainStory_黑暗的阴影1"
+      }
+    ]
+  },
+  {
+    "id": "mainStory_组织1",
+    "type": "story",
+    "targetId": "mainStory_组织1",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "level_greater_than",
+        "value": "主角#22"
+      },
+      {
+        "type": "friendCount",
+        "value": "8"
+      },
+      {
+        "type": "should_finish",
+        "value": "mainStory_神秘剑客1"
+      }
+    ]
+  },
+  {
+    "id": "mainStory_紧急",
+    "type": "story",
+    "targetId": "mainStory_紧急",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "level_greater_than",
+        "value": "主角#25"
+      },
+      {
+        "type": "friendCount",
+        "value": "8"
+      },
+      {
+        "type": "should_finish",
+        "value": "mainStory_组织1"
+      }
+    ]
+  },
+  {
+    "id": "血刀门_出师",
+    "type": "story",
+    "targetId": "血刀门_出师",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "40"
+      },
+      {
+        "type": "in_menpai",
+        "value": "血刀门"
+      }
+    ]
+  },
+  {
+    "id": "血刀门_门内比武",
+    "type": "story",
+    "targetId": "血刀门_门内比武",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "85"
+      },
+      {
+        "type": "in_menpai",
+        "value": "血刀门"
+      }
+    ]
+  },
+  {
+    "id": "门派灵鹫宫_出师",
+    "type": "story",
+    "targetId": "门派灵鹫宫_出师",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "50"
+      },
+      {
+        "type": "in_menpai",
+        "value": "灵鹫宫"
+      }
+    ]
+  },
+  {
+    "id": "灵鹫宫_攻打",
+    "type": "story",
+    "targetId": "灵鹫宫_攻打",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "240"
+      },
+      {
+        "type": "in_menpai",
+        "value": "灵鹫宫"
+      },
+      {
+        "type": "should_not_finish",
+        "value": "灵鹫宫_委屈求全"
+      }
+    ]
+  },
+  {
+    "id": "灵鹫宫_攻打_完成珍珑棋局",
+    "type": "story",
+    "targetId": "灵鹫宫_攻打_完成珍珑棋局",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "360"
+      },
+      {
+        "type": "in_menpai",
+        "value": "灵鹫宫"
+      },
+      {
+        "type": "should_finish",
+        "value": "灵鹫宫_委屈求全"
+      }
+    ]
+  },
+  {
+    "id": "少林寺_福建南少林",
+    "type": "story",
+    "targetId": "少林寺_福建南少林",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "40"
+      },
+      {
+        "type": "in_menpai",
+        "value": "少林寺"
+      }
+    ]
+  },
+  {
+    "id": "少林派_南少林出师",
+    "type": "story",
+    "targetId": "少林派_南少林出师",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "75"
+      },
+      {
+        "type": "in_menpai",
+        "value": "少林寺"
+      },
+      {
+        "type": "should_finish",
+        "value": "少林寺_福建南少林破败"
+      }
+    ]
+  },
+  {
+    "id": "南少林_如来神掌",
+    "type": "story",
+    "targetId": "南少林_如来神掌",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "390"
+      },
+      {
+        "type": "in_menpai",
+        "value": "少林寺"
+      },
+      {
+        "type": "should_finish",
+        "value": "少林派_南少林出师"
+      }
+    ]
+  },
+  {
+    "id": "少林派_少林出师",
+    "type": "story",
+    "targetId": "少林派_少林出师",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "75"
+      },
+      {
+        "type": "in_menpai",
+        "value": "少林寺"
+      },
+      {
+        "type": "should_not_finish",
+        "value": "少林寺_福建南少林破败"
+      }
+    ]
+  },
+  {
+    "id": "少林派_门派大比",
+    "type": "story",
+    "targetId": "少林派_门派大比",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "150"
+      },
+      {
+        "type": "in_menpai",
+        "value": "少林寺"
+      },
+      {
+        "type": "should_not_finish",
+        "value": "少林寺_福建南少林破败"
+      }
+    ]
+  },
+  {
+    "id": "少林_金刚门",
+    "type": "story",
+    "targetId": "少林_金刚门",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "400"
+      },
+      {
+        "type": "in_menpai",
+        "value": "少林寺"
+      },
+      {
+        "type": "should_not_finish",
+        "value": "少林寺_南北之争"
+      }
+    ]
+  },
+  {
+    "id": "全真教_门派大比",
+    "type": "story",
+    "targetId": "全真教_门派大比",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "50"
+      },
+      {
+        "type": "in_menpai",
+        "value": "全真教"
+      }
+    ]
+  },
+  {
+    "id": "全真教_大校",
+    "type": "story",
+    "targetId": "全真教_大校",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "90"
+      },
+      {
+        "type": "in_menpai",
+        "value": "全真教"
+      }
+    ]
+  },
+  {
+    "id": "武当派_出师",
+    "type": "story",
+    "targetId": "武当派_出师",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "65"
+      },
+      {
+        "type": "in_menpai",
+        "value": "武当派"
+      }
+    ]
+  },
+  {
+    "id": "星宿派_出师",
+    "type": "story",
+    "targetId": "星宿派_出师",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "40"
+      },
+      {
+        "type": "in_menpai",
+        "value": "星宿派"
+      }
+    ]
+  },
+  {
+    "id": "星宿派_星宿老仙考校",
+    "type": "story",
+    "targetId": "星宿派_星宿老仙考校",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "90"
+      },
+      {
+        "type": "in_menpai",
+        "value": "星宿派"
+      }
+    ]
+  },
+  {
+    "id": "星宿派_召回擂鼓山",
+    "type": "story",
+    "targetId": "星宿派_召回擂鼓山",
+    "probability": 100,
+    "repeatMode": "once",
+    "conditions": [
+      {
+        "type": "exceed_day",
+        "value": "150"
+      },
+      {
+        "type": "in_menpai",
+        "value": "星宿派"
+      }
+    ]
+  }
+]
