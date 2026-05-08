@@ -41,11 +41,6 @@ def parse_optional_text(value: str | None) -> str | None:
     return value or None
 
 
-def parse_optional_int(value: str | None) -> int | None:
-    text = parse_optional_text(value)
-    return None if text is None else int(text)
-
-
 def parse_bool(value: str | None) -> bool:
     text = parse_optional_text(value)
     if text is None:
@@ -67,13 +62,22 @@ def build_position(role: ET.Element) -> dict[str, int]:
     }
 
 
-def build_fixed_participant(role: ET.Element) -> dict[str, object]:
+def is_player_deploy_slot(role: ET.Element) -> bool:
+    return (
+        parse_int(role.get("team"), default=1) == 1
+        and parse_optional_text(role.get("key")) is None
+    )
+
+
+def build_fixed_participant(
+    role: ET.Element, *, party_index: int | None = None
+) -> dict[str, object]:
     return {
         "position": build_position(role),
         "team": parse_int(role.get("team"), default=1),
         "facing": parse_int(role.get("face")),
         "characterId": parse_optional_text(role.get("key")),
-        "partyIndex": parse_optional_int(role.get("index")),
+        "partyIndex": party_index,
     }
 
 
@@ -100,15 +104,23 @@ def build_battle(battle: ET.Element) -> dict[str, object]:
     roles = battle.find("roles")
     random = battle.find("random")
 
+    participants: list[dict[str, object]] = []
+    if roles is not None:
+        next_party_index = 0
+        for role in roles.findall("role"):
+            party_index = None
+            if is_player_deploy_slot(role):
+                party_index = next_party_index
+                next_party_index += 1
+            participants.append(build_fixed_participant(role, party_index=party_index))
+
     return {
         "id": battle_id,
         "name": battle_id,
         "mapId": parse_optional_text(battle.get("mapkey")),
         "music": parse_optional_text(battle.get("music")),
         "requiredCharacterIds": split_required_characters(battle.get("must")),
-        "participants": []
-        if roles is None
-        else [build_fixed_participant(role) for role in roles.findall("role")],
+        "participants": participants,
         "randomParticipants": []
         if random is None
         else [build_random_participant(role) for role in random.findall("role")],
