@@ -82,18 +82,15 @@ def build_fixed_participant(
 
 
 def build_random_participant(role: ET.Element) -> dict[str, object]:
-    participant = {
+    return {
         "position": build_position(role),
+        "team": parse_int(role.get("team"), default=2),
         "facing": parse_int(role.get("face")),
-        "characterId": parse_optional_text(role.get("name")),
-        "level": parse_int(role.get("level")),
+        "name": parse_optional_text(role.get("name")),
+        "tier": parse_int(role.get("level")),
+        "model": parse_optional_text(role.get("animation")),
+        "boss": parse_bool(role.get("boss")),
     }
-    animation = parse_optional_text(role.get("animation"))
-    if animation is not None:
-        participant["animation"] = animation
-    if parse_bool(role.get("boss")):
-        participant["boss"] = True
-    return participant
 
 
 def build_battle(battle: ET.Element) -> dict[str, object]:

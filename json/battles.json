@@ -514,7 +514,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -546,7 +546,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -556,7 +556,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 2
+        "partyIndex": 1
       },
       {
         "position": {
@@ -566,7 +566,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 3
+        "partyIndex": 2
       },
       {
         "position": {
@@ -595,72 +595,96 @@
           "x": 6,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 10,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 10,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -681,7 +705,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -691,7 +715,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 2
+        "partyIndex": 1
       },
       {
         "position": {
@@ -701,7 +725,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 3
+        "partyIndex": 2
       },
       {
         "position": {
@@ -711,7 +735,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 4
+        "partyIndex": 3
       },
       {
         "position": {
@@ -750,72 +774,96 @@
           "x": 6,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 10,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 10,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "商家堡众",
-        "level": 0
+        "name": "商家堡众",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -837,7 +885,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -847,7 +895,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 2
+        "partyIndex": 1
       },
       {
         "position": {
@@ -857,7 +905,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 3
+        "partyIndex": 2
       },
       {
         "position": {
@@ -867,7 +915,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 4
+        "partyIndex": 3
       },
       {
         "position": {
@@ -939,7 +987,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -972,7 +1020,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -982,7 +1030,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 1
       },
       {
         "position": {
@@ -1015,7 +1063,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -1025,7 +1073,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 1
       },
       {
         "position": {
@@ -1044,54 +1092,72 @@
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 0,
           "y": 0
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 0,
           "y": 1
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 1,
           "y": 1
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 1,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -1112,7 +1178,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -1122,7 +1188,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 1
       },
       {
         "position": {
@@ -1141,54 +1207,72 @@
           "x": 8,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "五虎派弟子",
-        "level": 0
+        "name": "五虎派弟子",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "五虎派弟子",
-        "level": 0
+        "name": "五虎派弟子",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "五虎派弟子",
-        "level": 0
+        "name": "五虎派弟子",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "五虎派弟子",
-        "level": 0
+        "name": "五虎派弟子",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "五虎派弟子",
-        "level": 0
+        "name": "五虎派弟子",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "五虎派弟子",
-        "level": 0
+        "name": "五虎派弟子",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -1209,7 +1293,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -1219,7 +1303,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 1
       },
       {
         "position": {
@@ -1238,54 +1322,72 @@
           "x": 8,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "五虎派保镖",
-        "level": 1
+        "name": "五虎派保镖",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "五虎派保镖",
-        "level": 1
+        "name": "五虎派保镖",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "五虎派保镖",
-        "level": 1
+        "name": "五虎派保镖",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "五虎派保镖",
-        "level": 1
+        "name": "五虎派保镖",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "五虎派保镖",
-        "level": 1
+        "name": "五虎派保镖",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "五虎派保镖",
-        "level": 1
+        "name": "五虎派保镖",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -1325,27 +1427,36 @@
           "x": 2,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "天龙门弟子",
-        "level": 1
+        "name": "天龙门弟子",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "天龙门弟子",
-        "level": 1
+        "name": "天龙门弟子",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "天龙门弟子",
-        "level": 1
+        "name": "天龙门弟子",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -1366,7 +1477,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -1376,7 +1487,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 1
       },
       {
         "position": {
@@ -1395,63 +1506,84 @@
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "天龙门弟子",
-        "level": 2
+        "name": "天龙门弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "天龙门弟子",
-        "level": 2
+        "name": "天龙门弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "天龙门弟子",
-        "level": 2
+        "name": "天龙门弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 0
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "天龙门弟子",
-        "level": 2
+        "name": "天龙门弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "天龙门弟子",
-        "level": 2
+        "name": "天龙门弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "天龙门弟子",
-        "level": 2
+        "name": "天龙门弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "天龙门弟子",
-        "level": 2
+        "name": "天龙门弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -1472,7 +1604,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -1482,7 +1614,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 1
       },
       {
         "position": {
@@ -1524,7 +1656,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -1534,7 +1666,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 1
       },
       {
         "position": {
@@ -1576,7 +1708,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -1586,7 +1718,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 1
       },
       {
         "position": {
@@ -1615,54 +1747,72 @@
           "x": 8,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "天龙门弟子",
-        "level": 1
+        "name": "天龙门弟子",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "天龙门弟子",
-        "level": 1
+        "name": "天龙门弟子",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "天龙门弟子",
-        "level": 1
+        "name": "天龙门弟子",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "天龙门弟子",
-        "level": 1
+        "name": "天龙门弟子",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "天龙门弟子",
-        "level": 1
+        "name": "天龙门弟子",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "天龙门弟子",
-        "level": 1
+        "name": "天龙门弟子",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -1683,7 +1833,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -1725,7 +1875,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -1757,7 +1907,7 @@
         "team": 1,
         "facing": 0,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -1767,7 +1917,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 1
       },
       {
         "position": {
@@ -1810,7 +1960,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -1820,7 +1970,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 1
       },
       {
         "position": {
@@ -1983,90 +2133,120 @@
           "x": 6,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "绝情谷众",
-        "level": 1
+        "name": "绝情谷众",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "绝情谷众",
-        "level": 1
+        "name": "绝情谷众",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "绝情谷众",
-        "level": 1
+        "name": "绝情谷众",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "绝情谷众",
-        "level": 1
+        "name": "绝情谷众",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "绝情谷众",
-        "level": 1
+        "name": "绝情谷众",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "绝情谷众",
-        "level": 1
+        "name": "绝情谷众",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "绝情谷众",
-        "level": 1
+        "name": "绝情谷众",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "绝情谷众",
-        "level": 1
+        "name": "绝情谷众",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "绝情谷众",
-        "level": 1
+        "name": "绝情谷众",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "绝情谷众",
-        "level": 1
+        "name": "绝情谷众",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -2127,54 +2307,72 @@
           "x": 4,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "郭家随从",
-        "level": 0
+        "name": "郭家随从",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 3,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "郭家随从",
-        "level": 0
+        "name": "郭家随从",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "郭家随从",
-        "level": 0
+        "name": "郭家随从",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "郭家随从",
-        "level": 0
+        "name": "郭家随从",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "郭家随从",
-        "level": 0
+        "name": "郭家随从",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "郭家随从",
-        "level": 0
+        "name": "郭家随从",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -2225,54 +2423,72 @@
           "x": 3,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神龙教教众",
-        "level": 2
+        "name": "神龙教教众",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 3,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神龙教教众",
-        "level": 2
+        "name": "神龙教教众",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神龙教教众",
-        "level": 2
+        "name": "神龙教教众",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神龙教教众",
-        "level": 2
+        "name": "神龙教教众",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神龙教教众",
-        "level": 2
+        "name": "神龙教教众",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神龙教教众",
-        "level": 2
+        "name": "神龙教教众",
+        "tier": 2,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -2500,36 +2716,48 @@
           "x": 2,
           "y": 2
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "恶人",
-        "level": 0
+        "name": "恶人",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 2,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "恶人",
-        "level": 0
+        "name": "恶人",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶人",
-        "level": 0
+        "name": "恶人",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶人",
-        "level": 0
+        "name": "恶人",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -2589,63 +2817,84 @@
           "x": 6,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶人",
-        "level": 0
+        "name": "恶人",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶人",
-        "level": 0
+        "name": "恶人",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶人",
-        "level": 0
+        "name": "恶人",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶人",
-        "level": 0
+        "name": "恶人",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶人",
-        "level": 0
+        "name": "恶人",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶人",
-        "level": 0
+        "name": "恶人",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶人",
-        "level": 0
+        "name": "恶人",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -3033,72 +3282,96 @@
           "x": 4,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "王府随从",
-        "level": 0
+        "name": "王府随从",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 4,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "王府随从",
-        "level": 0
+        "name": "王府随从",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "王府随从",
-        "level": 0
+        "name": "王府随从",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "王府随从",
-        "level": 0
+        "name": "王府随从",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "王府随从",
-        "level": 0
+        "name": "王府随从",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "王府随从",
-        "level": 0
+        "name": "王府随从",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "王府随从",
-        "level": 0
+        "name": "王府随从",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 10,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "王府随从",
-        "level": 0
+        "name": "王府随从",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -3198,72 +3471,96 @@
           "x": 4,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大理高手",
-        "level": 1
+        "name": "大理高手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 4,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大理高手",
-        "level": 1
+        "name": "大理高手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大理高手",
-        "level": 1
+        "name": "大理高手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大理高手",
-        "level": 1
+        "name": "大理高手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大理高手",
-        "level": 1
+        "name": "大理高手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大理高手",
-        "level": 1
+        "name": "大理高手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大理高手",
-        "level": 1
+        "name": "大理高手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 10,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大理高手",
-        "level": 1
+        "name": "大理高手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -3357,18 +3654,24 @@
           "x": 2,
           "y": 2
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "见义勇为之士",
-        "level": 1
+        "name": "见义勇为之士",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "见义勇为之士",
-        "level": 1
+        "name": "见义勇为之士",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -3995,7 +4298,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -4644,27 +4947,36 @@
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "精兵铁卫",
-        "level": 1
+        "name": "精兵铁卫",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "精兵铁卫",
-        "level": 1
+        "name": "精兵铁卫",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 1,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "精兵铁卫",
-        "level": 1
+        "name": "精兵铁卫",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -4996,7 +5308,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -5068,7 +5380,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -5078,7 +5390,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 2
+        "partyIndex": 1
       },
       {
         "position": {
@@ -5303,7 +5615,7 @@
         "team": 1,
         "facing": 0,
         "characterId": null,
-        "partyIndex": 2
+        "partyIndex": 1
       },
       {
         "position": {
@@ -7784,7 +8096,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       }
     ],
     "randomParticipants": [
@@ -7793,36 +8105,48 @@
           "x": 2,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "小混混",
-        "level": 0
+        "name": "小混混",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 2,
           "y": 1
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "小混混",
-        "level": 0
+        "name": "小混混",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "小混混",
-        "level": 0
+        "name": "小混混",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "小混混",
-        "level": 0
+        "name": "小混混",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -10724,72 +11048,96 @@
           "x": 8,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "白驼山庄丁",
-        "level": 0
+        "name": "白驼山庄丁",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "白驼山庄丁",
-        "level": 0
+        "name": "白驼山庄丁",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "白驼山庄丁",
-        "level": 0
+        "name": "白驼山庄丁",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "白驼山庄丁",
-        "level": 0
+        "name": "白驼山庄丁",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "白驼山庄丁",
-        "level": 0
+        "name": "白驼山庄丁",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "白驼山庄丁",
-        "level": 0
+        "name": "白驼山庄丁",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "白驼山庄丁",
-        "level": 0
+        "name": "白驼山庄丁",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "白驼山庄丁",
-        "level": 0
+        "name": "白驼山庄丁",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -11171,7 +11519,7 @@
         "team": 1,
         "facing": 0,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 1
       },
       {
         "position": {
@@ -11558,108 +11906,144 @@
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "蒙古杀手",
-        "level": 1
+        "name": "蒙古杀手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "蒙古杀手",
-        "level": 1
+        "name": "蒙古杀手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "蒙古杀手",
-        "level": 1
+        "name": "蒙古杀手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "蒙古杀手",
-        "level": 1
+        "name": "蒙古杀手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "蒙古杀手",
-        "level": 1
+        "name": "蒙古杀手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "蒙古杀手",
-        "level": 1
+        "name": "蒙古杀手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "蒙古杀手",
-        "level": 1
+        "name": "蒙古杀手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "蒙古杀手",
-        "level": 1
+        "name": "蒙古杀手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 10,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "蒙古杀手",
-        "level": 1
+        "name": "蒙古杀手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 10,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "蒙古杀手",
-        "level": 1
+        "name": "蒙古杀手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 10,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "蒙古杀手",
-        "level": 1
+        "name": "蒙古杀手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 10,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "蒙古杀手",
-        "level": 1
+        "name": "蒙古杀手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -12014,90 +12398,120 @@
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "山庄保镖",
-        "level": 0
+        "name": "山庄保镖",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "山庄保镖",
-        "level": 0
+        "name": "山庄保镖",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "山庄保镖",
-        "level": 0
+        "name": "山庄保镖",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "山庄保镖",
-        "level": 0
+        "name": "山庄保镖",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "山庄保镖",
-        "level": 0
+        "name": "山庄保镖",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "山庄保镖",
-        "level": 0
+        "name": "山庄保镖",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "山庄保镖",
-        "level": 0
+        "name": "山庄保镖",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "山庄保镖",
-        "level": 0
+        "name": "山庄保镖",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "山庄保镖",
-        "level": 0
+        "name": "山庄保镖",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "山庄保镖",
-        "level": 0
+        "name": "山庄保镖",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -12157,63 +12571,84 @@
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖大盗",
-        "level": 2
+        "name": "江湖大盗",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖大盗",
-        "level": 2
+        "name": "江湖大盗",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖大盗",
-        "level": 2
+        "name": "江湖大盗",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖大盗",
-        "level": 2
+        "name": "江湖大盗",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖大盗",
-        "level": 2
+        "name": "江湖大盗",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖高手",
-        "level": 3
+        "name": "江湖高手",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖高手",
-        "level": 3
+        "name": "江湖高手",
+        "tier": 3,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -12732,72 +13167,96 @@
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": null,
-        "level": 0
+        "name": null,
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": null,
-        "level": 0
+        "name": null,
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": null,
-        "level": 0
+        "name": null,
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": null,
-        "level": 0
+        "name": null,
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 4,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": null,
-        "level": 0
+        "name": null,
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 4,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": null,
-        "level": 0
+        "name": null,
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 4,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": null,
-        "level": 0
+        "name": null,
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 4,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": null,
-        "level": 0
+        "name": null,
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -13083,54 +13542,72 @@
           "x": 9,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林群豪",
-        "level": 3
+        "name": "武林群豪",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林群豪",
-        "level": 3
+        "name": "武林群豪",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林群豪",
-        "level": 3
+        "name": "武林群豪",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林群豪",
-        "level": 3
+        "name": "武林群豪",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 10,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林群豪",
-        "level": 3
+        "name": "武林群豪",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 10,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林群豪",
-        "level": 3
+        "name": "武林群豪",
+        "tier": 3,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -13540,72 +14017,96 @@
           "x": 1,
           "y": 1
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "庄客",
-        "level": 1
+        "name": "庄客",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 1,
           "y": 2
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "庄客",
-        "level": 1
+        "name": "庄客",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 1,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "庄客",
-        "level": 1
+        "name": "庄客",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 3,
           "y": 0
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "庄客",
-        "level": 1
+        "name": "庄客",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 3,
           "y": 2
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "庄客",
-        "level": 1
+        "name": "庄客",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 3,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "庄客",
-        "level": 1
+        "name": "庄客",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 4,
           "y": 0
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "庄客",
-        "level": 1
+        "name": "庄客",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 4,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "庄客",
-        "level": 1
+        "name": "庄客",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -13688,90 +14189,120 @@
           "x": 6,
           "y": 0
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "江湖豪杰",
-        "level": 2
+        "name": "江湖豪杰",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "江湖豪杰",
-        "level": 2
+        "name": "江湖豪杰",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "江湖豪杰",
-        "level": 2
+        "name": "江湖豪杰",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 2
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "江湖豪杰",
-        "level": 2
+        "name": "江湖豪杰",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖豪杰",
-        "level": 2
+        "name": "江湖豪杰",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖豪杰",
-        "level": 2
+        "name": "江湖豪杰",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖豪杰",
-        "level": 2
+        "name": "江湖豪杰",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖豪杰",
-        "level": 2
+        "name": "江湖豪杰",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖豪杰",
-        "level": 2
+        "name": "江湖豪杰",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖豪杰",
-        "level": 2
+        "name": "江湖豪杰",
+        "tier": 2,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -13935,90 +14466,120 @@
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -14068,90 +14629,120 @@
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 0
+        "name": "江湖流氓",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -14259,7 +14850,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 2
+        "partyIndex": 3
       },
       {
         "position": {
@@ -14537,54 +15128,72 @@
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "何红药帮手",
-        "level": 1
+        "name": "何红药帮手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "何红药帮手",
-        "level": 1
+        "name": "何红药帮手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "何红药帮手",
-        "level": 1
+        "name": "何红药帮手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "何红药帮手",
-        "level": 1
+        "name": "何红药帮手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 3,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "何红药帮手",
-        "level": 1
+        "name": "何红药帮手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 3,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "何红药帮手",
-        "level": 1
+        "name": "何红药帮手",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -16010,7 +16619,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 1
       },
       {
         "position": {
@@ -17167,81 +17776,108 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -17299,81 +17935,108 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "正义伙伴",
-        "level": 2
+        "name": "正义伙伴",
+        "tier": 2,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -17395,7 +18058,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 1
+        "partyIndex": 0
       },
       {
         "position": {
@@ -17405,7 +18068,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 1
       },
       {
         "position": {
@@ -17456,54 +18119,72 @@
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 0
+        "name": "武林败类",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 0
+        "name": "武林败类",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 0
+        "name": "武林败类",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 0
+        "name": "武林败类",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 0
+        "name": "武林败类",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 0
+        "name": "武林败类",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -17595,45 +18276,60 @@
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 0
+        "name": "武林败类",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 0
+        "name": "武林败类",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 0
+        "name": "武林败类",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 0
+        "name": "武林败类",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 0
+        "name": "武林败类",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -17736,54 +18432,72 @@
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶徒",
-        "level": 1
+        "name": "恶徒",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶徒",
-        "level": 1
+        "name": "恶徒",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶徒",
-        "level": 1
+        "name": "恶徒",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶徒",
-        "level": 1
+        "name": "恶徒",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶徒",
-        "level": 1
+        "name": "恶徒",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶徒",
-        "level": 1
+        "name": "恶徒",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -17833,27 +18547,36 @@
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "哈萨克勇士",
-        "level": 1
+        "name": "哈萨克勇士",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "哈萨克勇士",
-        "level": 1
+        "name": "哈萨克勇士",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "哈萨克勇士",
-        "level": 1
+        "name": "哈萨克勇士",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -17893,50 +18616,60 @@
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷走狗",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷走狗",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷走狗",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷走狗",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷走狗",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷走狗",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷走狗",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷走狗",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷走狗",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷走狗",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       }
     ]
   },
@@ -17996,120 +18729,144 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 10,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       }
     ]
   },
@@ -18171,120 +18928,144 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 10,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "朝廷鹰犬",
-        "level": 1,
-        "animation": "shibing"
+        "name": "朝廷鹰犬",
+        "tier": 1,
+        "model": "shibing",
+        "boss": false
       }
     ]
   },
@@ -18335,36 +19116,48 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "鳌拜爪牙",
-        "level": 1
+        "name": "鳌拜爪牙",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "鳌拜爪牙",
-        "level": 1
+        "name": "鳌拜爪牙",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "鳌拜爪牙",
-        "level": 1
+        "name": "鳌拜爪牙",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "鳌拜爪牙",
-        "level": 1
+        "name": "鳌拜爪牙",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -18425,36 +19218,48 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "太后爪牙",
-        "level": 1
+        "name": "太后爪牙",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "太后爪牙",
-        "level": 1
+        "name": "太后爪牙",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "太后爪牙",
-        "level": 1
+        "name": "太后爪牙",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "太后爪牙",
-        "level": 1
+        "name": "太后爪牙",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -18535,36 +19340,48 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "太后爪牙",
-        "level": 1
+        "name": "太后爪牙",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "太后爪牙",
-        "level": 1
+        "name": "太后爪牙",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "太后爪牙",
-        "level": 1
+        "name": "太后爪牙",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "太后爪牙",
-        "level": 1
+        "name": "太后爪牙",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -18668,54 +19485,72 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "吴府打手",
-        "level": 2
+        "name": "吴府打手",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "吴府打手",
-        "level": 2
+        "name": "吴府打手",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "吴府打手",
-        "level": 2
+        "name": "吴府打手",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "吴府打手",
-        "level": 2
+        "name": "吴府打手",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "吴府打手",
-        "level": 2
+        "name": "吴府打手",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "吴府打手",
-        "level": 2
+        "name": "吴府打手",
+        "tier": 2,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -18775,54 +19610,72 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 0
+        "name": "马贼",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 0
+        "name": "马贼",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 0
+        "name": "马贼",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 0
+        "name": "马贼",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 0
+        "name": "马贼",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 0
+        "name": "马贼",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -18862,54 +19715,72 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -18949,54 +19820,72 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 2
+        "name": "马贼",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 2
+        "name": "马贼",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 2
+        "name": "马贼",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 2
+        "name": "马贼",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 2
+        "name": "马贼",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 2
+        "name": "马贼",
+        "tier": 2,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -19036,54 +19925,72 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 3
+        "name": "马贼",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 3
+        "name": "马贼",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 3
+        "name": "马贼",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 3
+        "name": "马贼",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 3
+        "name": "马贼",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 3
+        "name": "马贼",
+        "tier": 3,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -19141,54 +20048,72 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 0
+        "name": "剪径强盗",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 0
+        "name": "剪径强盗",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 0
+        "name": "剪径强盗",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 0
+        "name": "剪径强盗",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 0
+        "name": "剪径强盗",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 0
+        "name": "剪径强盗",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -19226,54 +20151,72 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 1
+        "name": "剪径强盗",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 1
+        "name": "剪径强盗",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 1
+        "name": "剪径强盗",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 1
+        "name": "剪径强盗",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 1
+        "name": "剪径强盗",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 1
+        "name": "剪径强盗",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -19311,54 +20254,72 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 2
+        "name": "剪径强盗",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 2
+        "name": "剪径强盗",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 2
+        "name": "剪径强盗",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 2
+        "name": "剪径强盗",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 2
+        "name": "剪径强盗",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 2
+        "name": "剪径强盗",
+        "tier": 2,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -19396,54 +20357,72 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 3
+        "name": "剪径强盗",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 3
+        "name": "剪径强盗",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 3
+        "name": "剪径强盗",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 3
+        "name": "剪径强盗",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 3
+        "name": "剪径强盗",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "剪径强盗",
-        "level": 3
+        "name": "剪径强盗",
+        "tier": 3,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -19501,54 +20480,72 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 0
+        "name": "土匪",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 0
+        "name": "土匪",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 0
+        "name": "土匪",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 0
+        "name": "土匪",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 0
+        "name": "土匪",
+        "tier": 0,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 0
+        "name": "土匪",
+        "tier": 0,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -19606,54 +20603,72 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 1
+        "name": "土匪",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 1
+        "name": "土匪",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 1
+        "name": "土匪",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 1
+        "name": "土匪",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 1
+        "name": "土匪",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 1
+        "name": "土匪",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -19711,54 +20726,72 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 2
+        "name": "土匪",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 2
+        "name": "土匪",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 2
+        "name": "土匪",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 2
+        "name": "土匪",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 2
+        "name": "土匪",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 2
+        "name": "土匪",
+        "tier": 2,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -19816,54 +20849,72 @@
           "x": 5,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 3
+        "name": "土匪",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 3
+        "name": "土匪",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 3
+        "name": "土匪",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 3
+        "name": "土匪",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 3
+        "name": "土匪",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "土匪",
-        "level": 3
+        "name": "土匪",
+        "tier": 3,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -20403,45 +21454,60 @@
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶棍",
-        "level": 1
+        "name": "恶棍",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "恶棍",
-        "level": 1
+        "name": "恶棍",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 3,
           "y": 1
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "恶棍",
-        "level": 1
+        "name": "恶棍",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 3,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "恶棍",
-        "level": 1
+        "name": "恶棍",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 1,
           "y": 2
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "恶棍",
-        "level": 1
+        "name": "恶棍",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -22792,7 +23858,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 1
       },
       {
         "position": {
@@ -22802,7 +23868,7 @@
         "team": 1,
         "facing": 1,
         "characterId": null,
-        "partyIndex": 0
+        "partyIndex": 2
       },
       {
         "position": {
@@ -23156,54 +24222,72 @@
           "x": 8,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "郑王府打手",
-        "level": 2
+        "name": "郑王府打手",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "郑王府打手",
-        "level": 2
+        "name": "郑王府打手",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "郑王府打手",
-        "level": 2
+        "name": "郑王府打手",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "郑王府打手",
-        "level": 2
+        "name": "郑王府打手",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "郑王府打手",
-        "level": 2
+        "name": "郑王府打手",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "郑王府打手",
-        "level": 2
+        "name": "郑王府打手",
+        "tier": 2,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -23276,80 +24360,96 @@
           "x": 6,
           "y": 0
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "大内绝顶高手",
-        "level": 3,
-        "animation": "guanyuan2"
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": "guanyuan2",
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "大内绝顶高手",
-        "level": 3,
-        "animation": "guanyuan2"
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": "guanyuan2",
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大内绝顶高手",
-        "level": 3,
-        "animation": "guanyuan2"
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": "guanyuan2",
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大内绝顶高手",
-        "level": 3,
-        "animation": "guanyuan2"
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": "guanyuan2",
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大内绝顶高手",
-        "level": 3,
-        "animation": "guanyuan2"
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": "guanyuan2",
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大内绝顶高手",
-        "level": 3,
-        "animation": "guanyuan2"
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": "guanyuan2",
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大内绝顶高手",
-        "level": 3,
-        "animation": "guanyuan2"
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": "guanyuan2",
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大内绝顶高手",
-        "level": 3,
-        "animation": "guanyuan2"
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": "guanyuan2",
+        "boss": false
       }
     ]
   },
@@ -23389,27 +24489,36 @@
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -23703,36 +24812,48 @@
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 2
+        "name": "武林败类",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 2
+        "name": "武林败类",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 2
+        "name": "武林败类",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "武林败类",
-        "level": 2
+        "name": "武林败类",
+        "tier": 2,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -23836,36 +24957,48 @@
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "中原义士",
-        "level": 2
+        "name": "中原义士",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "中原义士",
-        "level": 2
+        "name": "中原义士",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "中原义士",
-        "level": 2
+        "name": "中原义士",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "中原义士",
-        "level": 2
+        "name": "中原义士",
+        "tier": 2,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -24017,36 +25150,48 @@
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -24086,36 +25231,48 @@
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 9,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "马贼",
-        "level": 1
+        "name": "马贼",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -24175,9 +25332,11 @@
           "x": 10,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       },
       {
@@ -24185,9 +25344,11 @@
           "x": 10,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       },
       {
@@ -24195,9 +25356,11 @@
           "x": 10,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       }
     ]
@@ -24246,9 +25409,11 @@
           "x": 10,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       },
       {
@@ -24256,9 +25421,11 @@
           "x": 10,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       },
       {
@@ -24266,9 +25433,11 @@
           "x": 10,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       }
     ]
@@ -24442,72 +25611,96 @@
           "x": 0,
           "y": 0
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "雪山派门徒",
-        "level": 2
+        "name": "雪山派门徒",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 0,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "雪山派门徒",
-        "level": 2
+        "name": "雪山派门徒",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 1,
           "y": 1
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "雪山派门徒",
-        "level": 2
+        "name": "雪山派门徒",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 1,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "雪山派门徒",
-        "level": 2
+        "name": "雪山派门徒",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "雪山派门徒",
-        "level": 2
+        "name": "雪山派门徒",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "雪山派门徒",
-        "level": 2
+        "name": "雪山派门徒",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "雪山派门徒",
-        "level": 2
+        "name": "雪山派门徒",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "雪山派门徒",
-        "level": 2
+        "name": "雪山派门徒",
+        "tier": 2,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -24997,36 +26190,48 @@
           "x": 4,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 4,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -25066,72 +26271,96 @@
           "x": 4,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 4,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 5,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "江湖流氓",
-        "level": 1
+        "name": "江湖流氓",
+        "tier": 1,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -26651,72 +27880,96 @@
           "x": 6,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大内绝顶高手",
-        "level": 3
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大内绝顶高手",
-        "level": 3
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大内绝顶高手",
-        "level": 3
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大内绝顶高手",
-        "level": 3
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大内绝顶高手",
-        "level": 3
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大内绝顶高手",
-        "level": 3
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大内绝顶高手",
-        "level": 3
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "大内绝顶高手",
-        "level": 3
+        "name": "大内绝顶高手",
+        "tier": 3,
+        "model": null,
+        "boss": false
       }
     ]
   },
@@ -27009,9 +28262,11 @@
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘高手",
-        "level": 3,
+        "name": "神秘高手",
+        "tier": 3,
+        "model": null,
         "boss": true
       }
     ]
@@ -27140,9 +28395,11 @@
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘超级高手",
-        "level": 4,
+        "name": "神秘超级高手",
+        "tier": 4,
+        "model": null,
         "boss": true
       },
       {
@@ -27150,9 +28407,11 @@
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘超级高手",
-        "level": 4,
+        "name": "神秘超级高手",
+        "tier": 4,
+        "model": null,
         "boss": true
       }
     ]
@@ -27211,9 +28470,11 @@
           "x": 8,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       },
       {
@@ -27221,9 +28482,11 @@
           "x": 8,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       }
     ]
@@ -27272,9 +28535,11 @@
           "x": 9,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       }
     ]
@@ -27323,9 +28588,11 @@
           "x": 9,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       },
       {
@@ -27333,9 +28600,11 @@
           "x": 10,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       },
       {
@@ -27343,9 +28612,11 @@
           "x": 9,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       }
     ]
@@ -27374,9 +28645,11 @@
           "x": 8,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       }
     ]
@@ -27405,9 +28678,11 @@
           "x": 0,
           "y": 0
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       },
       {
@@ -27415,9 +28690,11 @@
           "x": 0,
           "y": 3
         },
+        "team": 2,
         "facing": 1,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       },
       {
@@ -27425,9 +28702,11 @@
           "x": 10,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       },
       {
@@ -27435,9 +28714,11 @@
           "x": 10,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "神秘绝顶高手",
-        "level": 5,
+        "name": "神秘绝顶高手",
+        "tier": 5,
+        "model": null,
         "boss": true
       }
     ]
@@ -27898,72 +29179,96 @@
           "x": 6,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "星宿派弟子",
-        "level": 2
+        "name": "星宿派弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "星宿派弟子",
-        "level": 2
+        "name": "星宿派弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "星宿派弟子",
-        "level": 2
+        "name": "星宿派弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 6,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "星宿派弟子",
-        "level": 2
+        "name": "星宿派弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 0
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "星宿派弟子",
-        "level": 2
+        "name": "星宿派弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 1
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "星宿派弟子",
-        "level": 2
+        "name": "星宿派弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 3
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "星宿派弟子",
-        "level": 2
+        "name": "星宿派弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       },
       {
         "position": {
           "x": 7,
           "y": 2
         },
+        "team": 2,
         "facing": 0,
-        "characterId": "星宿派弟子",
-        "level": 2
+        "name": "星宿派弟子",
+        "tier": 2,
+        "model": null,
+        "boss": false
       }
     ]
   },
