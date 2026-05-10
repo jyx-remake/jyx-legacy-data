@@ -1,0 +1,408 @@
+[
+  {
+    "minItemLevel": 1,
+    "maxItemLevel": 3,
+    "options": [
+      {
+        "kind": "attack_combo",
+        "weight": 30
+      },
+      {
+        "kind": "defence_combo",
+        "weight": 30,
+        "ranges": [
+          {
+            "min": 3,
+            "max": 10
+          },
+          {
+            "min": 0,
+            "max": 5
+          }
+        ]
+      },
+      {
+        "kind": "random_attribute",
+        "weight": 100
+      },
+      {
+        "kind": "talent",
+        "weight": 20,
+        "pool": [
+          "暴躁",
+          "老江湖",
+          "左手剑",
+          "神兵",
+          "宝甲",
+          "鲁莽",
+          "锐眼"
+        ]
+      },
+      {
+        "kind": "accuracy",
+        "weight": 10,
+        "ranges": [
+          {
+            "min": 5,
+            "max": 10
+          }
+        ]
+      },
+      {
+        "kind": "external_skill_bonus",
+        "weight": 20
+      },
+      {
+        "kind": "internal_skill_bonus",
+        "weight": 20
+      },
+      {
+        "kind": "form_skill_bonus",
+        "weight": 20
+      }
+    ]
+  },
+  {
+    "minItemLevel": 4,
+    "maxItemLevel": 5,
+    "options": [
+      {
+        "kind": "crit_chance",
+        "weight": 10
+      },
+      {
+        "kind": "attack_combo",
+        "weight": 30,
+        "ranges": [
+          {
+            "min": 8,
+            "max": 15
+          },
+          {
+            "min": 0,
+            "max": 5
+          }
+        ]
+      },
+      {
+        "kind": "defence_combo",
+        "weight": 30,
+        "ranges": [
+          {
+            "min": 8,
+            "max": 15
+          },
+          {
+            "min": 0,
+            "max": 5
+          }
+        ]
+      },
+      {
+        "kind": "random_attribute",
+        "weight": 100
+      },
+      {
+        "kind": "talent",
+        "weight": 20,
+        "pool": [
+          "暴躁",
+          "老江湖",
+          "左手剑",
+          "神兵",
+          "宝甲",
+          "鲁莽",
+          "锐眼"
+        ]
+      },
+      {
+        "kind": "lifesteal",
+        "weight": 20,
+        "ranges": [
+          {
+            "min": 1,
+            "max": 3
+          }
+        ]
+      },
+      {
+        "kind": "crit_mult",
+        "weight": 20,
+        "ranges": [
+          {
+            "min": 1,
+            "max": 5
+          }
+        ]
+      },
+      {
+        "kind": "weapon_bonus",
+        "weight": 5,
+        "weaponType": "quanzhang",
+        "ranges": [
+          {
+            "min": 3,
+            "max": 5
+          }
+        ]
+      },
+      {
+        "kind": "weapon_bonus",
+        "weight": 5,
+        "weaponType": "jianfa",
+        "ranges": [
+          {
+            "min": 3,
+            "max": 5
+          }
+        ]
+      },
+      {
+        "kind": "weapon_bonus",
+        "weight": 5,
+        "weaponType": "daofa",
+        "ranges": [
+          {
+            "min": 3,
+            "max": 5
+          }
+        ]
+      },
+      {
+        "kind": "weapon_bonus",
+        "weight": 5,
+        "weaponType": "qimen",
+        "ranges": [
+          {
+            "min": 3,
+            "max": 5
+          }
+        ]
+      },
+      {
+        "kind": "legend_skill_bonus",
+        "weight": 100
+      },
+      {
+        "kind": "accuracy",
+        "weight": 20,
+        "ranges": [
+          {
+            "min": 7,
+            "max": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "minItemLevel": 6,
+    "maxItemLevel": 7,
+    "options": [
+      {
+        "kind": "crit_chance",
+        "weight": 10
+      },
+      {
+        "kind": "attack_combo",
+        "weight": 30
+      },
+      {
+        "kind": "defence_combo",
+        "weight": 30,
+        "ranges": [
+          {
+            "min": 10,
+            "max": 30
+          },
+          {
+            "min": 3,
+            "max": 10
+          }
+        ]
+      },
+      {
+        "kind": "random_attribute",
+        "weight": 100
+      },
+      {
+        "kind": "talent",
+        "weight": 50,
+        "pool": [
+          "心眼通明",
+          "拳掌增益",
+          "剑法增益",
+          "刀法增益",
+          "奇门增益",
+          "奋战",
+          "真气护体"
+        ]
+      },
+      {
+        "kind": "lifesteal",
+        "weight": 20,
+        "ranges": [
+          {
+            "min": 1,
+            "max": 5
+          }
+        ]
+      },
+      {
+        "kind": "crit_mult",
+        "weight": 20,
+        "ranges": [
+          {
+            "min": 5,
+            "max": 10
+          }
+        ]
+      },
+      {
+        "kind": "accuracy",
+        "weight": 20,
+        "ranges": [
+          {
+            "min": 5,
+            "max": 15
+          }
+        ]
+      },
+      {
+        "kind": "weapon_bonus",
+        "weight": 5,
+        "weaponType": "quanzhang",
+        "ranges": [
+          {
+            "min": 3,
+            "max": 10
+          }
+        ]
+      },
+      {
+        "kind": "weapon_bonus",
+        "weight": 5,
+        "weaponType": "jianfa",
+        "ranges": [
+          {
+            "min": 3,
+            "max": 10
+          }
+        ]
+      },
+      {
+        "kind": "weapon_bonus",
+        "weight": 5,
+        "weaponType": "daofa",
+        "ranges": [
+          {
+            "min": 3,
+            "max": 10
+          }
+        ]
+      },
+      {
+        "kind": "weapon_bonus",
+        "weight": 5,
+        "weaponType": "qimen",
+        "ranges": [
+          {
+            "min": 3,
+            "max": 10
+          }
+        ]
+      },
+      {
+        "kind": "legend_skill_bonus",
+        "weight": 20
+      },
+      {
+        "kind": "external_skill_bonus",
+        "weight": 20
+      },
+      {
+        "kind": "internal_skill_bonus",
+        "weight": 20
+      },
+      {
+        "kind": "form_skill_bonus",
+        "weight": 20
+      },
+      {
+        "kind": "speed",
+        "weight": 20,
+        "pool": [
+          "0.1",
+          "0.15"
+        ]
+      },
+      {
+        "kind": "anti_debuff",
+        "weight": 20,
+        "ranges": [
+          {
+            "min": 3,
+            "max": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "minItemLevel": 7,
+    "maxItemLevel": 7,
+    "options": [
+      {
+        "kind": "legend_skill_bonus",
+        "weight": 100
+      },
+      {
+        "kind": "external_skill_bonus",
+        "weight": 20
+      },
+      {
+        "kind": "internal_skill_bonus",
+        "weight": 20
+      },
+      {
+        "kind": "form_skill_bonus",
+        "weight": 20
+      },
+      {
+        "kind": "crit_chance",
+        "weight": 10
+      },
+      {
+        "kind": "lifesteal",
+        "weight": 20,
+        "ranges": [
+          {
+            "min": 2,
+            "max": 6
+          }
+        ]
+      },
+      {
+        "kind": "speed",
+        "weight": 20,
+        "pool": [
+          "0.1",
+          "0.15",
+          "0.2",
+          "0.25",
+          "0.3"
+        ]
+      },
+      {
+        "kind": "anti_debuff",
+        "weight": 20,
+        "ranges": [
+          {
+            "min": 5,
+            "max": 12
+          }
+        ]
+      }
+    ]
+  }
+]
