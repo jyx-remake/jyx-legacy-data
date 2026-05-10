@@ -80,6 +80,17 @@ def parse_cover_type(value: str | None) -> str | None:
         return None
     return COVER_TYPE_MAP.get(int(value), value)
 
+
+def adjust_impact_size(impact_type: str | None, impact_size: int | None) -> int | None:
+    if impact_size is None:
+        return None
+
+    if impact_type in {"line", "x"}:
+        return impact_size + 1
+
+    return impact_size
+
+
 def parse_buffs(value: str | None) -> list[dict[str, object]]:
     text = parse_optional_text(value)
     if text is None:
@@ -113,11 +124,17 @@ def parse_buffs(value: str | None) -> list[dict[str, object]]:
     return buffs
 
 def build_targeting(node: ET.Element) -> dict[str, object] | None:
+    impact_type = parse_cover_type(node.get("covertype"))
+    impact_size = adjust_impact_size(
+        impact_type,
+        parse_optional_int(node.get("coversize")),
+    )
+
     targeting: dict[str, object] = {
         "castType": None,
         "castSize": parse_optional_int(node.get("castsize")),
-        "impactType": parse_cover_type(node.get("covertype")),
-        "impactSize": parse_optional_int(node.get("coversize")),
+        "impactType": impact_type,
+        "impactSize": impact_size,
     }
     return None if all(value is None for value in targeting.values()) else targeting
 

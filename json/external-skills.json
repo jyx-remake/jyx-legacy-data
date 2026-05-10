@@ -34,7 +34,7 @@
           "castType": null,
           "castSize": 1,
           "impactType": "line",
-          "impactSize": 3
+          "impactSize": 4
         }
       }
     ],
@@ -5752,7 +5752,7 @@
           "castType": null,
           "castSize": 1,
           "impactType": "line",
-          "impactSize": 3
+          "impactSize": 4
         }
       }
     ],
@@ -5834,7 +5834,7 @@
           "castType": null,
           "castSize": 5,
           "impactType": "line",
-          "impactSize": 4
+          "impactSize": 5
         }
       }
     ],
@@ -8197,7 +8197,7 @@
           "castType": null,
           "castSize": 1,
           "impactType": "line",
-          "impactSize": 2
+          "impactSize": 3
         }
       }
     ],
@@ -9496,7 +9496,7 @@
           "castType": null,
           "castSize": 1,
           "impactType": "line",
-          "impactSize": 3
+          "impactSize": 4
         }
       },
       {
@@ -10376,7 +10376,7 @@
           "castType": null,
           "castSize": 1,
           "impactType": "line",
-          "impactSize": 4
+          "impactSize": 5
         }
       },
       {
@@ -11529,7 +11529,7 @@
           "castType": null,
           "castSize": null,
           "impactType": "line",
-          "impactSize": 4
+          "impactSize": 5
         }
       },
       {
@@ -11541,7 +11541,7 @@
           "castType": null,
           "castSize": null,
           "impactType": "line",
-          "impactSize": 4
+          "impactSize": 5
         }
       },
       {
@@ -11553,7 +11553,7 @@
           "castType": null,
           "castSize": null,
           "impactType": "line",
-          "impactSize": 4
+          "impactSize": 5
         }
       },
       {
@@ -11565,7 +11565,7 @@
           "castType": null,
           "castSize": null,
           "impactType": "line",
-          "impactSize": 4
+          "impactSize": 5
         }
       },
       {
@@ -11577,7 +11577,7 @@
           "castType": null,
           "castSize": null,
           "impactType": "line",
-          "impactSize": 4
+          "impactSize": 5
         }
       },
       {
@@ -11589,7 +11589,7 @@
           "castType": null,
           "castSize": null,
           "impactType": "line",
-          "impactSize": 4
+          "impactSize": 5
         }
       },
       {
@@ -11601,7 +11601,7 @@
           "castType": null,
           "castSize": null,
           "impactType": "line",
-          "impactSize": 4
+          "impactSize": 5
         }
       },
       {
@@ -11613,7 +11613,7 @@
           "castType": null,
           "castSize": null,
           "impactType": "line",
-          "impactSize": 4
+          "impactSize": 5
         }
       },
       {
@@ -11625,7 +11625,7 @@
           "castType": null,
           "castSize": null,
           "impactType": "line",
-          "impactSize": 4
+          "impactSize": 5
         }
       },
       {
@@ -11637,7 +11637,7 @@
           "castType": null,
           "castSize": null,
           "impactType": "line",
-          "impactSize": 4
+          "impactSize": 5
         }
       },
       {
@@ -11649,7 +11649,7 @@
           "castType": null,
           "castSize": null,
           "impactType": "line",
-          "impactSize": 4
+          "impactSize": 5
         }
       }
     ],
@@ -12108,7 +12108,7 @@
     "cooldown": 0,
     "powerBase": 6.0,
     "powerStep": 0.7,
-    "animation": "test",
+    "animation": "jianqi",
     "audio": "音效.威猛利器2",
     "buffs": [
       {
@@ -12616,7 +12616,7 @@
           "castType": null,
           "castSize": 1,
           "impactType": "line",
-          "impactSize": 3
+          "impactSize": 4
         }
       },
       {

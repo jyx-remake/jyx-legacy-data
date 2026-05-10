@@ -67,6 +67,14 @@ def parse_cover_type(value: str | None) -> str | None:
         return None
     return COVER_TYPE_MAP.get(int(value), value)
 
+
+def adjust_impact_size(impact_type: str | None, impact_size: int) -> int:
+    if impact_type in {"line", "x"}:
+        return impact_size + 1
+
+    return impact_size
+
+
 def parse_buffs(value: str | None) -> list[dict[str, object]]:
     text = parse_optional_text(value)
     if text is None:
@@ -105,6 +113,12 @@ def build_form_skill(unique: ET.Element) -> dict[str, object]:
     if form_id is None:
         raise ValueError("unique entry is missing name.")
 
+    impact_type = parse_cover_type(unique.get("covertype"))
+    impact_size = adjust_impact_size(
+        impact_type,
+        parse_int(unique.get("coversize")),
+    )
+
     return {
         "id": form_id,
         "name": form_id,
@@ -116,8 +130,8 @@ def build_form_skill(unique: ET.Element) -> dict[str, object]:
         "targeting": {
             "castType": None,
             "castSize": parse_int(unique.get("castsize")),
-            "impactType": parse_cover_type(unique.get("covertype")),
-            "impactSize": parse_int(unique.get("coversize")),
+            "impactType": impact_type,
+            "impactSize": impact_size,
         },
         "powerExtra": parse_float(unique.get("poweradd")),
         "animation": parse_optional_text(unique.get("animation")),

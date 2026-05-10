@@ -60,6 +60,13 @@ def parse_cover_type(value: str | None) -> str | None:
     return COVER_TYPE_MAP.get(int(value), value)
 
 
+def adjust_impact_size(impact_type: str | None, impact_size: int) -> int:
+    if impact_type in {"line", "x"}:
+        return impact_size + 1
+
+    return impact_size
+
+
 def parse_buffs(value: str | None) -> list[dict[str, object]]:
     text = parse_optional_text(value)
     if text is None:
@@ -92,6 +99,12 @@ def parse_buffs(value: str | None) -> list[dict[str, object]]:
 
 
 def build_skill(skill: ET.Element) -> dict[str, object]:
+    impact_type = parse_cover_type(skill.get("covertype"))
+    impact_size = adjust_impact_size(
+        impact_type,
+        parse_int(skill.get("coversize")),
+    )
+
     return {
         "id": skill.get("name"),
         "name": skill.get("name"),
@@ -106,8 +119,8 @@ def build_skill(skill: ET.Element) -> dict[str, object]:
             "canTargetSelf": skill.get("hitself") == "1",
             "castType": None,
             "castSize": parse_int(skill.get("castsize")),
-            "impactType": parse_cover_type(skill.get("covertype")),
-            "impactSize": parse_int(skill.get("coversize")),
+            "impactType": impact_type,
+            "impactSize": impact_size,
         },
         "animation": parse_optional_text(skill.get("animation")),
         "audio": parse_optional_text(skill.get("audio")),
