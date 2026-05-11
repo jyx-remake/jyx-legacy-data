@@ -882,7 +882,7 @@
     <unique castsize="3" name="降龙十八掌.亢龙有悔" costball="4" icon="icon-kanglongyouhui" coversize="3" hard="11" info="刚猛无匹的亢龙有悔" cd="3" poweradd="4" covertype="1" animation="long3" audio="音效.龙吼" requirelv="5" buff="内伤.3.2.100#诸般封印.0.1.100" />
     <unique castsize="3" name="降龙十八掌.飞龙在天" costball="6" icon="icon-feilongzaitian" coversize="2" hard="11" info="至刚至烈的一式" cd="5" poweradd="5" covertype="2" animation="long3" audio="音效.龙吼" requirelv="10" buff="内伤.3.2.100#晕眩.0.1.100" />
   </skill>
-  <skill tiaohe="1" type="1" step="0.7" name="独孤九剑" icon="icon_waigong_151" hard="11" info="独孤求败纵横天下的无敌剑法" suit="0" cd="0" animation="test" audio="音效.威猛利器2" buff="集气.2" basepower="6">
+  <skill tiaohe="1" type="1" step="0.7" name="独孤九剑" icon="icon_waigong_151" hard="11" info="独孤求败纵横天下的无敌剑法" suit="0" cd="0" animation="jianqi" audio="音效.威猛利器2" buff="集气.2" basepower="6">
     <unique castsize="0" name="独孤九剑.破剑式" costball="4" icon="icon-pojianshi" coversize="2" hard="10" info="独孤九剑破剑式" cd="6" poweradd="4" covertype="1" animation="light" audio="音效.威猛利器2" requirelv="4" buff="剑封印.0.4.100" />
     <unique castsize="0" name="独孤九剑.破刀式" costball="4" icon="icon-podaoshi" coversize="2" hard="10" info="独孤九剑破刀式" cd="6" poweradd="4" covertype="1" animation="jian_zhan" audio="音效.威猛利器2" requirelv="4" buff="刀封印.0.4.100" />
     <unique castsize="0" name="独孤九剑.破掌式" costball="4" icon="icon-pozhangshi" coversize="2" hard="10" info="独孤九剑破掌式" cd="6" poweradd="4" covertype="1" animation="bagua" audio="音效.威猛利器2" requirelv="4" buff="拳掌封印.0.4.100" />
